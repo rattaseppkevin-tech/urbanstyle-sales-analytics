@@ -42,3 +42,19 @@
 2026-05-29 17:51:25,657 - INFO - HTTP Request: GET https://cwgauehigbgiowmvgwcx.supabase.co/rest/v1/products?select=product_id%2Ccost_price%2Cproduct_name%2Ccategory "HTTP/2 200 OK"
 2026-05-29 17:51:25,662 - INFO - Merging data and calculating metrics...
 2026-05-29 17:51:25,680 - INFO - Pipeline completed successfully! File saved at: data/urbanstyle_final_data.csv
+2026-05-29 19:22:16,610 - INFO - Connection to Supabase established.
+2026-05-29 19:22:16,611 - INFO - Fetching all data from tables...
+2026-05-29 19:22:19,007 - INFO - HTTP Request: GET https://cwgauehigbgiowmvgwcx.supabase.co/rest/v1/sales?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+2026-05-29 19:22:19,544 - INFO - HTTP Request: GET https://cwgauehigbgiowmvgwcx.supabase.co/rest/v1/sales?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+2026-05-29 19:22:19,788 - INFO - HTTP Request: GET https://cwgauehigbgiowmvgwcx.supabase.co/rest/v1/sales?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+2026-05-29 19:22:20,137 - INFO - HTTP Request: GET https://cwgauehigbgiowmvgwcx.supabase.co/rest/v1/sales?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+2026-05-29 19:22:20,343 - INFO - HTTP Request: GET https://cwgauehigbgiowmvgwcx.supabase.co/rest/v1/sales?select=%2A&offset=4000&limit=1000 "HTTP/2 200 OK"
+2026-05-29 19:22:20,591 - INFO - HTTP Request: GET https://cwgauehigbgiowmvgwcx.supabase.co/rest/v1/sales?select=%2A&offset=5000&limit=1000 "HTTP/2 200 OK"
+2026-05-29 19:22:20,998 - INFO - HTTP Request: GET https://cwgauehigbgiowmvgwcx.supabase.co/rest/v1/sales?select=%2A&offset=6000&limit=1000 "HTTP/2 200 OK"
+2026-05-29 19:22:21,140 - INFO - HTTP Request: GET https://cwgauehigbgiowmvgwcx.supabase.co/rest/v1/sales?select=%2A&offset=7000&limit=1000 "HTTP/2 200 OK"
+2026-05-29 19:22:21,271 - INFO - HTTP Request: GET https://cwgauehigbgiowmvgwcx.supabase.co/rest/v1/sales?select=%2A&offset=8000&limit=1000 "HTTP/2 200 OK"
+2026-05-29 19:22:21,395 - INFO - HTTP Request: GET https://cwgauehigbgiowmvgwcx.supabase.co/rest/v1/sales?select=%2A&offset=9000&limit=1000 "HTTP/2 200 OK"
+2026-05-29 19:22:21,507 - INFO - HTTP Request: GET https://cwgauehigbgiowmvgwcx.supabase.co/rest/v1/sales?select=%2A&offset=10000&limit=1000 "HTTP/2 200 OK"
+2026-05-29 19:22:21,903 - INFO - HTTP Request: GET https://cwgauehigbgiowmvgwcx.supabase.co/rest/v1/products?select=product_id%2Ccost_price%2Cproduct_name%2Ccategory&offset=0&limit=1000 "HTTP/2 200 OK"
+2026-05-29 19:22:21,908 - INFO - Merging data and calculating metrics...
+2026-05-29 19:22:22,028 - INFO - Pipeline completed successfully! File saved at: data/urbanstyle_final_data.csv

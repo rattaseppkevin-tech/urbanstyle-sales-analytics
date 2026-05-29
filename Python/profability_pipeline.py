@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 from dotenv import load_dotenv
 from supabase import create_client
-import supabase
 
 # 1. LOGGING CONFIGURATION
 logging.basicConfig(
@@ -24,10 +23,33 @@ def run_pipeline():
         supabase = create_client(os.getenv("SUPABASE_URL"), os.getenv("SUPABASE_KEY"))
         logger.info("Connection to Supabase established.")
 
+        # Helper function to fetch all records from Supabase tables
+        # Supabase default limit is 1000, so we paginate using range()
+        def fetch_all(table_name, select_query="*"):
+            data = []
+            range_start = 0
+            page_size = 1000
+            while True:
+                response = supabase.table(table_name).select(select_query).range(
+                    range_start, range_start + page_size - 1
+                ).execute()
+                
+                if not response.data:
+                    break
+                    
+                data.extend(response.data)
+                range_start += page_size
+                
+                # Stop if we received fewer records than the page_size (end of table)
+                if len(response.data) < page_size:
+                    break
+            return data
+
         # 3. DATA FETCHING
-        logger.info("Fetching data from tables...")
-        sales = pd.DataFrame(supabase.table("sales").select("*").execute().data)
-        products = pd.DataFrame(supabase.table("products").select("product_id, cost_price, product_name, category").execute().data)
+        logger.info("Fetching all data from tables...")
+        sales = pd.DataFrame(fetch_all("sales"))
+        products = pd.DataFrame(fetch_all("products", "product_id, cost_price, product_name, category"))
+        
         # 4. DATA TRANSFORMATION (ETL)
         logger.info("Merging data and calculating metrics...")
         
