@@ -1,0 +1,1001 @@
+sale_id,invoice_id,sale_date,customer_id,product_id,quantity,unit_price,total_price,channel,store_location,payment_method,cost_price,product_name,category,revenue,cost,profit,margin_pct
+1,INV-202301-00001,2023-01-10,2588.0,1274,2,234.79,469.58,pood,Tallinn,kaart,156.71,Soe teksane chino püksid,meeste_riided,469.58,313.42,156.16,33.26
+2,INV-202301-00002,2023-01-16,4338.0,1207,2,241.13,482.26,pood,Pärnu,järelmaks,170.1,Õhuline seemisnahkne rannasandaalid,jalanõusid,482.26,340.2,142.06,29.46
+3,INV-202301-00003,2023-01-05,4673.0,1264,1,258.46,221.19,pood,Pärnu,järelmaks,141.9,Mugav goretex platvormi kontsad,jalanõusid,221.19,141.9,79.29,35.85
+4,INV-202301-00004,2023-01-02,4677.0,1341,3,45.21,135.63,pood,Tartu,sularaha,27.64,Stiilne siidine labakindad,aksessuaarid,135.63,82.92,52.71,38.86
+5,INV-202301-00005,2023-01-13,2390.0,1284,1,99.57,99.57,pood,Tartu,kaart,59.84,Vintage softshell alussärk,laste_riided,99.57,59.84,39.73,39.9
+6,INV-202301-00006,2023-01-28,4536.0,1338,1,282.29,282.29,pood,Tartu,järelmaks,195.5,Sportlik kangast tennised,jalanõusid,282.29,195.5,86.79,30.74
+7,INV-202301-00007,2023-01-13,2029.0,1001,4,157.49,629.96,pood,Tartu,järelmaks,99.21,Praktiline seemisnahkne tennised,jalanõusid,629.96,396.84,233.12,37.01
+8,INV-202301-00008,2023-01-23,4097.0,1100,2,126.42,252.84,online,,kaart,75.76,Sportlik merino villane ülikond,meeste_riided,252.84,151.52,101.32,40.07
+9,INV-202301-00009,2023-01-07,3308.0,1202,1,22.04,22.04,pood,Tallinn,sularaha,13.3,Elegantne metallist sall,aksessuaarid,22.04,13.3,8.74,39.66
+10,INV-202301-00010,2023-01-08,2809.0,1083,1,72.14,72.14,pood,Tallinn,sularaha,48.59,Vintage villane püksid,laste_riided,72.14,48.59,23.55,32.64
+11,INV-202301-00011,2023-01-12,3837.0,1119,3,181.68,545.04,pood,Tallinn,sularaha,116.87,Boheemlaslik kangast kangasvöö,aksessuaarid,545.04,350.61,194.43,35.67
+12,INV-202301-00012,2023-01-09,3432.0,1345,2,225.81,451.62,online,,järelmaks,160.82,Klassikaline kashmiir pusa,naiste_riided,451.62,321.64,129.98,28.78
+13,INV-202301-00013,2023-01-18,2511.0,1072,1,80.64,95.39,pood,Tallinn,järelmaks,59.21,Klassikaline kangast nahkkindad,aksessuaarid,95.39,59.21,36.18,37.93
+14,INV-202301-00014,2023-01-01,2755.0,1153,4,79.59,318.36,pood,Tallinn,sularaha,48.21,Soe teksane smokingüklikond,meeste_riided,318.36,192.84,125.52,39.43
+15,INV-202301-00015,2023-01-05,3076.0,1018,1,47.07,47.07,pood,Pärnu,kaart,28.35,Boheemlaslik klaasist kaelakee,aksessuaarid,47.07,28.35,18.72,39.77
+16,INV-202301-00016,2023-01-11,3357.0,1050,1,145.72,145.72,pood,Tallinn,järelmaks,86.55,Trendikas nahkne sõrmus,aksessuaarid,145.72,86.55,59.17,40.61
+17,INV-202301-00017,2023-01-16,4219.0,1168,1,316.04,316.04,pood,Tartu,kaart,214.05,Trendikas džersii slim-fit püksid,meeste_riided,316.04,214.05,101.99,32.27
+18,INV-202301-00018,2023-01-03,3990.0,1164,1,179.35,179.35,pood,Tartu,sularaha,117.75,Luksuslik puuvillane jakk,naiste_riided,179.35,117.75,61.6,34.35
+19,INV-202301-00019,2023-01-23,3585.0,1106,3,47.88,143.64,online,,sularaha,33.77,Praktiline klaasist sõrmkindad,aksessuaarid,143.64,101.31,42.33,29.47
+20,INV-202301-00020,2023-01-06,2539.0,1042,2,347.84,695.68,pood,Tallinn,kaart,223.47,Luksuslik teksane polo särk,meeste_riided,695.68,446.94,248.74,35.75
+21,INV-202301-00021,2023-01-27,,1203,3,17.97,53.91,pood,Tallinn,sularaha,12.54,Luksuslik nahkne käekott,aksessuaarid,53.91,37.62,16.29,30.22
+22,INV-202301-00022,2023-01-17,3342.0,1303,2,312.41,624.82,online,,kaart,197.42,Mugav merino villane tuulejope,meeste_riided,624.82,394.84,229.98,36.81
+23,INV-202301-00023,2023-01-06,4541.0,1045,2,176.65,353.3,online,,järelmaks,117.46,Praktiline kangast elastne vöö,aksessuaarid,353.3,234.92,118.38,33.51
+24,INV-202301-00024,2023-01-20,4740.0,1113,1,86.46,-86.46,online,,kaart,52.42,Moodne trikoo koolikomplekt,laste_riided,-86.46,52.42,-138.88,160.63
+25,INV-202301-00025,2023-01-17,3475.0,1281,1,292.61,292.61,pood,Pärnu,järelmaks,190.07,Sportlik villane tossud,jalanõusid,292.61,190.07,102.54,35.04
+26,INV-202301-00026,2023-01-11,4167.0,1012,1,160.21,160.21,pood,Tallinn,sularaha,111.3,Boheemlaslik merino villane cargo püksid,meeste_riided,160.21,111.3,48.91,30.53
+27,INV-202301-00027,2023-01-19,4229.0,1088,1,100.57,100.57,pood,Tartu,järelmaks,61.34,Soe softshell sukkpüksid,laste_riided,100.57,61.34,39.23,39.01
+28,INV-202301-00028,2023-01-28,3458.0,1148,1,48.85,48.85,pood,Pärnu,kaart,32.65,Luksuslik tweed linane särk,meeste_riided,48.85,32.65,16.2,33.16
+29,INV-202301-00029,2023-01-20,4924.0,1014,1,121.78,147.58,pood,Pärnu,järelmaks,86.91,Mugav kangast sandaalid,jalanõusid,147.58,86.91,60.67,41.11
+30,INV-202301-00030,2023-01-21,3761.0,1206,1,22.7,22.7,pood,Tartu,sularaha,22.7,Vintage villane kangasvöö,aksessuaarid,22.7,22.7,0.0,0.0
+31,INV-202301-00031,2023-01-31,2120.0,1341,1,45.21,45.21,pood,Tartu,järelmaks,27.64,Stiilne siidine labakindad,aksessuaarid,45.21,27.64,17.57,38.86
+32,INV-202301-00032,2023-01-22,2423.0,1188,2,184.07,368.14,pood,Tallinn,järelmaks,113.31,Õhuline puuvillane kampsun,meeste_riided,368.14,226.62,141.52,38.44
+33,INV-202301-00033,2023-01-08,2331.0,1084,2,156.13,312.26,pood,Tallinn,järelmaks,98.37,Õhuline nahkne elastne vöö,aksessuaarid,312.26,196.74,115.52,36.99
+34,INV-202301-00034,2023-01-31,,1033,1,221.42,221.42,online,,kaart,149.36,Moodne seemisnahkne oxfordid,jalanõusid,221.42,149.36,72.06,32.54
+35,INV-202301-00035,2023-01-04,2339.0,1347,2,246.97,493.94,pood,Tallinn,kaart,148.73,Minimalistlik džersii polo särk,meeste_riided,493.94,297.46,196.48,39.78
+36,INV-202301-00036,2023-01-15,2285.0,1288,2,138.9,277.8,pood,Tallinn,kaart,84.62,Soe polüester slim-fit püksid,meeste_riided,277.8,169.24,108.56,39.08
+37,INV-202301-00037,2023-01-23,4867.0,1155,1,209.05,209.05,online,,kaart,148.43,Stiilne kashmiir jakk,naiste_riided,209.05,148.43,60.62,29.0
+38,INV-202301-00038,2023-01-16,4145.0,1099,1,86.8,86.8,pood,Tartu,järelmaks,60.88,Vintage viskoosne kapuutsiga pusa,naiste_riided,86.8,60.88,25.92,29.86
+39,INV-202301-00039,2023-01-16,3629.0,1013,2,218.99,437.98,pood,Tallinn,kaart,141.58,Boheemlaslik džersii teksapüksid,naiste_riided,437.98,283.16,154.82,35.35
+40,INV-202301-00040,2023-01-29,4893.0,1243,2,184.02,368.04,online,,sularaha,122.15,Trendikas kangast kindad,aksessuaarid,368.04,244.3,123.74,33.62
+41,INV-202301-00041,2023-01-07,4239.0,1305,4,50.77,203.08,pood,Tallinn,sularaha,35.66,Sportlik siidine cargo püksid,naiste_riided,203.08,142.64,60.44,29.76
+42,INV-202301-00042,2023-01-22,,1260,2,130.36,260.72,pood,Tallinn,sularaha,89.0,Minimalistlik džersii pullover,naiste_riided,260.72,178.0,82.72,31.73
+43,INV-202301-00043,2023-01-19,2247.0,1064,1,95.87,95.87,pood,Tallinn,sularaha,63.2,Sportlik softshell teksapüksid,laste_riided,95.87,63.2,32.67,34.08
+44,INV-202301-00044,2023-01-26,4612.0,1060,1,253.26,253.26,online,,järelmaks,153.0,Luksuslik puuvillane linane särk,meeste_riided,253.26,153.0,100.26,39.59
+45,INV-202301-00045,2023-01-08,4150.0,1258,3,84.41,253.23,pood,Tartu,järelmaks,53.39,Minimalistlik seemisnahkne chelsea botased,jalanõusid,253.23,160.17,93.06,36.75
+46,INV-202301-00046,2023-01-14,3648.0,1104,2,191.48,382.96,online,,sularaha,117.01,Vintage kangast vöö,aksessuaarid,382.96,234.02,148.94,38.89
+47,INV-202301-00047,2023-01-07,3457.0,1345,1,225.81,225.81,pood,Tallinn,sularaha,160.82,Klassikaline kashmiir pusa,naiste_riided,225.81,160.82,64.99,28.78
+48,INV-202301-00048,2023-01-01,3514.0,1065,1,48.58,48.58,pood,Tallinn,järelmaks,30.92,Soe fliisist pidžaama,laste_riided,48.58,30.92,17.66,36.35
+49,INV-202301-00049,2023-01-12,4755.0,1221,1,350.19,350.19,online,,järelmaks,231.74,Õhuline goretex tennised,jalanõusid,350.19,231.74,118.45,33.82
+50,INV-202301-00050,2023-01-28,2025.0,1092,1,144.2,144.2,pood,Tallinn,sularaha,89.91,Mugav flanellne parka,meeste_riided,144.2,89.91,54.29,37.65
+51,INV-202301-00051,2023-01-07,3493.0,1247,1,29.48,29.48,pood,Tallinn,sularaha,18.93,Mugav klaasist kõrvarõngad,aksessuaarid,29.48,18.93,10.55,35.79
+52,INV-202301-00052,2023-01-15,2574.0,1340,4,229.01,916.04,online,,kaart,136.18,Boheemlaslik tweed smokingüklikond,meeste_riided,916.04,544.72,371.32,40.54
+53,INV-202301-00053,2023-01-02,2927.0,1238,2,72.73,145.46,pood,Tallinn,sularaha,48.98,Minimalistlik džersii chino püksid,naiste_riided,145.46,97.96,47.5,32.66
+54,INV-202301-00054,2023-01-06,3764.0,1153,1,79.59,79.59,online,,kaart,48.21,Soe teksane smokingüklikond,meeste_riided,79.59,48.21,31.38,39.43
+55,INV-202301-00055,2023-01-22,,1084,2,156.13,312.26,online,,järelmaks,98.37,Õhuline nahkne elastne vöö,aksessuaarid,312.26,196.74,115.52,36.99
+56,INV-202301-00056,2023-01-28,4517.0,1333,1,218.54,218.54,pood,Tallinn,järelmaks,140.09,Boheemlaslik nahkne kõrge kontsaga kingad,jalanõusid,218.54,140.09,78.45,35.9
+57,INV-202301-00057,2023-01-31,2317.0,1136,2,94.25,188.5,online,,sularaha,59.06,Trendikas villane tuulejope,laste_riided,188.5,118.12,70.38,37.34
+58,INV-202301-00058,2023-01-19,4206.0,1350,1,270.69,270.69,pood,Pärnu,kaart,168.14,Soe nahkne platvormi kontsad,jalanõusid,270.69,168.14,102.55,37.88
+59,INV-202301-00059,2023-01-14,4490.0,1228,5,160.71,803.55,pood,Tallinn,järelmaks,108.16,Stiilne džersii püksid,meeste_riided,803.55,540.8,262.75,32.7
+60,INV-202301-00060,2023-01-18,3633.0,1272,1,183.31,183.31,pood,Tartu,sularaha,115.94,Boheemlaslik siidine sõrmkindad,aksessuaarid,183.31,115.94,67.37,36.75
+61,INV-202301-00061,2023-01-10,3123.0,1055,1,65.6,65.6,online,,sularaha,41.58,Elegantne puust kootud müts,aksessuaarid,65.6,41.58,24.02,36.62
+62,INV-202301-00062,2023-01-16,3530.0,1350,1,270.69,270.69,online,,kaart,168.14,Soe nahkne platvormi kontsad,jalanõusid,270.69,168.14,102.55,37.88
+63,INV-202301-00063,2023-01-09,4542.0,1213,2,132.3,264.6,pood,Tartu,järelmaks,82.97,Luksuslik goretex derbyd,jalanõusid,264.6,165.94,98.66,37.29
+64,INV-202301-00064,2023-01-30,2638.0,1311,1,153.11,153.11,pood,Tallinn,järelmaks,107.66,Minimalistlik puust kootud müts,aksessuaarid,153.11,107.66,45.45,29.68
+65,INV-202301-00065,2023-01-14,2767.0,1275,1,62.82,62.82,pood,Tartu,järelmaks,38.3,Trendikas villane dressikomplekt,laste_riided,62.82,38.3,24.52,39.03
+66,INV-202301-00066,2023-01-03,2017.0,1189,1,58.49,58.49,pood,Tallinn,järelmaks,36.3,Luksuslik nahkne madalad kontsad,jalanõusid,58.49,36.3,22.19,37.94
+67,INV-202301-00067,2023-01-14,3163.0,1075,3,278.59,835.77,online,,järelmaks,181.9,Kerge flanellne kardigan,meeste_riided,835.77,545.7,290.07,34.71
+68,INV-202301-00068,2023-01-22,3452.0,1002,1,274.78,274.78,online,,järelmaks,173.56,Mugav linane linane kostüüm,meeste_riided,274.78,173.56,101.22,36.84
+69,INV-202301-00069,2023-01-01,2230.0,1050,1,145.72,145.72,pood,Tartu,järelmaks,86.55,Trendikas nahkne sõrmus,aksessuaarid,145.72,86.55,59.17,40.61
+70,INV-202301-00070,2023-01-20,4255.0,1240,1,356.57,356.57,pood,Tallinn,kaart,237.31,Õhuline tweed püksid,meeste_riided,356.57,237.31,119.26,33.45
+71,INV-202301-00071,2023-01-31,2734.0,1119,2,181.68,363.36,online,,järelmaks,116.87,Boheemlaslik kangast kangasvöö,aksessuaarid,363.36,233.74,129.62,35.67
+72,INV-202301-00072,2023-01-29,3953.0,1023,2,38.7,77.4,pood,Tallinn,sularaha,27.36,Praktiline puuvillane sukkpüksid,laste_riided,77.4,54.72,22.68,29.3
+73,INV-202301-00073,2023-01-18,3789.0,1183,2,231.13,462.26,pood,Pärnu,kaart,138.29,Luksuslik metallist labakindad,aksessuaarid,462.26,276.58,185.68,40.17
+74,INV-202301-00074,2023-01-02,,1204,1,63.95,63.95,pood,Pärnu,kaart,40.78,Stiilne villane kontsakingad,jalanõusid,63.95,40.78,23.17,36.23
+75,INV-202301-00075,2023-01-05,4454.0,1290,4,105.23,420.92,online,,sularaha,72.64,Soe trikoo pühapäevakleit,laste_riided,420.92,290.56,130.36,30.97
+76,INV-202301-00076,2023-01-26,2755.0,1259,4,229.55,918.2,online,,kaart,143.56,Elegantne džersii cargo püksid,naiste_riided,918.2,574.24,343.96,37.46
+77,INV-202301-00077,2023-01-04,4178.0,1275,3,62.82,188.46,online,,sularaha,38.3,Trendikas villane dressikomplekt,laste_riided,188.46,114.9,73.56,39.03
+78,INV-202301-00078,2023-01-09,,1274,3,234.79,704.37,pood,Tartu,kaart,156.71,Soe teksane chino püksid,meeste_riided,704.37,470.13,234.24,33.26
+79,INV-202301-00079,2023-01-02,4896.0,1289,2,171.33,342.66,pood,Tallinn,sularaha,113.83,Soe teksane bleiser,meeste_riided,342.66,227.66,115.0,33.56
+80,INV-202301-00080,2023-01-17,4259.0,1053,1,113.86,113.86,pood,Tartu,sularaha,67.9,Trendikas villane nahkkindad,aksessuaarid,113.86,67.9,45.96,40.37
+81,INV-202301-00081,2023-01-18,3011.0,1156,1,221.89,221.89,online,,järelmaks,130.81,Sportlik puuvillane slim-fit püksid,naiste_riided,221.89,130.81,91.08,41.05
+82,INV-202301-00082,2023-01-11,3251.0,1001,2,157.49,314.98,pood,Tallinn,järelmaks,99.21,Praktiline seemisnahkne tennised,jalanõusid,314.98,198.42,116.56,37.01
+83,INV-202301-00083,2023-01-02,4624.0,1198,2,291.72,583.44,pood,Tallinn,kaart,186.77,Õhuline sünteetiline kõrge kontsaga kingad,jalanõusid,583.44,373.54,209.9,35.98
+84,INV-202301-00084,2023-01-28,4952.0,1160,1,368.67,368.67,pood,Tallinn,järelmaks,226.48,Moodne villane nahk sandaalid,jalanõusid,368.67,226.48,142.19,38.57
+85,INV-202301-00085,2023-01-04,2609.0,1243,1,184.02,184.02,pood,Pärnu,sularaha,122.15,Trendikas kangast kindad,aksessuaarid,184.02,122.15,61.87,33.62
+86,INV-202301-00086,2023-01-29,2890.0,1118,1,109.42,109.42,pood,Pärnu,järelmaks,65.28,Elegantne villane kaabu,aksessuaarid,109.42,65.28,44.14,40.34
+87,INV-202301-00087,2023-01-07,2677.0,1070,1,139.74,139.74,pood,Tallinn,kaart,96.46,Trendikas džersii miniseelik,naiste_riided,139.74,96.46,43.28,30.97
+88,INV-202301-00088,2023-01-04,4001.0,1082,2,100.93,201.86,pood,Tallinn,kaart,71.58,Boheemlaslik polüester casual särk,meeste_riided,201.86,143.16,58.7,29.08
+89,INV-202301-00089,2023-01-31,2889.0,1275,2,62.82,125.64,pood,Tallinn,kaart,38.3,Trendikas villane dressikomplekt,laste_riided,125.64,76.6,49.04,39.03
+90,INV-202301-00090,2023-01-09,2206.0,1200,2,105.29,210.58,pood,Pärnu,kaart,65.49,Elegantne orgaaniline dressikomplekt,laste_riided,210.58,130.98,79.6,37.8
+91,INV-202301-00091,2023-01-15,4238.0,1107,2,279.43,558.86,pood,Tartu,järelmaks,196.64,Praktiline polüester ülikond,meeste_riided,558.86,393.28,165.58,29.63
+92,INV-202301-00092,2023-01-29,2704.0,1142,2,307.27,614.54,pood,Tallinn,järelmaks,211.12,Sportlik seemisnahkne nahk sandaalid,jalanõusid,614.54,422.24,192.3,31.29
+93,INV-202301-00093,2023-01-24,4131.0,1003,2,52.04,104.08,pood,Tallinn,järelmaks,31.83,Elegantne orgaaniline kleit,laste_riided,104.08,63.66,40.42,38.84
+94,INV-202301-00094,2023-01-28,3261.0,1319,1,290.55,290.55,pood,Pärnu,sularaha,174.45,Vintage džersii tuunika,naiste_riided,290.55,174.45,116.1,39.96
+95,INV-202301-00095,2023-01-03,4000.0,1227,2,120.17,240.34,online,,järelmaks,77.08,Mugav kangast tennised,jalanõusid,240.34,154.16,86.18,35.86
+96,INV-202301-00096,2023-01-21,3605.0,1071,1,237.71,237.71,online,,kaart,140.42,Klassikaline viskoosne õhtukleit,naiste_riided,237.71,140.42,97.29,40.93
+97,INV-202301-00097,2023-01-20,4597.0,1312,3,243.93,731.79,pood,Tartu,kaart,152.67,Soe polüester smokingüklikond,meeste_riided,731.79,458.01,273.78,37.41
+98,INV-202301-00098,2023-01-03,2472.0,1034,1,207.23,207.23,pood,Tartu,järelmaks,145.76,Minimalistlik villane nahk sandaalid,jalanõusid,207.23,145.76,61.47,29.66
+99,INV-202301-00099,2023-01-08,4264.0,1080,1,51.5,51.5,pood,Tallinn,sularaha,35.75,Minimalistlik softshell chino püksid,laste_riided,51.5,35.75,15.75,30.58
+100,INV-202301-00100,2023-01-24,3350.0,1136,2,94.25,188.5,pood,Tallinn,järelmaks,59.06,Trendikas villane tuulejope,laste_riided,188.5,118.12,70.38,37.34
+101,INV-202301-00101,2023-01-10,2668.0,1040,1,96.11,96.11,pood,Tartu,järelmaks,67.46,Sportlik goretex nahk sandaalid,jalanõusid,96.11,67.46,28.65,29.81
+102,INV-202301-00102,2023-01-24,3648.0,1350,1,270.69,270.69,online,,kaart,168.14,Soe nahkne platvormi kontsad,jalanõusid,270.69,168.14,102.55,37.88
+103,INV-202301-00103,2023-01-23,4276.0,1155,1,209.05,209.05,pood,Tallinn,järelmaks,148.43,Stiilne kashmiir jakk,naiste_riided,209.05,148.43,60.62,29.0
+104,INV-202301-00104,2023-01-24,4217.0,1337,2,272.05,544.1,pood,Tallinn,järelmaks,193.79,Praktiline viskoosne õhtukleit,naiste_riided,544.1,387.58,156.52,28.77
+105,INV-202301-00105,2023-01-04,2396.0,1138,2,130.73,261.46,pood,Tallinn,sularaha,83.37,Vintage orgaaniline body,laste_riided,261.46,166.74,94.72,36.23
+106,INV-202301-00106,2023-01-03,3767.0,1277,1,121.51,121.51,pood,Tartu,kaart,79.45,Stiilne kangast jooksutossud,jalanõusid,121.51,79.45,42.06,34.61
+107,INV-202301-00107,2023-01-10,3837.0,1108,1,371.05,371.05,pood,Tallinn,sularaha,223.83,Trendikas goretex oxfordid,jalanõusid,371.05,223.83,147.22,39.68
+108,INV-202301-00108,2023-01-08,3398.0,1139,1,106.71,106.71,pood,Tallinn,kaart,69.49,Vintage metallist seljakott,aksessuaarid,106.71,69.49,37.22,34.88
+109,INV-202301-00109,2023-01-28,2735.0,1246,1,204.87,204.87,online,,sularaha,133.03,Praktiline villane kott,aksessuaarid,204.87,133.03,71.84,35.07
+110,INV-202301-00110,2023-01-10,3119.0,1289,1,171.33,171.33,online,,kaart,113.83,Soe teksane bleiser,meeste_riided,171.33,113.83,57.5,33.56
+111,INV-202301-00111,2023-01-31,3556.0,1256,1,296.4,296.4,pood,Tallinn,sularaha,176.78,Klassikaline puuvillane skaterkleit,naiste_riided,296.4,176.78,119.62,40.36
+112,INV-202301-00112,2023-01-06,3165.0,1170,1,158.51,158.51,pood,Tartu,järelmaks,102.33,Elegantne kashmiir tuulejope,naiste_riided,158.51,102.33,56.18,35.44
+113,INV-202301-00113,2023-01-08,2095.0,1295,1,375.34,375.34,online,,järelmaks,258.78,Soe sünteetiline loaferid,jalanõusid,375.34,258.78,116.56,31.05
+114,INV-202301-00114,2023-01-25,2304.0,1283,1,188.91,188.91,pood,Tallinn,järelmaks,111.74,Klassikaline nahkne sõrmus,aksessuaarid,188.91,111.74,77.17,40.85
+115,INV-202301-00115,2023-01-12,2759.0,1032,2,198.42,396.84,pood,Tallinn,järelmaks,132.11,Boheemlaslik seemisnahkne oxfordid,jalanõusid,396.84,264.22,132.62,33.42
+116,INV-202301-00116,2023-01-01,2441.0,1223,4,319.98,1279.92,pood,Tallinn,järelmaks,192.81,Praktiline kangast kõrge kontsaga kingad,jalanõusid,1279.92,771.24,508.68,39.74
+117,INV-202301-00117,2023-01-29,2070.0,1109,2,116.2,232.4,pood,Tallinn,sularaha,72.49,Stiilne linane tuulejope,meeste_riided,232.4,144.98,87.42,37.62
+118,INV-202301-00118,2023-01-19,2439.0,1152,1,107.67,107.67,pood,Tallinn,järelmaks,65.22,Vintage teksane chino püksid,meeste_riided,107.67,65.22,42.45,39.43
+119,INV-202301-00119,2023-01-31,4312.0,1047,1,155.84,155.84,pood,Tallinn,sularaha,94.85,Elegantne keraamiline rahakott,aksessuaarid,155.84,94.85,60.99,39.14
+120,INV-202301-00120,2023-01-04,3556.0,1114,1,74.7,74.7,pood,Tallinn,sularaha,52.97,Luksuslik villane saapad,jalanõusid,74.7,52.97,21.73,29.09
+121,INV-202301-00121,2023-01-29,,1103,5,173.62,868.1,online,,sularaha,112.53,Elegantne siidine müts,aksessuaarid,868.1,562.65,305.45,35.19
+122,INV-202301-00122,2023-01-02,,1135,4,175.25,701.0,pood,Tartu,sularaha,124.02,Soe polüester cargo püksid,meeste_riided,701.0,496.08,204.92,29.23
+123,INV-202301-00123,2023-01-26,4105.0,1172,2,141.62,283.24,pood,Tallinn,sularaha,96.01,Moodne orgaaniline skaterkleit,laste_riided,283.24,192.02,91.22,32.21
+124,INV-202301-00124,2023-01-17,4206.0,1055,5,65.6,328.0,pood,Pärnu,sularaha,41.58,Elegantne puust kootud müts,aksessuaarid,328.0,207.9,120.1,36.62
+125,INV-202301-00125,2023-01-30,4141.0,1017,2,153.62,307.24,pood,Tallinn,järelmaks,108.74,Praktiline seemisnahkne saapad,jalanõusid,307.24,217.48,89.76,29.21
+126,INV-202301-00126,2023-01-20,,1146,1,31.65,31.65,online,,sularaha,22.19,Trendikas trikoo jakk,laste_riided,31.65,22.19,9.46,29.89
+127,INV-202301-00127,2023-01-17,4372.0,1214,1,250.17,250.17,pood,Pärnu,järelmaks,176.29,Luksuslik merino villane kapuutsiga pusa,naiste_riided,250.17,176.29,73.88,29.53
+128,INV-202301-00128,2023-01-27,3899.0,1178,1,105.09,105.09,pood,Tallinn,sularaha,68.59,Kerge linane kampsun,meeste_riided,105.09,68.59,36.5,34.73
+129,INV-202301-00129,2023-01-14,,1329,2,110.02,220.04,online,,kaart,65.74,Moodne viskoosne teksapüksid,naiste_riided,220.04,131.48,88.56,40.25
+130,INV-202301-00130,2023-01-31,,1034,2,207.23,414.46,online,,järelmaks,145.76,Minimalistlik villane nahk sandaalid,jalanõusid,414.46,291.52,122.94,29.66
+131,INV-202301-00131,2023-01-14,4315.0,1160,2,368.67,737.34,pood,Tartu,kaart,226.48,Moodne villane nahk sandaalid,jalanõusid,737.34,452.96,284.38,38.57
+132,INV-202301-00132,2023-01-19,2635.0,1187,2,252.33,504.66,pood,Tallinn,sularaha,150.21,Mugav kashmiir pusa,naiste_riided,504.66,300.42,204.24,40.47
+133,INV-202301-00133,2023-01-28,2272.0,1225,1,116.87,116.87,pood,Pärnu,järelmaks,75.66,Moodne kangast derbyd,jalanõusid,116.87,75.66,41.21,35.26
+134,INV-202301-00134,2023-01-20,4146.0,1217,2,34.04,68.08,online,,kaart,21.18,Sportlik villane püksid,laste_riided,68.08,42.36,25.72,37.78
+135,INV-202301-00135,2023-01-02,4220.0,1240,1,356.57,356.57,pood,Tallinn,sularaha,237.31,Õhuline tweed püksid,meeste_riided,356.57,237.31,119.26,33.45
+136,INV-202301-00136,2023-01-21,2930.0,1290,3,105.23,315.69,pood,Tartu,järelmaks,72.64,Soe trikoo pühapäevakleit,laste_riided,315.69,217.92,97.77,30.97
+137,INV-202301-00137,2023-01-22,3556.0,1153,1,79.59,79.59,pood,Tartu,järelmaks,48.21,Soe teksane smokingüklikond,meeste_riided,79.59,48.21,31.38,39.43
+138,INV-202301-00138,2023-01-16,2377.0,1129,1,182.77,182.77,pood,Pärnu,järelmaks,119.04,Elegantne siidine teksapüksid,naiste_riided,182.77,119.04,63.73,34.87
+139,INV-202301-00139,2023-01-26,2202.0,1049,1,308.84,-308.84,online,,sularaha,200.72,Boheemlaslik puuvillane tuulejope,naiste_riided,-308.84,200.72,-509.56,164.99
+141,INV-202301-00141,2023-01-14,4444.0,1330,3,167.23,501.69,pood,Pärnu,järelmaks,106.54,Trendikas trikoo chino püksid,laste_riided,501.69,319.62,182.07,36.29
+142,INV-202301-00142,2023-01-11,3525.0,1154,2,190.81,381.62,pood,Tallinn,järelmaks,119.91,Praktiline nahkne nahk sandaalid,jalanõusid,381.62,239.82,141.8,37.16
+143,INV-202301-00143,2023-01-14,2980.0,1136,3,94.25,282.75,online,,sularaha,59.06,Trendikas villane tuulejope,laste_riided,282.75,177.18,105.57,37.34
+144,INV-202301-00144,2023-01-07,3446.0,1009,5,332.55,1662.75,pood,Tallinn,järelmaks,206.74,Praktiline merino villane parka,meeste_riided,1662.75,1033.7,629.05,37.83
+145,INV-202301-00145,2023-01-07,3240.0,1215,3,160.91,482.73,pood,Tallinn,kaart,102.31,Praktiline polüester casual särk,meeste_riided,482.73,306.93,175.8,36.42
+146,INV-202301-00146,2023-01-02,2652.0,1327,2,110.7,221.4,pood,Tallinn,kaart,71.26,Elegantne villane sukkpüksid,laste_riided,221.4,142.52,78.88,35.63
+147,INV-202301-00147,2023-01-17,3249.0,1274,3,234.79,704.37,pood,Tallinn,sularaha,156.71,Soe teksane chino püksid,meeste_riided,704.37,470.13,234.24,33.26
+148,INV-202301-00148,2023-01-09,3995.0,1272,1,183.31,183.31,pood,Tartu,kaart,115.94,Boheemlaslik siidine sõrmkindad,aksessuaarid,183.31,115.94,67.37,36.75
+149,INV-202301-00149,2023-01-05,2597.0,1332,1,81.85,81.85,online,,järelmaks,57.94,Luksuslik džersii ülikond,meeste_riided,81.85,57.94,23.91,29.21
+150,INV-202301-00150,2023-01-18,3429.0,1216,1,273.06,273.06,online,,kaart,166.29,Boheemlaslik goretex kingad,jalanõusid,273.06,166.29,106.77,39.1
+151,INV-202301-00151,2023-01-03,3924.0,1157,2,91.22,182.44,online,,sularaha,64.48,Klassikaline tweed kardigan,meeste_riided,182.44,128.96,53.48,29.31
+152,INV-202301-00152,2023-01-01,3556.0,1128,3,321.68,823.5,pood,Pärnu,kaart,184.73,Luksuslik polüester V-kaelusega kampsun,meeste_riided,823.5,554.19,269.31,32.7
+153,INV-202301-00153,2023-01-18,4833.0,1277,2,121.51,243.02,pood,Tallinn,sularaha,79.45,Stiilne kangast jooksutossud,jalanõusid,243.02,158.9,84.12,34.61
+154,INV-202301-00154,2023-01-21,2997.0,1209,5,252.1,1260.5,online,,järelmaks,172.03,Soe sünteetiline sandaalid,jalanõusid,1260.5,860.15,400.35,31.76
+155,INV-202301-00155,2023-01-22,2761.0,1035,1,65.52,65.52,pood,Pärnu,sularaha,45.18,Luksuslik goretex tennised,jalanõusid,65.52,45.18,20.34,31.04
+156,INV-202301-00156,2023-01-01,4288.0,1204,1,63.95,63.95,pood,Tallinn,kaart,40.78,Stiilne villane kontsakingad,jalanõusid,63.95,40.78,23.17,36.23
+157,INV-202301-00157,2023-01-05,3648.0,1338,1,282.29,282.29,pood,Tartu,järelmaks,195.5,Sportlik kangast tennised,jalanõusid,282.29,195.5,86.79,30.74
+158,INV-202301-00158,2023-01-18,3692.0,1143,1,307.83,307.83,pood,Tartu,järelmaks,182.53,Õhuline linane jakk,naiste_riided,307.83,182.53,125.3,40.7
+159,INV-202301-00159,2023-01-09,3984.0,1083,1,72.14,72.14,pood,Tallinn,sularaha,48.59,Vintage villane püksid,laste_riided,72.14,48.59,23.55,32.64
+160,INV-202301-00160,2023-01-23,2265.0,1033,2,221.42,442.84,online,,järelmaks,149.36,Moodne seemisnahkne oxfordid,jalanõusid,442.84,298.72,144.12,32.54
+161,INV-202301-00161,2023-01-02,4458.0,1128,1,274.5,274.5,pood,Tallinn,järelmaks,184.73,Luksuslik polüester V-kaelusega kampsun,meeste_riided,274.5,184.73,89.77,32.7
+162,INV-202301-00162,2023-01-07,2534.0,1016,2,54.81,109.62,pood,Pärnu,järelmaks,36.6,Luksuslik trikoo slim-fit püksid,laste_riided,109.62,73.2,36.42,33.22
+163,INV-202301-00163,2023-01-17,,1041,2,107.36,214.72,online,,kaart,67.0,Vintage orgaaniline komplekt,laste_riided,214.72,134.0,80.72,37.59
+164,INV-202301-00164,2023-01-24,,1080,2,51.5,103.0,pood,Tartu,kaart,35.75,Minimalistlik softshell chino püksid,laste_riided,103.0,71.5,31.5,30.58
+165,INV-202301-00165,2023-01-26,4324.0,1047,1,155.84,155.84,online,,järelmaks,94.85,Elegantne keraamiline rahakott,aksessuaarid,155.84,94.85,60.99,39.14
+166,INV-202301-00166,2023-01-18,3197.0,1117,2,72.58,145.16,online,,kaart,46.62,Sportlik fliisist slim-fit püksid,laste_riided,145.16,93.24,51.92,35.77
+167,INV-202301-00167,2023-01-26,3605.0,1104,3,191.48,574.44,pood,Tallinn,sularaha,117.01,Vintage kangast vöö,aksessuaarid,574.44,351.03,223.41,38.89
+168,INV-202301-00168,2023-01-04,4556.0,1092,2,186.12,288.4,online,,kaart,89.91,Mugav flanellne parka,meeste_riided,288.4,179.82,108.58,37.65
+169,INV-202301-00169,2023-01-09,2976.0,1235,3,232.27,632.61,pood,Pärnu,sularaha,146.89,Soe linane mantelpaltoo,meeste_riided,632.61,440.67,191.94,30.34
+170,INV-202301-00170,2023-01-04,,1111,1,327.07,327.07,pood,Tallinn,sularaha,198.07,Õhuline polüester cargo püksid,meeste_riided,327.07,198.07,129.0,39.44
+171,INV-202301-00171,2023-01-22,4080.0,1346,3,258.91,776.73,pood,Tallinn,järelmaks,157.35,Mugav merino villane cargo püksid,meeste_riided,776.73,472.05,304.68,39.23
+172,INV-202301-00172,2023-01-11,2535.0,1323,1,151.08,151.08,pood,Pärnu,järelmaks,100.65,Vintage merino villane tuulejope,meeste_riided,151.08,100.65,50.43,33.38
+173,INV-202301-00173,2023-01-14,3894.0,1305,1,50.77,50.77,pood,Tallinn,kaart,35.66,Sportlik siidine cargo püksid,naiste_riided,50.77,35.66,15.11,29.76
+174,INV-202301-00174,2023-01-24,2372.0,1229,2,210.76,421.52,pood,Tartu,kaart,138.05,Soe puuvillane teksapüksid,naiste_riided,421.52,276.1,145.42,34.5
+175,INV-202301-00175,2023-01-29,4949.0,1145,2,338.43,676.86,pood,Tallinn,kaart,217.23,Mugav tweed ülikond,meeste_riided,676.86,434.46,242.4,35.81
+176,INV-202301-00176,2023-01-21,,1350,1,270.69,270.69,pood,Tallinn,kaart,168.14,Soe nahkne platvormi kontsad,jalanõusid,270.69,168.14,102.55,37.88
+177,INV-202301-00177,2023-01-08,3921.0,1018,1,47.07,47.07,pood,Tallinn,kaart,28.35,Boheemlaslik klaasist kaelakee,aksessuaarid,47.07,28.35,18.72,39.77
+178,INV-202301-00178,2023-01-20,4321.0,1013,2,218.99,437.98,pood,Tartu,järelmaks,141.58,Boheemlaslik džersii teksapüksid,naiste_riided,437.98,283.16,154.82,35.35
+179,INV-202301-00179,2023-01-27,4409.0,1292,1,74.81,74.81,online,,järelmaks,45.76,Õhuline siidine kaelakee,aksessuaarid,74.81,45.76,29.05,38.83
+180,INV-202301-00180,2023-01-10,2547.0,1011,1,53.99,53.99,pood,Tallinn,järelmaks,35.43,Moodne villane pühapäevakleit,laste_riided,53.99,35.43,18.56,34.38
+181,INV-202301-00181,2023-01-17,4643.0,1274,1,234.79,234.79,pood,Tartu,kaart,156.71,Soe teksane chino püksid,meeste_riided,234.79,156.71,78.08,33.26
+182,INV-202301-00182,2023-01-12,4480.0,1034,1,207.23,207.23,pood,Tartu,kaart,145.76,Minimalistlik villane nahk sandaalid,jalanõusid,207.23,145.76,61.47,29.66
+183,INV-202301-00183,2023-01-19,4119.0,1304,2,210.36,420.72,pood,Pärnu,sularaha,148.01,Kerge villane talvesaapad,jalanõusid,420.72,296.02,124.7,29.64
+184,INV-202301-00184,2023-01-02,4677.0,1004,1,41.63,41.63,pood,Tartu,kaart,29.41,Minimalistlik puuvillane tuunika,naiste_riided,41.63,29.41,12.22,29.35
+185,INV-202301-00185,2023-01-05,2554.0,1182,1,180.14,180.14,online,,sularaha,109.17,Mugav džersii pusa,naiste_riided,180.14,109.17,70.97,39.4
+186,INV-202301-00186,2023-01-23,2257.0,1181,2,142.57,285.14,pood,Tartu,sularaha,85.21,Sportlik linane bleiser,meeste_riided,285.14,170.42,114.72,40.23
+187,INV-202301-00187,2023-01-16,4534.0,1039,1,282.95,282.95,online,,järelmaks,188.32,Sportlik džersii parka,naiste_riided,282.95,188.32,94.63,33.44
+188,INV-202301-00188,2023-01-05,2484.0,1072,2,95.39,190.78,online,,sularaha,59.21,Klassikaline kangast nahkkindad,aksessuaarid,190.78,118.42,72.36,37.93
+189,INV-202301-00189,2023-01-19,3356.0,1279,1,66.21,66.21,online,,kaart,44.52,Luksuslik orgaaniline dressikomplekt,laste_riided,66.21,44.52,21.69,32.76
+190,INV-202301-00190,2023-01-05,3443.0,1017,3,153.62,460.86,online,,kaart,108.74,Praktiline seemisnahkne saapad,jalanõusid,460.86,326.22,134.64,29.21
+191,INV-202301-00191,2023-01-20,4054.0,1209,2,252.1,504.2,pood,Tallinn,järelmaks,172.03,Soe sünteetiline sandaalid,jalanõusid,504.2,344.06,160.14,31.76
+192,INV-202301-00192,2023-01-05,2876.0,1211,2,225.28,450.56,online,,järelmaks,135.13,Moodne keraamiline nahkvöö,aksessuaarid,450.56,270.26,180.3,40.02
+193,INV-202301-00193,2023-01-20,3236.0,1267,1,66.88,66.88,pood,Tallinn,järelmaks,40.57,Minimalistlik keraamiline sall,aksessuaarid,66.88,40.57,26.31,39.34
+194,INV-202301-00194,2023-01-24,3486.0,1223,1,319.98,-319.98,online,,kaart,192.81,Praktiline kangast kõrge kontsaga kingad,jalanõusid,-319.98,192.81,-512.79,160.26
+195,INV-202301-00195,2023-01-05,4070.0,1070,2,139.74,-279.48,pood,Tallinn,sularaha,96.46,Trendikas džersii miniseelik,naiste_riided,-279.48,192.92,-472.4,169.03
+196,INV-202301-00196,2023-01-20,3696.0,1060,5,253.26,1266.3,online,,järelmaks,153.0,Luksuslik puuvillane linane särk,meeste_riided,1266.3,765.0,501.3,39.59
+197,INV-202301-00197,2023-01-19,2954.0,1058,4,302.86,1211.44,pood,Tartu,sularaha,216.32,Õhuline sünteetiline rannasandaalid,jalanõusid,1211.44,865.28,346.16,28.57
+198,INV-202301-00198,2023-01-09,3856.0,1243,1,184.02,184.02,pood,Tartu,kaart,122.15,Trendikas kangast kindad,aksessuaarid,184.02,122.15,61.87,33.62
+199,INV-202301-00199,2023-01-20,4745.0,1278,1,263.13,263.13,pood,Tallinn,sularaha,174.86,Soe satiinne pluus,naiste_riided,263.13,174.86,88.27,33.55
+200,INV-202301-00200,2023-01-22,,1078,1,42.64,42.64,pood,Pärnu,sularaha,25.25,Stiilne merino villane parka,naiste_riided,42.64,25.25,17.39,40.78
+201,INV-202301-00201,2023-01-08,3665.0,1076,1,89.29,89.29,pood,Tallinn,järelmaks,89.29,Klassikaline džersii bleiser,meeste_riided,89.29,89.29,0.0,0.0
+202,INV-202301-00202,2023-01-31,2711.0,1291,2,219.83,439.66,pood,Tallinn,järelmaks,138.06,Kerge siidine nahkkindad,aksessuaarid,439.66,276.12,163.54,37.2
+203,INV-202301-00203,2023-01-05,2577.0,1337,2,272.05,544.1,pood,Tallinn,sularaha,193.79,Praktiline viskoosne õhtukleit,naiste_riided,544.1,387.58,156.52,28.77
+204,INV-202301-00204,2023-01-02,4119.0,1211,1,225.28,225.28,pood,Tallinn,kaart,135.13,Moodne keraamiline nahkvöö,aksessuaarid,225.28,135.13,90.15,40.02
+205,INV-202301-00205,2023-01-09,4768.0,1113,3,86.46,259.38,pood,Tallinn,sularaha,52.42,Moodne trikoo koolikomplekt,laste_riided,259.38,157.26,102.12,39.37
+206,INV-202301-00206,2023-01-05,4481.0,1218,2,108.09,216.18,online,,kaart,72.15,Luksuslik satiinne teksapüksid,naiste_riided,216.18,144.3,71.88,33.25
+207,INV-202301-00207,2023-01-04,4206.0,1030,1,112.68,112.68,pood,Pärnu,järelmaks,68.58,Minimalistlik softshell cargo püksid,laste_riided,112.68,68.58,44.1,39.14
+208,INV-202301-00208,2023-01-19,3556.0,1008,3,280.13,840.39,pood,Pärnu,kaart,167.26,Minimalistlik nahkne platvormi kontsad,jalanõusid,840.39,501.78,338.61,40.29
+209,INV-202301-00209,2023-01-19,,1108,4,371.05,1484.2,pood,Tallinn,sularaha,223.83,Trendikas goretex oxfordid,jalanõusid,1484.2,895.32,588.88,39.68
+210,INV-202301-00210,2023-01-06,3041.0,1043,2,128.44,256.88,pood,Tallinn,sularaha,128.44,Elegantne orgaaniline tuulejope,laste_riided,256.88,256.88,0.0,0.0
+211,INV-202301-00211,2023-01-14,3853.0,1236,4,205.89,823.56,pood,Tallinn,kaart,127.65,Stiilne puust müts,aksessuaarid,823.56,510.6,312.96,38.0
+212,INV-202301-00212,2023-01-26,4599.0,1145,2,338.43,676.86,online,,sularaha,217.23,Mugav tweed ülikond,meeste_riided,676.86,434.46,242.4,35.81
+213,INV-202301-00213,2023-01-05,3085.0,1303,1,312.41,312.41,pood,Tallinn,sularaha,197.42,Mugav merino villane tuulejope,meeste_riided,312.41,197.42,114.99,36.81
+214,INV-202301-00214,2023-01-14,4868.0,1190,3,138.13,-414.39,pood,Tallinn,kaart,90.95,Õhuline orgaaniline alussärk,laste_riided,-414.39,272.85,-687.24,165.84
+215,INV-202301-00215,2023-01-24,2997.0,1342,1,208.11,208.11,pood,Tartu,kaart,131.66,Klassikaline flanellne cargo püksid,meeste_riided,208.11,131.66,76.45,36.74
+216,INV-202301-00216,2023-01-06,2735.0,1241,1,368.97,368.97,pood,Tartu,järelmaks,248.79,Stiilne goretex kingad,jalanõusid,368.97,248.79,120.18,32.57
+217,INV-202301-00217,2023-01-17,3384.0,1261,1,305.72,305.72,pood,Tallinn,järelmaks,305.72,Vintage nahkne tossud,jalanõusid,305.72,305.72,0.0,0.0
+218,INV-202301-00218,2023-01-14,3128.0,1168,1,316.04,316.04,online,,kaart,214.05,Trendikas džersii slim-fit püksid,meeste_riided,316.04,214.05,101.99,32.27
+219,INV-202301-00219,2023-01-29,4460.0,1249,1,73.9,73.9,pood,Tallinn,kaart,50.59,Trendikas puuvillane body,laste_riided,73.9,50.59,23.31,31.54
+220,INV-202301-00220,2023-01-01,4864.0,1135,2,175.25,350.5,pood,Pärnu,kaart,124.02,Soe polüester cargo püksid,meeste_riided,350.5,248.04,102.46,29.23
+221,INV-202301-00221,2023-01-22,,1334,1,24.67,24.67,pood,Tallinn,järelmaks,17.29,Moodne orgaaniline bleiser,laste_riided,24.67,17.29,7.38,29.91
+222,INV-202301-00222,2023-01-15,,1080,2,51.5,-103.0,pood,Pärnu,sularaha,35.75,Minimalistlik softshell chino püksid,laste_riided,-103.0,71.5,-174.5,169.42
+223,INV-202301-00223,2023-01-23,4266.0,1199,2,276.97,553.94,pood,Tallinn,sularaha,163.71,Klassikaline kangast tennised,jalanõusid,553.94,327.42,226.52,40.89
+224,INV-202301-00224,2023-01-06,2744.0,1006,3,319.42,958.26,pood,Tallinn,kaart,208.86,Praktiline džersii seelik,naiste_riided,958.26,626.58,331.68,34.61
+225,INV-202301-00225,2023-01-20,,1178,2,105.09,210.18,pood,Tallinn,sularaha,68.59,Kerge linane kampsun,meeste_riided,210.18,137.18,73.0,34.73
+226,INV-202301-00226,2023-01-15,4178.0,1045,1,176.65,176.65,pood,Tallinn,kaart,117.46,Praktiline kangast elastne vöö,aksessuaarid,176.65,117.46,59.19,33.51
+227,INV-202301-00227,2023-01-15,4024.0,1126,3,200.77,602.31,pood,Tallinn,kaart,141.7,Mugav kashmiir skaterkleit,naiste_riided,602.31,425.1,177.21,29.42
+228,INV-202301-00228,2023-01-04,,1201,4,147.16,588.64,pood,Tallinn,sularaha,91.71,Moodne keraamiline sall,aksessuaarid,588.64,366.84,221.8,37.68
+229,INV-202301-00229,2023-01-02,4150.0,1089,1,134.58,134.58,pood,Tallinn,kaart,90.91,Vintage tweed smokingüklikond,meeste_riided,134.58,90.91,43.67,32.45
+230,INV-202301-00230,2023-01-31,4643.0,1142,1,307.27,307.27,online,,kaart,211.12,Sportlik seemisnahkne nahk sandaalid,jalanõusid,307.27,211.12,96.15,31.29
+231,INV-202301-00231,2023-01-13,2819.0,1328,1,274.87,274.87,online,,järelmaks,165.23,Õhuline goretex kingad,jalanõusid,274.87,165.23,109.64,39.89
+232,INV-202301-00232,2023-01-11,4235.0,1261,1,305.72,305.72,pood,Tallinn,kaart,305.72,Vintage nahkne tossud,jalanõusid,305.72,305.72,0.0,0.0
+233,INV-202301-00233,2023-01-10,4467.0,1012,2,160.21,-320.42,online,,sularaha,111.3,Boheemlaslik merino villane cargo püksid,meeste_riided,-320.42,222.6,-543.02,169.47
+234,INV-202301-00234,2023-01-12,3854.0,1119,3,181.68,545.04,online,,järelmaks,116.87,Boheemlaslik kangast kangasvöö,aksessuaarid,545.04,350.61,194.43,35.67
+235,INV-202301-00235,2023-01-17,4178.0,1333,4,218.54,874.16,pood,Tallinn,järelmaks,140.09,Boheemlaslik nahkne kõrge kontsaga kingad,jalanõusid,874.16,560.36,313.8,35.9
+236,INV-202301-00236,2023-01-25,4414.0,1239,1,78.09,78.09,pood,Tallinn,kaart,47.31,Minimalistlik viskoosne skaterkleit,naiste_riided,78.09,47.31,30.78,39.42
+237,INV-202301-00237,2023-01-23,2041.0,1051,3,208.83,626.49,pood,Tallinn,sularaha,131.92,Soe merino villane topik,naiste_riided,626.49,395.76,230.73,36.83
+238,INV-202301-00238,2023-01-23,4544.0,1047,1,155.84,155.84,online,,sularaha,94.85,Elegantne keraamiline rahakott,aksessuaarid,155.84,94.85,60.99,39.14
+239,INV-202301-00239,2023-01-05,2518.0,1248,1,169.92,145.5,pood,Tallinn,sularaha,99.69,Soe villane kingad,jalanõusid,145.5,99.69,45.81,31.48
+240,INV-202301-00240,2023-01-14,4533.0,1296,3,301.97,905.91,pood,Tallinn,kaart,181.98,Kerge džersii pluus,naiste_riided,905.91,545.94,359.97,39.74
+241,INV-202301-00241,2023-01-10,3332.0,1008,2,280.13,560.26,online,,kaart,167.26,Minimalistlik nahkne platvormi kontsad,jalanõusid,560.26,334.52,225.74,40.29
+242,INV-202301-00242,2023-01-20,3654.0,1120,2,206.34,412.68,pood,Tallinn,järelmaks,143.23,Soe seemisnahkne jooksutossud,jalanõusid,412.68,286.46,126.22,30.59
+243,INV-202301-00243,2023-01-12,2141.0,1278,1,263.13,263.13,online,,kaart,174.86,Soe satiinne pluus,naiste_riided,263.13,174.86,88.27,33.55
+244,INV-202301-00244,2023-01-03,3861.0,1345,2,225.81,451.62,pood,Tartu,kaart,160.82,Klassikaline kashmiir pusa,naiste_riided,451.62,321.64,129.98,28.78
+245,INV-202301-00245,2023-01-20,,1158,1,70.01,70.01,pood,Tallinn,sularaha,42.44,Praktiline flanellne linane särk,meeste_riided,70.01,42.44,27.57,39.38
+246,INV-202301-00246,2023-01-01,3110.0,1333,1,218.54,218.54,online,,kaart,140.09,Boheemlaslik nahkne kõrge kontsaga kingad,jalanõusid,218.54,140.09,78.45,35.9
+247,INV-202301-00247,2023-01-12,4322.0,1153,2,79.59,159.18,online,,kaart,48.21,Soe teksane smokingüklikond,meeste_riided,159.18,96.42,62.76,39.43
+248,INV-202301-00248,2023-01-12,2036.0,1245,2,228.81,457.62,online,,kaart,154.84,Trendikas nahkne oxfordid,jalanõusid,457.62,309.68,147.94,32.33
+249,INV-202301-00249,2023-01-25,4624.0,1177,3,135.99,407.97,pood,Tallinn,kaart,87.88,Minimalistlik linane tuunika,naiste_riided,407.97,263.64,144.33,35.38
+250,INV-202301-00250,2023-01-28,3644.0,1082,1,100.93,100.93,pood,Tallinn,sularaha,71.58,Boheemlaslik polüester casual särk,meeste_riided,100.93,71.58,29.35,29.08
+251,INV-202301-00251,2023-01-11,3398.0,1321,1,183.4,183.4,pood,Tallinn,järelmaks,110.17,Moodne siidine sall,aksessuaarid,183.4,110.17,73.23,39.93
+252,INV-202301-00252,2023-01-07,4330.0,1029,1,184.15,184.15,pood,Tartu,sularaha,117.97,Stiilne villane sõrmkindad,aksessuaarid,184.15,117.97,66.18,35.94
+253,INV-202301-00253,2023-01-25,3825.0,1281,2,292.61,585.22,pood,Tallinn,järelmaks,190.07,Sportlik villane tossud,jalanõusid,585.22,380.14,205.08,35.04
+254,INV-202301-00254,2023-01-01,4593.0,1135,1,175.25,175.25,pood,Pärnu,järelmaks,124.02,Soe polüester cargo püksid,meeste_riided,175.25,124.02,51.23,29.23
+255,INV-202301-00255,2023-01-29,2218.0,1335,3,201.86,605.58,pood,Tartu,järelmaks,125.17,Boheemlaslik polüester slim-fit särk,meeste_riided,605.58,375.51,230.07,37.99
+256,INV-202301-00256,2023-01-06,4150.0,1086,1,149.47,149.47,pood,Pärnu,järelmaks,93.74,Praktiline nahkne sõrmus,aksessuaarid,149.47,93.74,55.73,37.29
+257,INV-202301-00257,2023-01-07,3850.0,1163,1,259.69,259.69,pood,Tallinn,sularaha,158.13,Luksuslik tweed triiksärk,meeste_riided,259.69,158.13,101.56,39.11
+258,INV-202301-00258,2023-01-31,3555.0,1273,2,274.37,548.74,pood,Tallinn,järelmaks,194.73,Trendikas puuvillane skaterkleit,naiste_riided,548.74,389.46,159.28,29.03
+260,INV-202301-00260,2023-01-23,3365.0,1217,3,34.04,102.12,pood,Tartu,järelmaks,21.18,Sportlik villane püksid,laste_riided,102.12,63.54,38.58,37.78
+261,INV-202301-00261,2023-01-09,3212.0,1219,2,29.42,58.84,pood,Tallinn,kaart,19.35,Kerge nahkne õlakott,aksessuaarid,58.84,38.7,20.14,34.23
+262,INV-202302-00001,2023-02-06,4191.0,1175,3,83.97,251.91,online,,järelmaks,57.43,Luksuslik sünteetiline nahk sandaalid,jalanõusid,251.91,172.29,79.62,31.61
+263,INV-202302-00002,2023-02-07,3883.0,1154,1,190.81,190.81,pood,Tallinn,kaart,119.91,Praktiline nahkne nahk sandaalid,jalanõusid,190.81,119.91,70.9,37.16
+264,INV-202302-00003,2023-02-24,3618.0,1047,1,155.84,155.84,pood,Tartu,kaart,94.85,Elegantne keraamiline rahakott,aksessuaarid,155.84,94.85,60.99,39.14
+265,INV-202302-00004,2023-02-12,4166.0,1313,3,77.6,232.8,online,,järelmaks,47.35,Klassikaline flanellne smokingüklikond,meeste_riided,232.8,142.05,90.75,38.98
+266,INV-202302-00005,2023-02-18,2994.0,1296,2,301.97,603.94,online,,kaart,181.98,Kerge džersii pluus,naiste_riided,603.94,363.96,239.98,39.74
+267,INV-202302-00006,2023-02-06,3470.0,1100,5,126.42,632.1,online,,sularaha,75.76,Sportlik merino villane ülikond,meeste_riided,632.1,378.8,253.3,40.07
+268,INV-202302-00007,2023-02-21,,1180,1,51.58,51.58,pood,Tartu,kaart,36.04,Soe puuvillane chino püksid,laste_riided,51.58,36.04,15.54,30.13
+269,INV-202302-00008,2023-02-25,,1011,1,53.99,53.99,pood,Tallinn,järelmaks,35.43,Moodne villane pühapäevakleit,laste_riided,53.99,35.43,18.56,34.38
+270,INV-202302-00009,2023-02-24,4918.0,1154,4,190.81,763.24,online,,järelmaks,119.91,Praktiline nahkne nahk sandaalid,jalanõusid,763.24,479.64,283.6,37.16
+271,INV-202302-00010,2023-02-05,2212.0,1297,2,104.27,208.54,pood,Tallinn,kaart,68.96,Trendikas trikoo skaterkleit,laste_riided,208.54,137.92,70.62,33.86
+272,INV-202302-00011,2023-02-22,3438.0,1084,2,156.13,312.26,online,,järelmaks,98.37,Õhuline nahkne elastne vöö,aksessuaarid,312.26,196.74,115.52,36.99
+273,INV-202302-00012,2023-02-17,2251.0,1243,1,184.02,184.02,online,,järelmaks,122.15,Trendikas kangast kindad,aksessuaarid,184.02,122.15,61.87,33.62
+274,INV-202302-00013,2023-02-17,4863.0,1159,2,24.54,49.08,pood,Tallinn,kaart,16.53,Praktiline trikoo sukkpüksid,laste_riided,49.08,33.06,16.02,32.64
+275,INV-202302-00014,2023-02-02,4672.0,1176,1,245.59,245.59,online,,kaart,159.4,Boheemlaslik merino villane kapuutsiga pusa,naiste_riided,245.59,159.4,86.19,35.1
+276,INV-202302-00015,2025-12-14,2221.0,1316,1,296.58,296.58,pood,Tallinn,kaart,197.21,Luksuslik flanellne smokingüklikond,meeste_riided,296.58,197.21,99.37,33.51
+277,INV-202302-00016,2023-02-17,4511.0,1196,3,32.93,98.79,pood,Tartu,kaart,22.43,Klassikaline satiinne mantelpaltoo,naiste_riided,98.79,67.29,31.5,31.89
+278,INV-202302-00017,2023-02-26,4330.0,1026,3,212.65,498.81,pood,Tallinn,kaart,107.22,Vintage siidine skaterkleit,naiste_riided,498.81,321.66,177.15,35.51
+279,INV-202302-00018,2023-02-26,2622.0,1178,3,105.09,315.27,online,,kaart,68.59,Kerge linane kampsun,meeste_riided,315.27,205.77,109.5,34.73
+280,INV-202302-00019,2023-02-23,2610.0,1048,3,16.37,49.11,pood,Tallinn,järelmaks,10.15,Soe siidine kaelakee,aksessuaarid,49.11,30.45,18.66,38.0
+281,INV-202302-00020,2023-02-25,3466.0,1087,1,57.08,57.08,pood,Tartu,kaart,33.7,Kerge puust barett,aksessuaarid,57.08,33.7,23.38,40.96
+282,INV-202302-00021,2023-02-15,4178.0,1022,1,22.7,22.7,pood,Tallinn,sularaha,15.92,Minimalistlik puuvillane pidžaama,laste_riided,22.7,15.92,6.78,29.87
+283,INV-202302-00022,2023-02-06,3997.0,1298,2,163.53,327.06,online,,kaart,100.31,Boheemlaslik merino villane poolsäärne kampsun,meeste_riided,327.06,200.62,126.44,38.66
+285,INV-202302-00024,2023-02-13,4419.0,1247,1,29.48,29.48,pood,Tallinn,järelmaks,18.93,Mugav klaasist kõrvarõngad,aksessuaarid,29.48,18.93,10.55,35.79
+286,INV-202302-00025,2023-02-02,4469.0,1187,1,252.33,252.33,online,,sularaha,150.21,Mugav kashmiir pusa,naiste_riided,252.33,150.21,102.12,40.47
+287,INV-202302-00026,2023-02-01,4949.0,1254,2,136.3,272.6,pood,Tallinn,järelmaks,92.57,Luksuslik orgaaniline pühapäevakleit,laste_riided,272.6,185.14,87.46,32.08
+288,INV-202302-00027,2023-02-03,4747.0,1087,2,57.08,114.16,online,,sularaha,33.7,Kerge puust barett,aksessuaarid,114.16,67.4,46.76,40.96
+289,INV-202302-00028,2023-02-19,4716.0,1300,2,247.52,495.04,pood,Tallinn,sularaha,170.6,Luksuslik merino villane chino püksid,naiste_riided,495.04,341.2,153.84,31.08
+290,INV-202302-00029,2023-02-27,4839.0,1318,2,218.42,436.84,pood,Tartu,kaart,135.24,Elegantne flanellne cargo püksid,meeste_riided,436.84,270.48,166.36,38.08
+291,INV-202302-00030,2023-02-01,,1271,2,130.02,260.04,pood,Tartu,järelmaks,88.09,Mugav puuvillane suvekleit,laste_riided,260.04,176.18,83.86,32.25
+292,INV-202302-00031,2023-02-16,3008.0,1293,3,351.33,1053.99,online,,sularaha,217.33,Boheemlaslik linane pullover,naiste_riided,1053.99,651.99,402.0,38.14
+293,INV-202302-00032,2023-02-25,3127.0,1250,1,265.2,265.2,pood,Tallinn,sularaha,174.06,Sportlik linane jakk,naiste_riided,265.2,174.06,91.14,34.37
+294,INV-202302-00033,2023-02-11,3622.0,1102,1,163.64,163.64,online,,kaart,112.68,Minimalistlik sünteetiline saapad,jalanõusid,163.64,112.68,50.96,31.14
+295,INV-202302-00034,2023-02-13,3446.0,1033,1,221.42,221.42,pood,Tallinn,kaart,149.36,Moodne seemisnahkne oxfordid,jalanõusid,221.42,149.36,72.06,32.54
+296,INV-202302-00035,2023-02-09,4232.0,1032,1,198.42,198.42,online,,sularaha,132.11,Boheemlaslik seemisnahkne oxfordid,jalanõusid,198.42,132.11,66.31,33.42
+297,INV-202302-00036,2023-02-16,2281.0,1049,1,308.84,308.84,pood,Tallinn,kaart,200.72,Boheemlaslik puuvillane tuulejope,naiste_riided,308.84,200.72,108.12,35.01
+298,INV-202302-00037,2023-02-25,2551.0,1187,2,252.33,504.66,online,,järelmaks,150.21,Mugav kashmiir pusa,naiste_riided,504.66,300.42,204.24,40.47
+299,INV-202302-00038,2023-02-07,2929.0,1339,1,35.68,35.68,pood,Tallinn,järelmaks,24.14,Moodne puuvillane komplekt,laste_riided,35.68,24.14,11.54,32.34
+300,INV-202302-00039,2023-02-02,3305.0,1297,2,104.27,208.54,pood,Tallinn,kaart,68.96,Trendikas trikoo skaterkleit,laste_riided,208.54,137.92,70.62,33.86
+301,INV-202302-00040,2023-02-07,2172.0,1029,1,203.37,184.15,online,,kaart,117.97,Stiilne villane sõrmkindad,aksessuaarid,184.15,117.97,66.18,35.94
+302,INV-202302-00041,2023-02-01,2344.0,1152,4,107.67,430.68,pood,Tallinn,kaart,65.22,Vintage teksane chino püksid,meeste_riided,430.68,260.88,169.8,39.43
+303,INV-202302-00042,2023-02-10,3500.0,1166,1,205.0,205.0,pood,Tallinn,sularaha,136.45,Õhuline flanellne smokingüklikond,meeste_riided,205.0,136.45,68.55,33.44
+304,INV-202302-00043,2023-02-05,2973.0,1340,1,229.01,229.01,online,,sularaha,136.18,Boheemlaslik tweed smokingüklikond,meeste_riided,229.01,136.18,92.83,40.54
+305,INV-202302-00044,2023-02-13,4024.0,1190,3,138.13,414.39,online,,järelmaks,90.95,Õhuline orgaaniline alussärk,laste_riided,414.39,272.85,141.54,34.16
+306,INV-202302-00045,2023-02-24,4394.0,1027,1,346.7,346.7,pood,Tartu,sularaha,346.7,Praktiline viskoosne jakk,naiste_riided,346.7,346.7,0.0,0.0
+307,INV-202302-00046,2023-02-22,4319.0,1235,1,210.87,210.87,pood,Tallinn,sularaha,146.89,Soe linane mantelpaltoo,meeste_riided,210.87,146.89,63.98,30.34
+308,INV-202302-00047,2023-02-24,2687.0,1018,1,47.07,47.07,online,,järelmaks,28.35,Boheemlaslik klaasist kaelakee,aksessuaarid,47.07,28.35,18.72,39.77
+309,INV-202302-00048,2023-02-03,,1281,2,292.61,585.22,pood,Tartu,kaart,190.07,Sportlik villane tossud,jalanõusid,585.22,380.14,205.08,35.04
+310,INV-202302-00049,2023-02-09,,1161,2,121.98,243.96,pood,Tallinn,kaart,81.53,Luksuslik keraamiline seljakott,aksessuaarid,243.96,163.06,80.9,33.16
+311,INV-202302-00050,2023-02-15,,1287,2,114.8,229.6,online,,kaart,72.82,Stiilne fliisist komplekt,laste_riided,229.6,145.64,83.96,36.57
+312,INV-202302-00051,2023-02-12,3788.0,1208,2,76.7,153.4,online,,sularaha,51.35,Luksuslik linane bleiser,naiste_riided,153.4,102.7,50.7,33.05
+313,INV-202302-00052,2023-02-05,,1021,1,94.65,94.65,pood,Tartu,kaart,56.9,Minimalistlik trikoo pidžaama,laste_riided,94.65,56.9,37.75,39.88
+314,INV-202302-00053,2023-02-17,3629.0,1249,2,73.9,147.8,pood,Tallinn,kaart,50.59,Trendikas puuvillane body,laste_riided,147.8,101.18,46.62,31.54
+315,INV-202302-00054,2023-02-20,2963.0,1313,2,77.6,155.2,pood,Tallinn,sularaha,47.35,Klassikaline flanellne smokingüklikond,meeste_riided,155.2,94.7,60.5,38.98
+316,INV-202302-00055,2023-02-06,4552.0,1036,2,137.33,274.66,online,,kaart,85.3,Praktiline puuvillane ülikond,meeste_riided,274.66,170.6,104.06,37.89
+317,INV-202302-00056,2023-02-22,4178.0,1156,1,221.89,221.89,online,,kaart,130.81,Sportlik puuvillane slim-fit püksid,naiste_riided,221.89,130.81,91.08,41.05
+318,INV-202302-00057,2023-02-07,2122.0,1282,1,16.62,16.62,pood,Pärnu,järelmaks,11.42,Moodne villane kaelasall,aksessuaarid,16.62,11.42,5.2,31.29
+319,INV-202302-00058,2023-02-26,4070.0,1277,2,121.51,243.02,pood,Tallinn,sularaha,79.45,Stiilne kangast jooksutossud,jalanõusid,243.02,158.9,84.12,34.61
+320,INV-202302-00059,2023-02-21,3723.0,1118,2,109.42,218.84,pood,Tallinn,sularaha,65.28,Elegantne villane kaabu,aksessuaarid,218.84,130.56,88.28,40.34
+321,INV-202302-00060,2023-02-27,3350.0,1055,4,65.6,262.4,online,,kaart,41.58,Elegantne puust kootud müts,aksessuaarid,262.4,166.32,96.08,36.62
+322,INV-202302-00061,2023-02-16,,1314,1,234.91,234.91,pood,Tallinn,kaart,153.13,Boheemlaslik nahkne talvesaapad,jalanõusid,234.91,153.13,81.78,34.81
+323,INV-202302-00062,2023-02-21,,1272,1,183.31,183.31,pood,Tartu,kaart,115.94,Boheemlaslik siidine sõrmkindad,aksessuaarid,183.31,115.94,67.37,36.75
+324,INV-202302-00063,2023-02-11,2793.0,1334,5,24.67,123.35,pood,Tartu,kaart,17.29,Moodne orgaaniline bleiser,laste_riided,123.35,86.45,36.9,29.91
+325,INV-202302-00064,2023-02-03,3737.0,1233,3,111.26,333.78,pood,Pärnu,kaart,67.78,Vintage viskoosne püksid,naiste_riided,333.78,203.34,130.44,39.08
+326,INV-202302-00065,2023-02-07,2533.0,1117,1,72.58,72.58,online,,kaart,46.62,Sportlik fliisist slim-fit püksid,laste_riided,72.58,46.62,25.96,35.77
+327,INV-202302-00066,2023-02-27,3655.0,1287,2,114.8,229.6,online,,sularaha,72.82,Stiilne fliisist komplekt,laste_riided,229.6,145.64,83.96,36.57
+328,INV-202302-00067,2023-02-15,2681.0,1302,2,54.95,109.9,pood,Pärnu,sularaha,36.03,Kerge puuvillane chino püksid,laste_riided,109.9,72.06,37.84,34.43
+329,INV-202302-00068,2023-02-02,4767.0,1201,1,147.16,147.16,online,,järelmaks,91.71,Moodne keraamiline sall,aksessuaarid,147.16,91.71,55.45,37.68
+330,INV-202302-00069,2023-02-21,4008.0,1042,2,347.84,695.68,pood,Pärnu,sularaha,223.47,Luksuslik teksane polo särk,meeste_riided,695.68,446.94,248.74,35.75
+331,INV-202302-00070,2023-02-19,3913.0,1145,3,338.43,1015.29,pood,Tartu,järelmaks,217.23,Mugav tweed ülikond,meeste_riided,1015.29,651.69,363.6,35.81
+332,INV-202302-00071,2023-02-22,3956.0,1063,1,151.45,151.45,online,,järelmaks,107.69,Mugav softshell slim-fit püksid,laste_riided,151.45,107.69,43.76,28.89
+333,INV-202302-00072,2023-02-28,4261.0,1015,2,168.34,336.68,online,,sularaha,104.83,Mugav merino villane dressipluus,naiste_riided,336.68,209.66,127.02,37.73
+334,INV-202302-00073,2023-02-14,2713.0,1082,2,100.93,201.86,pood,Pärnu,järelmaks,71.58,Boheemlaslik polüester casual särk,meeste_riided,201.86,143.16,58.7,29.08
+335,INV-202302-00074,2023-02-28,3085.0,1080,1,51.5,51.5,online,,järelmaks,35.75,Minimalistlik softshell chino püksid,laste_riided,51.5,35.75,15.75,30.58
+336,INV-202302-00075,2023-02-28,3415.0,1150,2,280.02,560.04,pood,Tallinn,sularaha,191.67,Soe siidine särk-pluus,naiste_riided,560.04,383.34,176.7,31.55
+337,INV-202302-00076,2023-02-16,2805.0,1228,2,160.71,321.42,pood,Tallinn,järelmaks,108.16,Stiilne džersii püksid,meeste_riided,321.42,216.32,105.1,32.7
+338,INV-202302-00077,2023-02-03,3114.0,1050,4,145.72,582.88,pood,Pärnu,järelmaks,86.55,Trendikas nahkne sõrmus,aksessuaarid,582.88,346.2,236.68,40.61
+339,INV-202302-00078,2023-02-01,4045.0,1199,2,276.97,553.94,pood,Pärnu,sularaha,163.71,Klassikaline kangast tennised,jalanõusid,553.94,327.42,226.52,40.89
+340,INV-202302-00079,2023-02-12,3872.0,1001,3,157.49,472.47,pood,Tallinn,järelmaks,99.21,Praktiline seemisnahkne tennised,jalanõusid,472.47,297.63,174.84,37.01
+341,INV-202302-00080,2023-02-13,3248.0,1306,2,93.13,186.26,pood,Tartu,järelmaks,59.65,Elegantne kangast kindad,aksessuaarid,186.26,119.3,66.96,35.95
+342,INV-202302-00081,2023-02-10,2893.0,1217,1,34.04,34.04,pood,Pärnu,sularaha,21.18,Sportlik villane püksid,laste_riided,34.04,21.18,12.86,37.78
+343,INV-202302-00082,2023-02-18,4824.0,1003,1,52.04,52.04,pood,Tallinn,järelmaks,31.83,Elegantne orgaaniline kleit,laste_riided,52.04,31.83,20.21,38.84
+344,INV-202302-00083,2023-02-28,2641.0,1144,2,152.13,304.26,online,,kaart,105.72,Mugav polüester püksid,meeste_riided,304.26,211.44,92.82,30.51
+345,INV-202302-00084,2023-02-22,2365.0,1033,2,221.42,442.84,online,,sularaha,149.36,Moodne seemisnahkne oxfordid,jalanõusid,442.84,298.72,144.12,32.54
+346,INV-202302-00085,2023-02-14,4249.0,1226,1,51.1,51.1,online,,sularaha,36.22,Elegantne klaasist barett,aksessuaarid,51.1,36.22,14.88,29.12
+347,INV-202302-00086,2023-02-25,2732.0,1266,4,73.18,292.72,online,,järelmaks,45.64,Elegantne kangast platvorm sandaalid,jalanõusid,292.72,182.56,110.16,37.63
+348,INV-202302-00087,2023-02-13,4932.0,1063,1,151.45,151.45,pood,Tallinn,sularaha,107.69,Mugav softshell slim-fit püksid,laste_riided,151.45,107.69,43.76,28.89
+349,INV-202302-00088,2023-02-14,2760.0,1324,2,224.19,448.38,pood,Tartu,kaart,135.32,Boheemlaslik satiinne seelik,naiste_riided,448.38,270.64,177.74,39.64
+350,INV-202302-00089,2023-02-02,2017.0,1044,1,83.23,83.23,pood,Tartu,järelmaks,49.0,Moodne kashmiir seelik,naiste_riided,83.23,49.0,34.23,41.13
+351,INV-202302-00090,2023-02-23,,1339,1,35.68,35.68,online,,sularaha,24.14,Moodne puuvillane komplekt,laste_riided,35.68,24.14,11.54,32.34
+352,INV-202302-00091,2023-02-20,4616.0,1142,3,307.27,921.81,pood,Tallinn,kaart,211.12,Sportlik seemisnahkne nahk sandaalid,jalanõusid,921.81,633.36,288.45,31.29
+353,INV-202302-00092,2023-02-10,3576.0,1256,1,296.4,296.4,online,,sularaha,176.78,Klassikaline puuvillane skaterkleit,naiste_riided,296.4,176.78,119.62,40.36
+354,INV-202302-00093,2023-02-18,4065.0,1113,1,86.46,86.46,pood,Tallinn,kaart,52.42,Moodne trikoo koolikomplekt,laste_riided,86.46,52.42,34.04,39.37
+355,INV-202302-00094,2023-02-02,4160.0,1104,3,191.48,574.44,pood,Tallinn,järelmaks,117.01,Vintage kangast vöö,aksessuaarid,574.44,351.03,223.41,38.89
+356,INV-202302-00095,2023-02-16,4011.0,1138,1,130.73,130.73,pood,Tallinn,sularaha,83.37,Vintage orgaaniline body,laste_riided,130.73,83.37,47.36,36.23
+357,INV-202302-00096,2023-02-08,3465.0,1096,1,273.32,273.32,online,,kaart,184.37,Soe seemisnahkne nahk sandaalid,jalanõusid,273.32,184.37,88.95,32.54
+358,INV-202302-00097,2023-02-17,3312.0,1101,2,159.25,318.5,pood,Pärnu,järelmaks,102.96,Õhuline flanellne V-kaelusega kampsun,meeste_riided,318.5,205.92,112.58,35.35
+359,INV-202302-00098,2023-02-04,3648.0,1190,1,138.13,138.13,online,,järelmaks,90.95,Õhuline orgaaniline alussärk,laste_riided,138.13,90.95,47.18,34.16
+360,INV-202302-00099,2023-02-13,4626.0,1231,1,72.6,72.6,pood,Tallinn,sularaha,43.77,Praktiline trikoo püksid,laste_riided,72.6,43.77,28.83,39.71
+361,INV-202302-00100,2023-02-01,3993.0,1218,1,108.09,108.09,pood,Tallinn,kaart,72.15,Luksuslik satiinne teksapüksid,naiste_riided,108.09,72.15,35.94,33.25
+362,INV-202302-00101,2023-02-21,4178.0,1148,1,48.85,48.85,pood,Pärnu,sularaha,32.65,Luksuslik tweed linane särk,meeste_riided,48.85,32.65,16.2,33.16
+363,INV-202302-00102,2023-02-10,2500.0,1236,1,205.89,205.89,online,,järelmaks,127.65,Stiilne puust müts,aksessuaarid,205.89,127.65,78.24,38.0
+364,INV-202302-00103,2023-02-15,2913.0,1056,2,347.16,694.32,online,,järelmaks,239.12,Mugav flanellne linane kostüüm,meeste_riided,694.32,478.24,216.08,31.12
+365,INV-202302-00104,2023-02-19,2285.0,1046,5,358.41,1792.05,pood,Pärnu,sularaha,237.5,Sportlik kangast tossud,jalanõusid,1792.05,1187.5,604.55,33.74
+366,INV-202302-00105,2023-02-20,3709.0,1135,2,175.25,350.5,pood,Pärnu,sularaha,124.02,Soe polüester cargo püksid,meeste_riided,350.5,248.04,102.46,29.23
+367,INV-202302-00106,2023-02-01,3472.0,1076,2,89.29,178.58,online,,sularaha,89.29,Klassikaline džersii bleiser,meeste_riided,178.58,178.58,0.0,0.0
+368,INV-202302-00107,2023-02-13,3227.0,1185,1,203.67,203.67,pood,Tallinn,sularaha,129.9,Moodne džersii slim-fit ülikond,meeste_riided,203.67,129.9,73.77,36.22
+369,INV-202302-00108,2023-02-24,2706.0,1320,1,30.05,30.05,pood,Tallinn,kaart,20.02,Trendikas fliisist tuulejope,laste_riided,30.05,20.02,10.03,33.38
+370,INV-202302-00109,2023-02-01,4178.0,1122,1,202.57,202.57,pood,Tartu,sularaha,133.1,Moodne kashmiir plisseeseelik,naiste_riided,202.57,133.1,69.47,34.29
+371,INV-202302-00110,2023-02-17,2186.0,1030,1,112.68,112.68,pood,Tallinn,sularaha,68.58,Minimalistlik softshell cargo püksid,laste_riided,112.68,68.58,44.1,39.14
+372,INV-202302-00111,2023-02-01,3603.0,1228,2,160.71,321.42,online,,kaart,108.16,Stiilne džersii püksid,meeste_riided,321.42,216.32,105.1,32.7
+373,INV-202302-00112,2023-02-14,2709.0,1284,2,99.57,199.14,online,,kaart,59.84,Vintage softshell alussärk,laste_riided,199.14,119.68,79.46,39.9
+374,INV-202302-00113,2023-02-20,4592.0,1130,1,98.68,98.68,online,,järelmaks,69.24,Stiilne puuvillane mantelpaltoo,laste_riided,98.68,69.24,29.44,29.83
+375,INV-202302-00114,2023-02-08,4989.0,1304,2,210.36,420.72,online,,sularaha,148.01,Kerge villane talvesaapad,jalanõusid,420.72,296.02,124.7,29.64
+376,INV-202302-00115,2023-02-24,3841.0,1144,1,152.13,152.13,pood,Pärnu,järelmaks,105.72,Mugav polüester püksid,meeste_riided,152.13,105.72,46.41,30.51
+377,INV-202302-00116,2023-02-13,3012.0,1086,1,149.47,149.47,pood,Tallinn,kaart,93.74,Praktiline nahkne sõrmus,aksessuaarid,149.47,93.74,55.73,37.29
+378,INV-202302-00117,2023-02-21,3673.0,1287,3,114.8,344.4,pood,Tartu,sularaha,72.82,Stiilne fliisist komplekt,laste_riided,344.4,218.46,125.94,36.57
+379,INV-202302-00118,2023-02-21,3633.0,1184,2,86.14,172.28,pood,Tallinn,kaart,59.8,Sportlik puuvillane chino püksid,laste_riided,172.28,119.6,52.68,30.58
+380,INV-202302-00119,2023-02-23,2941.0,1322,3,101.26,303.78,online,,järelmaks,67.96,Boheemlaslik orgaaniline bleiser,laste_riided,303.78,203.88,99.9,32.89
+381,INV-202302-00120,2023-02-27,4644.0,1228,1,160.71,160.71,online,,järelmaks,108.16,Stiilne džersii püksid,meeste_riided,160.71,108.16,52.55,32.7
+382,INV-202302-00121,2023-02-11,,1253,1,253.8,253.8,online,,sularaha,163.16,Klassikaline kangast platvormi kontsad,jalanõusid,253.8,163.16,90.64,35.71
+383,INV-202302-00122,2023-02-12,3094.0,1031,1,434.08,434.08,pood,Pärnu,järelmaks,266.31,Õhuline sünteetiline sporditossud,jalanõusid,434.08,266.31,167.77,38.65
+384,INV-202302-00123,2023-02-15,3514.0,1077,2,62.56,125.12,pood,Pärnu,kaart,36.98,Boheemlaslik kangast reisikott,aksessuaarid,125.12,73.96,51.16,40.89
+385,INV-202302-00124,2023-02-07,4484.0,1123,2,219.38,-438.76,pood,Tallinn,sularaha,130.57,Stiilne kangast nokamüts,aksessuaarid,-438.76,261.14,-699.9,159.52
+386,INV-202302-00125,2023-02-26,3953.0,1218,1,108.09,108.09,pood,Tallinn,järelmaks,72.15,Luksuslik satiinne teksapüksid,naiste_riided,108.09,72.15,35.94,33.25
+387,INV-202302-00126,2023-02-02,4088.0,1306,1,93.13,93.13,online,,kaart,59.65,Elegantne kangast kindad,aksessuaarid,93.13,59.65,33.48,35.95
+388,INV-202302-00127,2023-02-11,2589.0,1341,2,45.21,90.42,pood,Tallinn,sularaha,27.64,Stiilne siidine labakindad,aksessuaarid,90.42,55.28,35.14,38.86
+389,INV-202302-00128,2023-02-14,4348.0,1222,1,26.62,26.62,pood,Tallinn,kaart,16.81,Luksuslik softshell komplekt,laste_riided,26.62,16.81,9.81,36.85
+390,INV-202302-00129,2023-02-04,3248.0,1348,2,125.52,251.04,online,,sularaha,89.31,Elegantne teksane cargo püksid,meeste_riided,251.04,178.62,72.42,28.85
+391,INV-202302-00130,2023-02-07,4951.0,1291,1,219.83,219.83,pood,Pärnu,järelmaks,138.06,Kerge siidine nahkkindad,aksessuaarid,219.83,138.06,81.77,37.2
+392,INV-202302-00131,2023-02-28,,1310,1,106.21,106.21,pood,Tallinn,järelmaks,66.03,Luksuslik fliisist komplekt,laste_riided,106.21,66.03,40.18,37.83
+393,INV-202302-00132,2023-02-01,2872.0,1035,2,65.52,131.04,online,,sularaha,45.18,Luksuslik goretex tennised,jalanõusid,131.04,90.36,40.68,31.04
+394,INV-202302-00133,2023-02-07,2326.0,1071,1,237.71,237.71,pood,Tallinn,kaart,140.42,Klassikaline viskoosne õhtukleit,naiste_riided,237.71,140.42,97.29,40.93
+395,INV-202302-00134,2023-02-02,2659.0,1085,3,247.81,743.43,pood,Tallinn,kaart,156.58,Vintage linane bleiser,meeste_riided,743.43,469.74,273.69,36.81
+396,INV-202302-00135,2023-02-13,2156.0,1116,1,134.94,134.94,pood,Pärnu,sularaha,94.03,Elegantne keraamiline labakindad,aksessuaarid,134.94,94.03,40.91,30.32
+397,INV-202302-00136,2023-02-23,3452.0,1077,1,62.56,62.56,pood,Pärnu,kaart,36.98,Boheemlaslik kangast reisikott,aksessuaarid,62.56,36.98,25.58,40.89
+398,INV-202302-00137,2023-02-06,2261.0,1266,1,73.18,73.18,pood,Pärnu,kaart,45.64,Elegantne kangast platvorm sandaalid,jalanõusid,73.18,45.64,27.54,37.63
+399,INV-202302-00138,2023-02-17,4584.0,1163,2,259.69,519.38,pood,Tallinn,kaart,158.13,Luksuslik tweed triiksärk,meeste_riided,519.38,316.26,203.12,39.11
+400,INV-202302-00139,2023-02-22,2732.0,1179,1,82.15,82.15,pood,Tallinn,sularaha,55.66,Elegantne tweed püksid,meeste_riided,82.15,55.66,26.49,32.25
+401,INV-202302-00140,2023-02-03,2849.0,1060,4,253.26,1013.04,pood,Pärnu,kaart,153.0,Luksuslik puuvillane linane särk,meeste_riided,1013.04,612.0,401.04,39.59
+402,INV-202302-00141,2023-02-20,3252.0,1326,2,106.82,213.64,pood,Tartu,sularaha,71.74,Stiilne orgaaniline pidžaama,laste_riided,213.64,143.48,70.16,32.84
+403,INV-202302-00142,2023-02-17,2168.0,1166,2,205.0,410.0,pood,Tartu,järelmaks,136.45,Õhuline flanellne smokingüklikond,meeste_riided,410.0,272.9,137.1,33.44
+404,INV-202302-00143,2023-02-08,,1288,1,138.9,138.9,pood,Tallinn,sularaha,84.62,Soe polüester slim-fit püksid,meeste_riided,138.9,84.62,54.28,39.08
+405,INV-202302-00144,2023-02-13,,1145,2,338.43,676.86,pood,Pärnu,sularaha,217.23,Mugav tweed ülikond,meeste_riided,676.86,434.46,242.4,35.81
+406,INV-202302-00145,2023-02-18,3605.0,1281,2,292.61,585.22,pood,Tartu,järelmaks,190.07,Sportlik villane tossud,jalanõusid,585.22,380.14,205.08,35.04
+407,INV-202302-00146,2023-02-01,4747.0,1251,3,257.39,772.17,online,,järelmaks,183.83,Moodne kashmiir pullover,naiste_riided,772.17,551.49,220.68,28.58
+408,INV-202302-00147,2023-02-24,2574.0,1227,1,120.17,120.17,pood,Tallinn,sularaha,77.08,Mugav kangast tennised,jalanõusid,120.17,77.08,43.09,35.86
+409,INV-202302-00148,2023-02-11,2217.0,1054,1,172.26,219.19,pood,Tartu,kaart,144.94,Elegantne linane bleiser,naiste_riided,219.19,144.94,74.25,33.87
+410,INV-202302-00149,2023-02-09,2363.0,1259,1,229.55,229.55,pood,Tallinn,järelmaks,143.56,Elegantne džersii cargo püksid,naiste_riided,229.55,143.56,85.99,37.46
+411,INV-202302-00150,2023-02-22,3025.0,1140,2,106.69,213.38,pood,Tartu,sularaha,63.58,Moodne flanellne triiksärk,meeste_riided,213.38,127.16,86.22,40.41
+412,INV-202302-00151,2023-02-17,2203.0,1346,1,258.91,258.91,pood,Pärnu,kaart,157.35,Mugav merino villane cargo püksid,meeste_riided,258.91,157.35,101.56,39.23
+413,INV-202302-00152,2023-02-01,3172.0,1328,1,274.87,274.87,pood,Pärnu,kaart,165.23,Õhuline goretex kingad,jalanõusid,274.87,165.23,109.64,39.89
+414,INV-202302-00153,2023-02-15,2997.0,1180,1,51.58,51.58,pood,Tallinn,sularaha,36.04,Soe puuvillane chino püksid,laste_riided,51.58,36.04,15.54,30.13
+415,INV-202302-00154,2023-02-27,3755.0,1180,1,51.58,51.58,online,,kaart,36.04,Soe puuvillane chino püksid,laste_riided,51.58,36.04,15.54,30.13
+416,INV-202302-00155,2023-02-10,3729.0,1043,2,128.44,256.88,pood,Tallinn,kaart,128.44,Elegantne orgaaniline tuulejope,laste_riided,256.88,256.88,0.0,0.0
+417,INV-202302-00156,2023-02-20,,1172,2,141.62,283.24,online,,kaart,96.01,Moodne orgaaniline skaterkleit,laste_riided,283.24,192.02,91.22,32.21
+418,INV-202302-00157,2023-02-10,4207.0,1254,1,136.3,136.3,pood,Tallinn,kaart,92.57,Luksuslik orgaaniline pühapäevakleit,laste_riided,136.3,92.57,43.73,32.08
+419,INV-202302-00158,2023-02-23,4909.0,1038,1,329.99,329.99,pood,Tallinn,sularaha,196.94,Õhuline nahkne sporditossud,jalanõusid,329.99,196.94,133.05,40.32
+420,INV-202302-00159,2023-02-07,3516.0,1025,1,122.07,122.07,pood,Tallinn,kaart,78.03,Moodne metallist rätik,aksessuaarid,122.07,78.03,44.04,36.08
+421,INV-202302-00160,2023-02-01,4260.0,1344,1,84.95,84.95,pood,Tartu,kaart,58.63,Mugav softshell teksapüksid,laste_riided,84.95,58.63,26.32,30.98
+422,INV-202302-00161,2023-02-22,3556.0,1037,4,141.05,564.2,pood,Tallinn,sularaha,91.35,Stiilne nahkne derbyd,jalanõusid,564.2,365.4,198.8,35.24
+423,INV-202302-00162,2023-02-01,4848.0,1150,3,280.02,840.06,pood,Pärnu,sularaha,191.67,Soe siidine särk-pluus,naiste_riided,840.06,575.01,265.05,31.55
+424,INV-202302-00163,2023-02-22,4138.0,1173,1,144.77,168.82,pood,Tallinn,sularaha,105.43,Vintage fliisist koolikomplekt,laste_riided,168.82,105.43,63.39,37.55
+425,INV-202302-00164,2023-02-05,3668.0,1215,1,160.91,160.91,pood,Tallinn,kaart,102.31,Praktiline polüester casual särk,meeste_riided,160.91,102.31,58.6,36.42
+427,INV-202302-00166,2023-02-18,2906.0,1220,2,26.79,53.58,pood,Tallinn,järelmaks,19.01,Vintage keraamiline barett,aksessuaarid,53.58,38.02,15.56,29.04
+428,INV-202302-00167,2023-02-28,4144.0,1193,1,120.59,120.59,online,,järelmaks,83.72,Elegantne tweed smokingüklikond,meeste_riided,120.59,83.72,36.87,30.57
+429,INV-202302-00168,2023-02-22,4867.0,1112,3,242.43,727.29,pood,Tallinn,järelmaks,147.23,Sportlik polüester püksid,meeste_riided,727.29,441.69,285.6,39.27
+430,INV-202302-00169,2025-12-07,3251.0,1185,5,203.67,1018.35,online,,sularaha,129.9,Moodne džersii slim-fit ülikond,meeste_riided,1018.35,649.5,368.85,36.22
+431,INV-202302-00170,2023-02-15,2524.0,1305,2,50.77,101.54,pood,Tartu,järelmaks,35.66,Sportlik siidine cargo püksid,naiste_riided,101.54,71.32,30.22,29.76
+432,INV-202302-00171,2023-02-06,4230.0,1314,4,234.91,939.64,pood,Tartu,järelmaks,153.13,Boheemlaslik nahkne talvesaapad,jalanõusid,939.64,612.52,327.12,34.81
+433,INV-202302-00172,2023-02-20,4779.0,1111,1,327.07,327.07,pood,Tallinn,järelmaks,198.07,Õhuline polüester cargo püksid,meeste_riided,327.07,198.07,129.0,39.44
+434,INV-202302-00173,2023-02-24,2957.0,1093,1,271.35,271.35,pood,Tallinn,kaart,174.78,Vintage villane rannasandaalid,jalanõusid,271.35,174.78,96.57,35.59
+435,INV-202302-00174,2023-02-17,3366.0,1290,2,105.23,210.46,pood,Tartu,järelmaks,72.64,Soe trikoo pühapäevakleit,laste_riided,210.46,145.28,65.18,30.97
+436,INV-202302-00175,2023-02-23,,1087,2,57.08,114.16,pood,Tartu,sularaha,33.7,Kerge puust barett,aksessuaarid,114.16,67.4,46.76,40.96
+437,INV-202302-00176,2023-02-03,2475.0,1003,1,52.04,52.04,pood,Tallinn,kaart,31.83,Elegantne orgaaniline kleit,laste_riided,52.04,31.83,20.21,38.84
+438,INV-202302-00177,2023-02-25,3975.0,1238,3,72.73,218.19,pood,Pärnu,kaart,48.98,Minimalistlik džersii chino püksid,naiste_riided,218.19,146.94,71.25,32.66
+439,INV-202302-00178,2023-02-15,4376.0,1135,1,192.61,175.25,pood,Pärnu,sularaha,124.02,Soe polüester cargo püksid,meeste_riided,175.25,124.02,51.23,29.23
+440,INV-202302-00179,2023-02-07,3430.0,1333,1,218.54,218.54,pood,Tartu,sularaha,140.09,Boheemlaslik nahkne kõrge kontsaga kingad,jalanõusid,218.54,140.09,78.45,35.9
+441,INV-202302-00180,2023-02-07,,1112,2,242.43,484.86,pood,Tallinn,sularaha,147.23,Sportlik polüester püksid,meeste_riided,484.86,294.46,190.4,39.27
+442,INV-202302-00181,2023-02-24,4569.0,1007,1,60.37,60.37,online,,sularaha,37.36,Soe viskoosne skaterkleit,naiste_riided,60.37,37.36,23.01,38.11
+443,INV-202302-00182,2023-02-18,3342.0,1318,2,218.42,436.84,pood,Tallinn,sularaha,135.24,Elegantne flanellne cargo püksid,meeste_riided,436.84,270.48,166.36,38.08
+444,INV-202302-00183,2023-02-28,2742.0,1276,5,187.16,935.8,online,,sularaha,126.55,Trendikas sünteetiline platvorm sandaalid,jalanõusid,935.8,632.75,303.05,32.38
+445,INV-202302-00184,2023-02-28,4287.0,1136,1,94.25,94.25,pood,Pärnu,sularaha,59.06,Trendikas villane tuulejope,laste_riided,94.25,59.06,35.19,37.34
+446,INV-202302-00185,2023-02-18,4883.0,1236,1,205.89,205.89,online,,sularaha,127.65,Stiilne puust müts,aksessuaarid,205.89,127.65,78.24,38.0
+447,INV-202302-00186,2023-02-24,4146.0,1303,4,312.41,1249.64,pood,Tallinn,kaart,197.42,Mugav merino villane tuulejope,meeste_riided,1249.64,789.68,459.96,36.81
+448,INV-202302-00187,2023-02-05,2195.0,1144,2,152.13,304.26,online,,kaart,105.72,Mugav polüester püksid,meeste_riided,304.26,211.44,92.82,30.51
+449,INV-202302-00188,2023-02-02,2413.0,1140,1,106.69,106.69,pood,Tartu,järelmaks,63.58,Moodne flanellne triiksärk,meeste_riided,106.69,63.58,43.11,40.41
+450,INV-202302-00189,2023-02-06,4815.0,1261,2,305.72,611.44,pood,Tallinn,järelmaks,305.72,Vintage nahkne tossud,jalanõusid,611.44,611.44,0.0,0.0
+451,INV-202302-00190,2023-02-09,2889.0,1020,1,100.4,100.4,online,,järelmaks,62.63,Elegantne puuvillane body,laste_riided,100.4,62.63,37.77,37.62
+452,INV-202302-00191,2023-02-02,2640.0,1186,1,286.96,234.99,online,,sularaha,157.21,Õhuline viskoosne jakk,naiste_riided,234.99,157.21,77.78,33.1
+453,INV-202302-00192,2023-02-18,3896.0,1001,1,157.49,157.49,pood,Tallinn,järelmaks,99.21,Praktiline seemisnahkne tennised,jalanõusid,157.49,99.21,58.28,37.01
+454,INV-202302-00193,2023-02-13,2849.0,1320,1,30.05,30.05,pood,Tallinn,sularaha,20.02,Trendikas fliisist tuulejope,laste_riided,30.05,20.02,10.03,33.38
+455,INV-202302-00194,2023-02-26,3297.0,1013,2,218.99,437.98,pood,Tallinn,järelmaks,141.58,Boheemlaslik džersii teksapüksid,naiste_riided,437.98,283.16,154.82,35.35
+456,INV-202302-00195,2023-02-18,3696.0,1208,2,76.7,153.4,online,,kaart,51.35,Luksuslik linane bleiser,naiste_riided,153.4,102.7,50.7,33.05
+457,INV-202302-00196,2023-02-19,2318.0,1273,3,274.37,823.11,pood,Tallinn,järelmaks,194.73,Trendikas puuvillane skaterkleit,naiste_riided,823.11,584.19,238.92,29.03
+458,INV-202302-00197,2023-02-18,3465.0,1306,1,93.13,93.13,pood,Tartu,sularaha,59.65,Elegantne kangast kindad,aksessuaarid,93.13,59.65,33.48,35.95
+459,INV-202302-00198,2023-02-19,3714.0,1139,3,106.71,320.13,online,,kaart,69.49,Vintage metallist seljakott,aksessuaarid,320.13,208.47,111.66,34.88
+460,INV-202302-00199,2023-02-17,2983.0,1246,1,204.87,204.87,pood,Tallinn,järelmaks,133.03,Praktiline villane kott,aksessuaarid,204.87,133.03,71.84,35.07
+461,INV-202302-00200,2023-02-04,4438.0,1159,1,24.54,24.54,pood,Pärnu,järelmaks,16.53,Praktiline trikoo sukkpüksid,laste_riided,24.54,16.53,8.01,32.64
+462,INV-202302-00201,2023-02-19,,1096,4,273.32,1093.28,pood,Tartu,kaart,184.37,Soe seemisnahkne nahk sandaalid,jalanõusid,1093.28,737.48,355.8,32.54
+463,INV-202302-00202,2023-02-28,3605.0,1034,1,207.23,207.23,pood,Tartu,järelmaks,145.76,Minimalistlik villane nahk sandaalid,jalanõusid,207.23,145.76,61.47,29.66
+464,INV-202302-00203,2023-02-19,4533.0,1145,3,338.43,1015.29,pood,Pärnu,järelmaks,217.23,Mugav tweed ülikond,meeste_riided,1015.29,651.69,363.6,35.81
+465,INV-202302-00204,2023-02-28,2806.0,1038,1,329.99,329.99,online,,järelmaks,196.94,Õhuline nahkne sporditossud,jalanõusid,329.99,196.94,133.05,40.32
+466,INV-202302-00205,2023-02-07,3435.0,1178,1,105.09,105.09,online,,järelmaks,68.59,Kerge linane kampsun,meeste_riided,105.09,68.59,36.5,34.73
+467,INV-202302-00206,2023-02-19,2863.0,1113,1,86.46,86.46,online,,sularaha,52.42,Moodne trikoo koolikomplekt,laste_riided,86.46,52.42,34.04,39.37
+468,INV-202302-00207,2023-02-25,4732.0,1135,1,175.25,175.25,pood,Tallinn,järelmaks,124.02,Soe polüester cargo püksid,meeste_riided,175.25,124.02,51.23,29.23
+469,INV-202302-00208,2023-02-11,4881.0,1070,1,139.74,139.74,pood,Tallinn,sularaha,96.46,Trendikas džersii miniseelik,naiste_riided,139.74,96.46,43.28,30.97
+471,INV-202302-00210,2023-02-13,4862.0,1112,5,242.43,1212.15,pood,Tartu,kaart,147.23,Sportlik polüester püksid,meeste_riided,1212.15,736.15,476.0,39.27
+472,INV-202302-00211,2023-02-10,4083.0,1157,2,91.22,182.44,pood,Tallinn,järelmaks,64.48,Klassikaline tweed kardigan,meeste_riided,182.44,128.96,53.48,29.31
+473,INV-202302-00212,2023-02-17,4249.0,1095,3,140.64,421.92,pood,Pärnu,järelmaks,93.17,Minimalistlik villane bleiser,laste_riided,421.92,279.51,142.41,33.75
+474,INV-202302-00213,2023-02-16,4088.0,1339,1,35.68,35.68,online,,kaart,24.14,Moodne puuvillane komplekt,laste_riided,35.68,24.14,11.54,32.34
+475,INV-202302-00214,2023-02-25,4241.0,1194,2,84.54,169.08,pood,Tallinn,järelmaks,50.43,Minimalistlik nahkne derbyd,jalanõusid,169.08,100.86,68.22,40.35
+477,INV-202302-00216,2023-02-16,4797.0,1106,2,47.88,95.76,pood,Tallinn,kaart,33.77,Praktiline klaasist sõrmkindad,aksessuaarid,95.76,67.54,28.22,29.47
+478,INV-202302-00217,2023-02-21,2040.0,1184,1,86.14,86.14,pood,Tallinn,kaart,59.8,Sportlik puuvillane chino püksid,laste_riided,86.14,59.8,26.34,30.58
+479,INV-202302-00218,2023-02-27,3899.0,1200,5,105.29,526.45,pood,Tallinn,järelmaks,65.49,Elegantne orgaaniline dressikomplekt,laste_riided,526.45,327.45,199.0,37.8
+480,INV-202302-00219,2023-02-23,2691.0,1238,1,72.73,72.73,pood,Pärnu,kaart,48.98,Minimalistlik džersii chino püksid,naiste_riided,72.73,48.98,23.75,32.66
+481,INV-202302-00220,2023-02-02,2558.0,1131,2,166.27,332.54,online,,järelmaks,102.23,Praktiline merino villane pusa,naiste_riided,332.54,204.46,128.08,38.52
+482,INV-202302-00221,2023-02-21,2599.0,1198,2,291.72,583.44,online,,kaart,186.77,Õhuline sünteetiline kõrge kontsaga kingad,jalanõusid,583.44,373.54,209.9,35.98
+483,INV-202302-00222,2023-02-03,4544.0,1216,2,273.06,546.12,pood,Tallinn,sularaha,166.29,Boheemlaslik goretex kingad,jalanõusid,546.12,332.58,213.54,39.1
+484,INV-202302-00223,2023-02-20,2684.0,1273,3,274.37,823.11,pood,Tartu,sularaha,194.73,Trendikas puuvillane skaterkleit,naiste_riided,823.11,584.19,238.92,29.03
+485,INV-202302-00224,2023-02-14,2262.0,1149,1,304.14,304.14,online,,järelmaks,208.81,Trendikas viskoosne topik,naiste_riided,304.14,208.81,95.33,31.34
+486,INV-202302-00225,2023-02-27,2044.0,1309,1,211.35,211.35,pood,Tallinn,kaart,129.14,Moodne viskoosne plisseeseelik,naiste_riided,211.35,129.14,82.21,38.9
+487,INV-202302-00226,2023-02-07,3605.0,1227,1,120.17,120.17,pood,Tartu,järelmaks,77.08,Mugav kangast tennised,jalanõusid,120.17,77.08,43.09,35.86
+488,INV-202302-00227,2023-02-06,4563.0,1239,2,78.09,156.18,pood,Tallinn,järelmaks,47.31,Minimalistlik viskoosne skaterkleit,naiste_riided,156.18,94.62,61.56,39.42
+489,INV-202302-00228,2023-02-28,,1070,1,139.74,139.74,pood,Tallinn,sularaha,96.46,Trendikas džersii miniseelik,naiste_riided,139.74,96.46,43.28,30.97
+490,INV-202302-00229,2023-02-13,4712.0,1086,4,149.47,597.88,pood,Tartu,sularaha,93.74,Praktiline nahkne sõrmus,aksessuaarid,597.88,374.96,222.92,37.29
+491,INV-202302-00230,2023-02-26,2631.0,1323,1,151.08,151.08,pood,Tartu,kaart,100.65,Vintage merino villane tuulejope,meeste_riided,151.08,100.65,50.43,33.38
+493,INV-202302-00232,2023-02-17,3684.0,1127,1,158.94,158.94,online,,sularaha,109.3,Trendikas goretex chelsea botased,jalanõusid,158.94,109.3,49.64,31.23
+494,INV-202302-00233,2023-02-27,2997.0,1198,5,291.72,1458.6,pood,Tartu,kaart,186.77,Õhuline sünteetiline kõrge kontsaga kingad,jalanõusid,1458.6,933.85,524.75,35.98
+495,INV-202302-00234,2023-02-25,4286.0,1116,1,134.94,134.94,pood,Tallinn,järelmaks,94.03,Elegantne keraamiline labakindad,aksessuaarid,134.94,94.03,40.91,30.32
+496,INV-202302-00235,2023-02-07,3133.0,1092,1,144.2,144.2,online,,kaart,89.91,Mugav flanellne parka,meeste_riided,144.2,89.91,54.29,37.65
+497,INV-202302-00236,2023-02-02,2390.0,1050,1,145.72,145.72,pood,Tallinn,kaart,86.55,Trendikas nahkne sõrmus,aksessuaarid,145.72,86.55,59.17,40.61
+498,INV-202302-00237,2023-02-25,4599.0,1035,1,60.35,65.52,pood,Tallinn,sularaha,45.18,Luksuslik goretex tennised,jalanõusid,65.52,45.18,20.34,31.04
+499,INV-202302-00238,2023-02-02,4178.0,1044,1,83.23,83.23,online,,sularaha,49.0,Moodne kashmiir seelik,naiste_riided,83.23,49.0,34.23,41.13
+500,INV-202302-00239,2023-02-16,3924.0,1297,3,104.27,312.81,pood,Tallinn,järelmaks,68.96,Trendikas trikoo skaterkleit,laste_riided,312.81,206.88,105.93,33.86
+501,INV-202302-00240,2023-02-28,3358.0,1057,4,251.52,1006.08,online,,järelmaks,173.38,Õhuline villane platvorm sandaalid,jalanõusid,1006.08,693.52,312.56,31.07
+502,INV-202302-00241,2023-02-19,4585.0,1235,2,210.87,421.74,pood,Tallinn,sularaha,146.89,Soe linane mantelpaltoo,meeste_riided,421.74,293.78,127.96,30.34
+503,INV-202302-00242,2023-02-01,4340.0,1118,3,109.42,328.26,pood,Tallinn,sularaha,65.28,Elegantne villane kaabu,aksessuaarid,328.26,195.84,132.42,40.34
+504,INV-202302-00243,2023-02-08,4431.0,1227,5,120.17,600.85,online,,sularaha,77.08,Mugav kangast tennised,jalanõusid,600.85,385.4,215.45,35.86
+505,INV-202302-00244,2023-02-28,3815.0,1270,1,124.35,124.35,online,,kaart,81.15,Elegantne tweed bleiser,meeste_riided,124.35,81.15,43.2,34.74
+506,INV-202302-00245,2023-02-16,4307.0,1315,1,95.5,95.5,pood,Pärnu,kaart,56.54,Õhuline viskoosne miniseelik,naiste_riided,95.5,56.54,38.96,40.8
+507,INV-202302-00246,2023-02-19,,1159,1,24.54,24.54,pood,Tartu,sularaha,16.53,Praktiline trikoo sukkpüksid,laste_riided,24.54,16.53,8.01,32.64
+508,INV-202302-00247,2023-02-17,3637.0,1204,2,63.95,127.9,pood,Tallinn,sularaha,40.78,Stiilne villane kontsakingad,jalanõusid,127.9,81.56,46.34,36.23
+509,INV-202302-00248,2023-02-01,4454.0,1010,2,186.77,373.54,pood,Tallinn,järelmaks,186.77,Klassikaline puust nahkvöö,aksessuaarid,373.54,373.54,0.0,0.0
+510,INV-202302-00249,2023-02-18,4890.0,1078,3,42.64,127.92,online,,kaart,25.25,Stiilne merino villane parka,naiste_riided,127.92,75.75,52.17,40.78
+511,INV-202302-00250,2023-02-23,3906.0,1004,1,41.63,41.63,online,,kaart,29.41,Minimalistlik puuvillane tuunika,naiste_riided,41.63,29.41,12.22,29.35
+470,INV-202302-00209,2023-02-23,3199.0,1348,1,125.52,125.52,pood,Tallinn,kaart,89.31,Elegantne teksane cargo püksid,meeste_riided,125.52,89.31,36.21,28.85
+512,INV-202302-00251,2023-02-26,4812.0,1124,1,232.61,232.61,online,,järelmaks,148.69,Klassikaline villane madalad kontsad,jalanõusid,232.61,148.69,83.92,36.08
+513,INV-202302-00252,2023-02-20,,1086,1,149.47,149.47,pood,Tallinn,sularaha,93.74,Praktiline nahkne sõrmus,aksessuaarid,149.47,93.74,55.73,37.29
+514,INV-202302-00253,2023-02-16,4570.0,1001,3,157.49,472.47,pood,Tallinn,järelmaks,99.21,Praktiline seemisnahkne tennised,jalanõusid,472.47,297.63,174.84,37.01
+515,INV-202302-00254,2023-02-22,3939.0,1107,3,279.43,838.29,pood,Tallinn,järelmaks,196.64,Praktiline polüester ülikond,meeste_riided,838.29,589.92,248.37,29.63
+516,INV-202302-00255,2023-02-11,4517.0,1281,2,292.61,585.22,online,,sularaha,190.07,Sportlik villane tossud,jalanõusid,585.22,380.14,205.08,35.04
+517,INV-202302-00256,2023-02-20,3534.0,1010,1,186.77,186.77,pood,Pärnu,sularaha,186.77,Klassikaline puust nahkvöö,aksessuaarid,186.77,186.77,0.0,0.0
+518,INV-202302-00257,2023-02-13,2889.0,1162,2,89.39,178.78,pood,Tallinn,kaart,61.59,Klassikaline linane mantelpaltoo,meeste_riided,178.78,123.18,55.6,31.1
+519,INV-202302-00258,2023-02-19,3287.0,1318,4,218.42,873.68,pood,Tallinn,kaart,135.24,Elegantne flanellne cargo püksid,meeste_riided,873.68,540.96,332.72,38.08
+520,INV-202302-00259,2023-02-09,4565.0,1071,3,237.71,713.13,pood,Tallinn,kaart,140.42,Klassikaline viskoosne õhtukleit,naiste_riided,713.13,421.26,291.87,40.93
+521,INV-202302-00260,2023-02-11,3081.0,1215,2,160.91,321.82,pood,Tallinn,sularaha,102.31,Praktiline polüester casual särk,meeste_riided,321.82,204.62,117.2,36.42
+522,INV-202302-00261,2023-02-16,2119.0,1141,2,69.39,138.78,pood,Tallinn,järelmaks,46.6,Trendikas sünteetiline mokassiinid,jalanõusid,138.78,93.2,45.58,32.84
+523,INV-202302-00262,2023-02-12,2787.0,1204,1,63.95,63.95,online,,sularaha,40.78,Stiilne villane kontsakingad,jalanõusid,63.95,40.78,23.17,36.23
+524,INV-202302-00263,2023-02-23,3236.0,1302,1,54.95,54.95,pood,Pärnu,kaart,36.03,Kerge puuvillane chino püksid,laste_riided,54.95,36.03,18.92,34.43
+525,INV-202302-00264,2023-02-13,4214.0,1314,1,234.91,234.91,pood,Pärnu,järelmaks,153.13,Boheemlaslik nahkne talvesaapad,jalanõusid,234.91,153.13,81.78,34.81
+526,INV-202302-00265,2023-02-26,4940.0,1018,4,47.07,188.28,pood,Tallinn,kaart,28.35,Boheemlaslik klaasist kaelakee,aksessuaarid,188.28,113.4,74.88,39.77
+527,INV-202302-00266,2023-02-09,4949.0,1214,2,250.17,500.34,pood,Tartu,sularaha,176.29,Luksuslik merino villane kapuutsiga pusa,naiste_riided,500.34,352.58,147.76,29.53
+528,INV-202302-00267,2023-02-09,2973.0,1062,3,149.55,448.65,pood,Tallinn,kaart,99.5,Luksuslik keraamiline elastne vöö,aksessuaarid,448.65,298.5,150.15,33.47
+529,INV-202302-00268,2023-02-15,3648.0,1184,2,86.14,172.28,online,,kaart,59.8,Sportlik puuvillane chino püksid,laste_riided,172.28,119.6,52.68,30.58
+530,INV-202302-00269,2023-02-10,3425.0,1055,2,65.6,131.2,pood,Tallinn,järelmaks,41.58,Elegantne puust kootud müts,aksessuaarid,131.2,83.16,48.04,36.62
+531,INV-202302-00270,2023-02-13,4006.0,1242,2,203.39,406.78,online,,kaart,126.05,Boheemlaslik villane barett,aksessuaarid,406.78,252.1,154.68,38.03
+533,INV-202302-00272,2023-02-23,4314.0,1233,1,111.26,111.26,pood,Tallinn,järelmaks,67.78,Vintage viskoosne püksid,naiste_riided,111.26,67.78,43.48,39.08
+534,INV-202302-00273,2023-02-20,,1251,2,257.39,514.78,pood,Tallinn,kaart,183.83,Moodne kashmiir pullover,naiste_riided,514.78,367.66,147.12,28.58
+535,INV-202302-00274,2023-02-28,3760.0,1310,2,106.21,212.42,online,,kaart,66.03,Luksuslik fliisist komplekt,laste_riided,212.42,132.06,80.36,37.83
+536,INV-202302-00275,2023-02-25,2110.0,1334,1,24.67,24.67,pood,Tartu,sularaha,17.29,Moodne orgaaniline bleiser,laste_riided,24.67,17.29,7.38,29.91
+537,INV-202302-00276,2023-02-13,4965.0,1061,1,155.45,155.45,pood,Tallinn,järelmaks,104.71,Moodne kangast sõrmus,aksessuaarid,155.45,104.71,50.74,32.64
+538,INV-202302-00277,2023-02-03,2889.0,1338,2,282.29,564.58,pood,Tallinn,sularaha,195.5,Sportlik kangast tennised,jalanõusid,564.58,391.0,173.58,30.74
+539,INV-202302-00278,2023-02-23,2518.0,1313,1,77.6,77.6,online,,kaart,47.35,Klassikaline flanellne smokingüklikond,meeste_riided,77.6,47.35,30.25,38.98
+540,INV-202303-00001,2023-03-29,4232.0,1110,1,151.08,151.08,online,,sularaha,151.08,Moodne polüester slim-fit särk,meeste_riided,151.08,151.08,0.0,0.0
+541,INV-202303-00002,2023-03-02,4634.0,1145,1,338.43,338.43,pood,Tartu,järelmaks,217.23,Mugav tweed ülikond,meeste_riided,338.43,217.23,121.2,35.81
+542,INV-202303-00003,2023-03-23,3500.0,1330,1,167.23,167.23,online,,sularaha,106.54,Trendikas trikoo chino püksid,laste_riided,167.23,106.54,60.69,36.29
+543,INV-202303-00004,2023-03-11,2331.0,1041,3,107.36,322.08,pood,Tartu,järelmaks,67.0,Vintage orgaaniline komplekt,laste_riided,322.08,201.0,121.08,37.59
+544,INV-202303-00005,2023-03-10,3130.0,1080,1,51.5,51.5,online,,järelmaks,35.75,Minimalistlik softshell chino püksid,laste_riided,51.5,35.75,15.75,30.58
+545,INV-202303-00006,2023-03-22,3425.0,1091,1,199.8,199.8,pood,Tallinn,kaart,123.19,Õhuline villane sõrmus,aksessuaarid,199.8,123.19,76.61,38.34
+546,INV-202303-00007,2023-03-21,,1324,2,224.19,448.38,online,,järelmaks,135.32,Boheemlaslik satiinne seelik,naiste_riided,448.38,270.64,177.74,39.64
+547,INV-202303-00008,2023-03-08,2793.0,1142,2,307.27,614.54,pood,Tallinn,kaart,211.12,Sportlik seemisnahkne nahk sandaalid,jalanõusid,614.54,422.24,192.3,31.29
+548,INV-202303-00009,2023-03-31,,1318,1,218.42,218.42,pood,Pärnu,järelmaks,135.24,Elegantne flanellne cargo püksid,meeste_riided,218.42,135.24,83.18,38.08
+549,INV-202303-00010,2023-03-26,,1260,2,130.36,260.72,pood,Tallinn,kaart,89.0,Minimalistlik džersii pullover,naiste_riided,260.72,178.0,82.72,31.73
+550,INV-202303-00011,2023-03-29,4803.0,1053,4,113.86,455.44,online,,sularaha,67.9,Trendikas villane nahkkindad,aksessuaarid,455.44,271.6,183.84,40.37
+551,INV-202303-00012,2023-03-03,3342.0,1096,2,273.32,546.64,online,,järelmaks,184.37,Soe seemisnahkne nahk sandaalid,jalanõusid,546.64,368.74,177.9,32.54
+552,INV-202303-00013,2023-03-17,2379.0,1243,2,184.02,368.04,pood,Tallinn,sularaha,122.15,Trendikas kangast kindad,aksessuaarid,368.04,244.3,123.74,33.62
+553,INV-202303-00014,2023-03-06,3529.0,1197,2,152.85,305.7,pood,Tallinn,kaart,108.35,Sportlik softshell sukkpüksid,laste_riided,305.7,216.7,89.0,29.11
+554,INV-202303-00015,2023-03-08,4949.0,1148,1,48.85,48.85,pood,Tallinn,järelmaks,32.65,Luksuslik tweed linane särk,meeste_riided,48.85,32.65,16.2,33.16
+555,INV-202303-00016,2023-03-28,,1011,2,53.99,107.98,pood,Tartu,kaart,35.43,Moodne villane pühapäevakleit,laste_riided,107.98,70.86,37.12,34.38
+556,INV-202303-00017,2023-03-21,4822.0,1227,2,120.17,240.34,online,,sularaha,77.08,Mugav kangast tennised,jalanõusid,240.34,154.16,86.18,35.86
+557,INV-202303-00018,2023-03-07,4683.0,1186,1,234.99,234.99,online,,sularaha,157.21,Õhuline viskoosne jakk,naiste_riided,234.99,157.21,77.78,33.1
+558,INV-202303-00019,2023-03-21,2735.0,1106,3,47.88,143.64,online,,kaart,33.77,Praktiline klaasist sõrmkindad,aksessuaarid,143.64,101.31,42.33,29.47
+559,INV-202303-00020,2023-03-11,3515.0,1268,1,110.53,110.53,pood,Tallinn,kaart,71.35,Kerge teksane slim-fit ülikond,meeste_riided,110.53,71.35,39.18,35.45
+560,INV-202303-00021,2023-03-24,4100.0,1271,3,130.02,390.06,pood,Tallinn,sularaha,88.09,Mugav puuvillane suvekleit,laste_riided,390.06,264.27,125.79,32.25
+561,INV-202303-00022,2023-03-21,3418.0,1002,1,274.78,274.78,pood,Tallinn,sularaha,173.56,Mugav linane linane kostüüm,meeste_riided,274.78,173.56,101.22,36.84
+562,INV-202303-00023,2023-03-11,,1089,1,134.58,134.58,online,,sularaha,90.91,Vintage tweed smokingüklikond,meeste_riided,134.58,90.91,43.67,32.45
+563,INV-202303-00024,2023-03-15,2653.0,1191,1,230.06,230.06,online,,järelmaks,142.02,Vintage polüester slim-fit püksid,meeste_riided,230.06,142.02,88.04,38.27
+564,INV-202303-00025,2023-03-25,2641.0,1085,1,247.81,247.81,pood,Tallinn,järelmaks,156.58,Vintage linane bleiser,meeste_riided,247.81,156.58,91.23,36.81
+565,INV-202303-00026,2023-03-29,3578.0,1224,1,222.1,222.1,pood,Pärnu,järelmaks,155.31,Trendikas viskoosne tuulejope,naiste_riided,222.1,155.31,66.79,30.07
+566,INV-202303-00027,2023-03-21,,1279,1,66.21,66.21,pood,Tallinn,sularaha,44.52,Luksuslik orgaaniline dressikomplekt,laste_riided,66.21,44.52,21.69,32.76
+567,INV-202303-00028,2023-03-03,3118.0,1298,1,163.53,163.53,online,,sularaha,100.31,Boheemlaslik merino villane poolsäärne kampsun,meeste_riided,163.53,100.31,63.22,38.66
+568,INV-202303-00029,2023-03-02,3332.0,1054,2,219.19,438.38,pood,Tallinn,järelmaks,144.94,Elegantne linane bleiser,naiste_riided,438.38,289.88,148.5,33.87
+569,INV-202303-00030,2023-03-09,4960.0,1186,2,252.69,-469.98,pood,Tartu,kaart,157.21,Õhuline viskoosne jakk,naiste_riided,-469.98,314.42,-784.4,166.9
+570,INV-202303-00031,2023-03-07,3521.0,1294,1,53.01,53.01,online,,järelmaks,36.61,Trendikas flanellne mantelpaltoo,meeste_riided,53.01,36.61,16.4,30.94
+571,INV-202303-00032,2023-03-13,2132.0,1247,3,29.48,88.44,pood,Tallinn,järelmaks,18.93,Mugav klaasist kõrvarõngad,aksessuaarid,88.44,56.79,31.65,35.79
+572,INV-202303-00033,2023-03-29,3505.0,1239,2,78.09,156.18,pood,Tartu,sularaha,47.31,Minimalistlik viskoosne skaterkleit,naiste_riided,156.18,94.62,61.56,39.42
+573,INV-202303-00034,2023-03-01,4144.0,1037,4,141.05,564.2,pood,Tartu,sularaha,91.35,Stiilne nahkne derbyd,jalanõusid,564.2,365.4,198.8,35.24
+574,INV-202303-00035,2023-03-29,3710.0,1234,1,162.86,162.86,pood,Tallinn,kaart,101.94,Klassikaline siidine tuulejope,naiste_riided,162.86,101.94,60.92,37.41
+575,INV-202303-00036,2023-03-27,2240.0,1151,1,215.58,215.58,online,,sularaha,129.16,Stiilne villane seljakott,aksessuaarid,215.58,129.16,86.42,40.09
+576,INV-202303-00037,2023-03-09,4427.0,1080,1,51.5,51.5,pood,Tartu,järelmaks,35.75,Minimalistlik softshell chino püksid,laste_riided,51.5,35.75,15.75,30.58
+577,INV-202303-00038,2023-03-30,,1007,1,60.37,60.37,pood,Tartu,kaart,37.36,Soe viskoosne skaterkleit,naiste_riided,60.37,37.36,23.01,38.11
+578,INV-202303-00039,2023-03-23,2241.0,1184,1,86.14,86.14,pood,Tallinn,sularaha,59.8,Sportlik puuvillane chino püksid,laste_riided,86.14,59.8,26.34,30.58
+579,INV-202303-00040,2023-03-07,3417.0,1311,1,153.11,153.11,pood,Tartu,järelmaks,107.66,Minimalistlik puust kootud müts,aksessuaarid,153.11,107.66,45.45,29.68
+580,INV-202303-00041,2023-03-22,2211.0,1341,1,45.21,45.21,pood,Tallinn,sularaha,27.64,Stiilne siidine labakindad,aksessuaarid,45.21,27.64,17.57,38.86
+581,INV-202303-00042,2023-03-04,4229.0,1202,3,22.04,66.12,online,,sularaha,13.3,Elegantne metallist sall,aksessuaarid,66.12,39.9,26.22,39.66
+582,INV-202303-00043,2023-03-09,2976.0,1296,2,301.97,603.94,online,,järelmaks,181.98,Kerge džersii pluus,naiste_riided,603.94,363.96,239.98,39.74
+583,INV-202303-00044,2023-03-29,2180.0,1269,1,125.98,125.98,pood,Pärnu,sularaha,77.48,Kerge viskoosne suvekleit,naiste_riided,125.98,77.48,48.5,38.5
+584,INV-202303-00045,2023-03-22,,1013,2,218.99,437.98,online,,järelmaks,141.58,Boheemlaslik džersii teksapüksid,naiste_riided,437.98,283.16,154.82,35.35
+585,INV-202303-00046,2023-03-20,2779.0,1311,1,153.11,153.11,pood,Tartu,sularaha,107.66,Minimalistlik puust kootud müts,aksessuaarid,153.11,107.66,45.45,29.68
+586,INV-202303-00047,2023-03-25,4530.0,1152,1,107.67,107.67,pood,Tartu,sularaha,65.22,Vintage teksane chino püksid,meeste_riided,107.67,65.22,42.45,39.43
+587,INV-202303-00048,2023-03-09,,1317,4,62.55,250.2,pood,Tallinn,kaart,40.34,Soe kangast nahk sandaalid,jalanõusid,250.2,161.36,88.84,35.51
+588,INV-202303-00049,2023-03-28,3225.0,1074,3,65.0,195.0,online,,sularaha,44.94,Vintage seemisnahkne jooksutossud,jalanõusid,195.0,134.82,60.18,30.86
+589,INV-202303-00050,2023-03-13,3692.0,1055,1,65.6,65.6,pood,Tallinn,kaart,41.58,Elegantne puust kootud müts,aksessuaarid,65.6,41.58,24.02,36.62
+590,INV-202303-00051,2023-03-16,3780.0,1101,2,159.25,318.5,pood,Tallinn,sularaha,102.96,Õhuline flanellne V-kaelusega kampsun,meeste_riided,318.5,205.92,112.58,35.35
+591,INV-202303-00052,2023-03-13,3081.0,1080,1,51.5,51.5,pood,Tartu,järelmaks,35.75,Minimalistlik softshell chino püksid,laste_riided,51.5,35.75,15.75,30.58
+592,INV-202303-00053,2023-03-04,3852.0,1238,1,84.28,72.73,pood,Tallinn,järelmaks,48.98,Minimalistlik džersii chino püksid,naiste_riided,72.73,48.98,23.75,32.66
+593,INV-202303-00054,2023-03-09,2179.0,1246,2,204.87,409.74,pood,Pärnu,sularaha,133.03,Praktiline villane kott,aksessuaarid,409.74,266.06,143.68,35.07
+594,INV-202303-00055,2023-03-23,3648.0,1036,2,137.33,274.66,pood,Tallinn,järelmaks,85.3,Praktiline puuvillane ülikond,meeste_riided,274.66,170.6,104.06,37.89
+595,INV-202303-00056,2023-03-07,3685.0,1321,1,183.4,183.4,pood,Pärnu,järelmaks,110.17,Moodne siidine sall,aksessuaarid,183.4,110.17,73.23,39.93
+596,INV-202303-00057,2023-03-26,3710.0,1043,2,128.44,256.88,pood,Tallinn,järelmaks,128.44,Elegantne orgaaniline tuulejope,laste_riided,256.88,256.88,0.0,0.0
+597,INV-202303-00058,2023-03-26,2691.0,1096,2,273.32,546.64,pood,Tartu,sularaha,184.37,Soe seemisnahkne nahk sandaalid,jalanõusid,546.64,368.74,177.9,32.54
+598,INV-202303-00059,2023-03-19,3214.0,1053,2,113.86,227.72,pood,Tallinn,järelmaks,67.9,Trendikas villane nahkkindad,aksessuaarid,227.72,135.8,91.92,40.37
+599,INV-202303-00060,2023-03-18,3358.0,1016,2,54.81,109.62,pood,Tallinn,sularaha,36.6,Luksuslik trikoo slim-fit püksid,laste_riided,109.62,73.2,36.42,33.22
+600,INV-202303-00061,2023-03-24,2916.0,1033,1,221.42,221.42,pood,Pärnu,kaart,149.36,Moodne seemisnahkne oxfordid,jalanõusid,221.42,149.36,72.06,32.54
+601,INV-202303-00062,2023-03-30,3474.0,1079,3,291.36,874.08,pood,Tallinn,järelmaks,197.7,Trendikas džersii pullover,naiste_riided,874.08,593.1,280.98,32.15
+602,INV-202303-00063,2023-03-28,,1196,1,32.93,32.93,pood,Tallinn,kaart,22.43,Klassikaline satiinne mantelpaltoo,naiste_riided,32.93,22.43,10.5,31.89
+603,INV-202303-00064,2023-03-10,3459.0,1165,2,47.38,94.76,pood,Tallinn,sularaha,28.46,Õhuline softshell dressikomplekt,laste_riided,94.76,56.92,37.84,39.93
+604,INV-202303-00065,2023-03-22,4219.0,1012,2,160.21,320.42,online,,järelmaks,111.3,Boheemlaslik merino villane cargo püksid,meeste_riided,320.42,222.6,97.82,30.53
+605,INV-202303-00066,2023-03-16,3684.0,1138,3,130.73,392.19,online,,järelmaks,83.37,Vintage orgaaniline body,laste_riided,392.19,250.11,142.08,36.23
+606,INV-202303-00067,2023-03-08,3048.0,1305,1,50.77,50.77,pood,Tallinn,järelmaks,35.66,Sportlik siidine cargo püksid,naiste_riided,50.77,35.66,15.11,29.76
+607,INV-202303-00068,2023-03-23,2022.0,1187,1,252.33,252.33,online,,kaart,150.21,Mugav kashmiir pusa,naiste_riided,252.33,150.21,102.12,40.47
+608,INV-202303-00069,2023-03-02,3743.0,1118,2,109.42,218.84,pood,Tallinn,kaart,65.28,Elegantne villane kaabu,aksessuaarid,218.84,130.56,88.28,40.34
+609,INV-202303-00070,2023-03-06,3856.0,1121,4,196.91,787.64,online,,sularaha,119.54,Sportlik džersii püksid,meeste_riided,787.64,478.16,309.48,39.29
+610,INV-202303-00071,2023-03-09,2240.0,1173,1,168.82,168.82,online,,sularaha,105.43,Vintage fliisist koolikomplekt,laste_riided,168.82,105.43,63.39,37.55
+611,INV-202303-00072,2023-03-14,4239.0,1074,4,65.0,260.0,pood,Tallinn,kaart,44.94,Vintage seemisnahkne jooksutossud,jalanõusid,260.0,179.76,80.24,30.86
+612,INV-202303-00073,2023-03-01,3648.0,1339,3,35.68,107.04,pood,Tartu,kaart,24.14,Moodne puuvillane komplekt,laste_riided,107.04,72.42,34.62,32.34
+613,INV-202303-00074,2023-03-22,2375.0,1191,3,230.06,690.18,pood,Tallinn,sularaha,142.02,Vintage polüester slim-fit püksid,meeste_riided,690.18,426.06,264.12,38.27
+614,INV-202303-00075,2023-03-04,3376.0,1210,1,374.54,374.54,pood,Pärnu,kaart,225.61,Vintage tweed kampsun,meeste_riided,374.54,225.61,148.93,39.76
+615,INV-202303-00076,2023-03-12,4220.0,1294,2,53.01,106.02,pood,Tartu,järelmaks,36.61,Trendikas flanellne mantelpaltoo,meeste_riided,106.02,73.22,32.8,30.94
+616,INV-202303-00077,2023-03-19,3874.0,1348,1,125.52,125.52,pood,Tartu,sularaha,89.31,Elegantne teksane cargo püksid,meeste_riided,125.52,89.31,36.21,28.85
+617,INV-202303-00078,2023-03-13,4229.0,1108,4,371.05,1484.2,pood,Tartu,sularaha,223.83,Trendikas goretex oxfordid,jalanõusid,1484.2,895.32,588.88,39.68
+618,INV-202303-00079,2023-03-01,2799.0,1099,2,86.8,173.6,pood,Tartu,järelmaks,60.88,Vintage viskoosne kapuutsiga pusa,naiste_riided,173.6,121.76,51.84,29.86
+619,INV-202303-00080,2023-03-18,4544.0,1125,2,23.68,47.36,online,,sularaha,15.2,Vintage softshell cargo püksid,laste_riided,47.36,30.4,16.96,35.81
+620,INV-202303-00081,2023-03-24,3605.0,1049,2,308.84,617.68,pood,Tallinn,kaart,200.72,Boheemlaslik puuvillane tuulejope,naiste_riided,617.68,401.44,216.24,35.01
+621,INV-202303-00082,2023-03-30,2622.0,1171,1,351.62,351.62,online,,sularaha,217.34,Sportlik džersii ülikond,meeste_riided,351.62,217.34,134.28,38.19
+622,INV-202303-00083,2023-03-05,3674.0,1276,2,187.16,374.32,pood,Pärnu,sularaha,126.55,Trendikas sünteetiline platvorm sandaalid,jalanõusid,374.32,253.1,121.22,32.38
+623,INV-202303-00084,2023-03-06,4843.0,1185,3,203.67,611.01,pood,Tallinn,kaart,129.9,Moodne džersii slim-fit ülikond,meeste_riided,611.01,389.7,221.31,36.22
+624,INV-202303-00085,2023-03-31,4896.0,1159,2,24.54,49.08,pood,Tartu,kaart,16.53,Praktiline trikoo sukkpüksid,laste_riided,49.08,33.06,16.02,32.64
+625,INV-202303-00086,2023-03-27,2645.0,1190,2,138.13,276.26,pood,Tartu,järelmaks,90.95,Õhuline orgaaniline alussärk,laste_riided,276.26,181.9,94.36,34.16
+626,INV-202303-00087,2023-03-03,3950.0,1205,2,96.5,193.0,pood,Tallinn,kaart,56.94,Sportlik puuvillane smokingüklikond,meeste_riided,193.0,113.88,79.12,40.99
+627,INV-202303-00088,2023-03-12,4792.0,1258,5,84.41,422.05,online,,järelmaks,53.39,Minimalistlik seemisnahkne chelsea botased,jalanõusid,422.05,266.95,155.1,36.75
+628,INV-202303-00089,2023-03-12,,1192,1,109.62,109.62,online,,sularaha,67.16,Soe džersii suvekleit,naiste_riided,109.62,67.16,42.46,38.73
+629,INV-202303-00090,2023-03-26,4468.0,1064,2,95.87,191.74,pood,Tallinn,kaart,63.2,Sportlik softshell teksapüksid,laste_riided,191.74,126.4,65.34,34.08
+630,INV-202303-00091,2023-03-24,4601.0,1306,1,93.13,93.13,pood,Tallinn,sularaha,59.65,Elegantne kangast kindad,aksessuaarid,93.13,59.65,33.48,35.95
+631,INV-202303-00092,2023-03-29,3399.0,1213,3,132.3,396.9,online,,kaart,82.97,Luksuslik goretex derbyd,jalanõusid,396.9,248.91,147.99,37.29
+632,INV-202303-00093,2023-03-23,4786.0,1277,1,121.51,121.51,pood,Tallinn,sularaha,79.45,Stiilne kangast jooksutossud,jalanõusid,121.51,79.45,42.06,34.61
+633,INV-202303-00094,2023-03-05,3044.0,1173,2,168.82,337.64,pood,Tallinn,järelmaks,105.43,Vintage fliisist koolikomplekt,laste_riided,337.64,210.86,126.78,37.55
+634,INV-202303-00095,2023-03-02,2686.0,1232,1,194.57,194.57,pood,Pärnu,kaart,118.71,Kerge metallist labakindad,aksessuaarid,194.57,118.71,75.86,38.99
+635,INV-202303-00096,2023-03-13,3605.0,1260,1,130.36,130.36,pood,Pärnu,kaart,89.0,Minimalistlik džersii pullover,naiste_riided,130.36,89.0,41.36,31.73
+636,INV-202303-00097,2023-03-16,2731.0,1252,5,77.78,388.9,pood,Tallinn,kaart,54.53,Mugav villane body,laste_riided,388.9,272.65,116.25,29.89
+637,INV-202303-00098,2023-03-24,4625.0,1117,1,72.58,72.58,pood,Tartu,sularaha,46.62,Sportlik fliisist slim-fit püksid,laste_riided,72.58,46.62,25.96,35.77
+638,INV-202303-00099,2023-03-23,4828.0,1106,1,47.88,47.88,online,,kaart,33.77,Praktiline klaasist sõrmkindad,aksessuaarid,47.88,33.77,14.11,29.47
+639,INV-202303-00100,2023-03-27,3971.0,1210,1,374.54,374.54,pood,Pärnu,sularaha,225.61,Vintage tweed kampsun,meeste_riided,374.54,225.61,148.93,39.76
+640,INV-202303-00101,2023-03-16,3754.0,1209,1,252.1,252.1,pood,Tallinn,sularaha,172.03,Soe sünteetiline sandaalid,jalanõusid,252.1,172.03,80.07,31.76
+641,INV-202303-00102,2023-03-13,2248.0,1127,3,158.94,476.82,online,,järelmaks,109.3,Trendikas goretex chelsea botased,jalanõusid,476.82,327.9,148.92,31.23
+642,INV-202303-00103,2023-03-26,3467.0,1124,2,232.61,465.22,pood,Tallinn,järelmaks,148.69,Klassikaline villane madalad kontsad,jalanõusid,465.22,297.38,167.84,36.08
+643,INV-202303-00104,2023-03-02,2054.0,1229,1,210.76,210.76,pood,Tallinn,sularaha,138.05,Soe puuvillane teksapüksid,naiste_riided,210.76,138.05,72.71,34.5
+644,INV-202303-00105,2023-03-24,4006.0,1163,1,259.69,259.69,pood,Tallinn,järelmaks,158.13,Luksuslik tweed triiksärk,meeste_riided,259.69,158.13,101.56,39.11
+646,INV-202303-00107,2023-03-14,3473.0,1216,1,273.06,273.06,pood,Tallinn,järelmaks,166.29,Boheemlaslik goretex kingad,jalanõusid,273.06,166.29,106.77,39.1
+647,INV-202303-00108,2023-03-22,,1071,1,237.71,237.71,pood,Tallinn,järelmaks,140.42,Klassikaline viskoosne õhtukleit,naiste_riided,237.71,140.42,97.29,40.93
+648,INV-202303-00109,2023-03-26,,1334,1,24.67,24.67,online,,sularaha,17.29,Moodne orgaaniline bleiser,laste_riided,24.67,17.29,7.38,29.91
+649,INV-202303-00110,2023-03-07,3394.0,1131,2,166.27,332.54,pood,Tallinn,sularaha,102.23,Praktiline merino villane pusa,naiste_riided,332.54,204.46,128.08,38.52
+650,INV-202303-00111,2023-03-14,4883.0,1094,1,93.7,93.7,pood,Tartu,sularaha,63.68,Elegantne linane linane särk,meeste_riided,93.7,63.68,30.02,32.04
+651,INV-202303-00112,2023-03-16,4096.0,1249,2,73.9,147.8,pood,Tallinn,sularaha,50.59,Trendikas puuvillane body,laste_riided,147.8,101.18,46.62,31.54
+652,INV-202303-00113,2023-03-03,4682.0,1248,3,145.5,436.5,online,,kaart,99.69,Soe villane kingad,jalanõusid,436.5,299.07,137.43,31.48
+653,INV-202303-00114,2023-03-31,4521.0,1112,1,242.43,242.43,pood,Tartu,järelmaks,147.23,Sportlik polüester püksid,meeste_riided,242.43,147.23,95.2,39.27
+654,INV-202303-00115,2023-03-29,2696.0,1024,3,117.05,351.15,pood,Tartu,järelmaks,76.35,Trendikas kangast nokamüts,aksessuaarid,351.15,229.05,122.1,34.77
+655,INV-202303-00116,2023-03-03,2349.0,1326,2,106.82,213.64,pood,Tallinn,kaart,71.74,Stiilne orgaaniline pidžaama,laste_riided,213.64,143.48,70.16,32.84
+656,INV-202303-00117,2023-03-12,2712.0,1222,4,26.62,106.48,pood,Tartu,sularaha,16.81,Luksuslik softshell komplekt,laste_riided,106.48,67.24,39.24,36.85
+657,INV-202303-00118,2023-03-07,4263.0,1068,1,122.45,122.45,pood,Pärnu,sularaha,77.2,Moodne satiinne bleiser,naiste_riided,122.45,77.2,45.25,36.95
+658,INV-202303-00119,2023-03-06,3784.0,1245,1,228.81,228.81,pood,Tallinn,järelmaks,154.84,Trendikas nahkne oxfordid,jalanõusid,228.81,154.84,73.97,32.33
+659,INV-202303-00120,2023-03-06,2461.0,1193,3,120.59,361.77,pood,Tallinn,kaart,83.72,Elegantne tweed smokingüklikond,meeste_riided,361.77,251.16,110.61,30.57
+660,INV-202303-00121,2023-03-23,4088.0,1319,1,290.55,290.55,online,,sularaha,174.45,Vintage džersii tuunika,naiste_riided,290.55,174.45,116.1,39.96
+661,INV-202303-00122,2023-03-19,3849.0,1063,1,151.45,151.45,pood,Tallinn,sularaha,107.69,Mugav softshell slim-fit püksid,laste_riided,151.45,107.69,43.76,28.89
+662,INV-202303-00123,2023-03-07,4450.0,1260,2,130.36,260.72,online,,sularaha,89.0,Minimalistlik džersii pullover,naiste_riided,260.72,178.0,82.72,31.73
+663,INV-202303-00124,2023-03-12,2163.0,1096,4,273.32,1093.28,pood,Pärnu,kaart,184.37,Soe seemisnahkne nahk sandaalid,jalanõusid,1093.28,737.48,355.8,32.54
+664,INV-202303-00125,2023-03-23,2850.0,1242,1,203.39,203.39,online,,sularaha,126.05,Boheemlaslik villane barett,aksessuaarid,203.39,126.05,77.34,38.03
+665,INV-202303-00126,2023-03-21,4206.0,1256,1,296.4,296.4,pood,Tallinn,kaart,176.78,Klassikaline puuvillane skaterkleit,naiste_riided,296.4,176.78,119.62,40.36
+666,INV-202303-00127,2023-03-14,2387.0,1296,2,301.97,603.94,pood,Tallinn,sularaha,181.98,Kerge džersii pluus,naiste_riided,603.94,363.96,239.98,39.74
+667,INV-202303-00128,2023-03-18,3556.0,1055,1,65.6,65.6,pood,Pärnu,järelmaks,41.58,Elegantne puust kootud müts,aksessuaarid,65.6,41.58,24.02,36.62
+668,INV-202303-00129,2023-03-16,4205.0,1174,1,150.11,150.11,online,,sularaha,103.46,Mugav viskoosne plisseeseelik,naiste_riided,150.11,103.46,46.65,31.08
+669,INV-202303-00130,2023-03-26,,1247,1,29.48,29.48,pood,Tallinn,sularaha,18.93,Mugav klaasist kõrvarõngad,aksessuaarid,29.48,18.93,10.55,35.79
+670,INV-202303-00131,2023-03-27,4408.0,1203,1,17.97,17.97,pood,Pärnu,järelmaks,12.54,Luksuslik nahkne käekott,aksessuaarid,17.97,12.54,5.43,30.22
+671,INV-202303-00132,2023-03-04,3057.0,1197,1,152.85,152.85,pood,Pärnu,sularaha,108.35,Sportlik softshell sukkpüksid,laste_riided,152.85,108.35,44.5,29.11
+672,INV-202303-00133,2023-03-07,3106.0,1012,1,160.21,160.21,online,,järelmaks,111.3,Boheemlaslik merino villane cargo püksid,meeste_riided,160.21,111.3,48.91,30.53
+673,INV-202303-00134,2023-03-25,3897.0,1319,1,290.55,290.55,pood,Pärnu,sularaha,174.45,Vintage džersii tuunika,naiste_riided,290.55,174.45,116.1,39.96
+674,INV-202303-00135,2023-03-21,2402.0,1167,2,270.99,541.98,pood,Tartu,kaart,170.94,Moodne tweed smokingüklikond,meeste_riided,541.98,341.88,200.1,36.92
+675,INV-202303-00136,2023-03-27,2485.0,1249,2,73.9,147.8,online,,kaart,50.59,Trendikas puuvillane body,laste_riided,147.8,101.18,46.62,31.54
+676,INV-202303-00137,2023-03-19,2227.0,1146,2,31.65,63.3,pood,Tallinn,sularaha,22.19,Trendikas trikoo jakk,laste_riided,63.3,44.38,18.92,29.89
+677,INV-202303-00138,2023-03-19,4404.0,1196,1,30.91,32.93,online,,kaart,22.43,Klassikaline satiinne mantelpaltoo,naiste_riided,32.93,22.43,10.5,31.89
+678,INV-202303-00139,2023-03-13,,1026,1,166.27,166.27,online,,järelmaks,107.22,Vintage siidine skaterkleit,naiste_riided,166.27,107.22,59.05,35.51
+679,INV-202303-00140,2023-03-06,2025.0,1049,3,308.84,926.52,pood,Tallinn,järelmaks,200.72,Boheemlaslik puuvillane tuulejope,naiste_riided,926.52,602.16,324.36,35.01
+680,INV-202303-00141,2023-03-08,2252.0,1145,1,338.43,338.43,pood,Tallinn,sularaha,217.23,Mugav tweed ülikond,meeste_riided,338.43,217.23,121.2,35.81
+681,INV-202303-00142,2023-03-06,2461.0,1071,3,237.71,713.13,online,,sularaha,140.42,Klassikaline viskoosne õhtukleit,naiste_riided,713.13,421.26,291.87,40.93
+682,INV-202303-00143,2023-03-01,3114.0,1307,1,127.38,127.38,pood,Tartu,sularaha,90.47,Kerge puuvillane slim-fit särk,meeste_riided,127.38,90.47,36.91,28.98
+683,INV-202303-00144,2023-03-05,2028.0,1210,1,374.54,374.54,online,,järelmaks,225.61,Vintage tweed kampsun,meeste_riided,374.54,225.61,148.93,39.76
+684,INV-202303-00145,2023-03-18,3480.0,1048,3,15.06,49.11,pood,Tartu,sularaha,10.15,Soe siidine kaelakee,aksessuaarid,49.11,30.45,18.66,38.0
+685,INV-202303-00146,2023-03-24,3851.0,1350,1,270.69,270.69,online,,järelmaks,168.14,Soe nahkne platvormi kontsad,jalanõusid,270.69,168.14,102.55,37.88
+686,INV-202303-00147,2023-03-26,2396.0,1020,3,100.4,301.2,pood,Tartu,kaart,62.63,Elegantne puuvillane body,laste_riided,301.2,187.89,113.31,37.62
+687,INV-202303-00148,2023-03-26,4032.0,1320,1,30.05,30.05,pood,Tallinn,sularaha,20.02,Trendikas fliisist tuulejope,laste_riided,30.05,20.02,10.03,33.38
+688,INV-202303-00149,2023-03-27,4570.0,1247,1,29.48,29.48,online,,sularaha,18.93,Mugav klaasist kõrvarõngad,aksessuaarid,29.48,18.93,10.55,35.79
+689,INV-202303-00150,2023-03-02,4965.0,1334,1,24.67,24.67,pood,Tallinn,järelmaks,17.29,Moodne orgaaniline bleiser,laste_riided,24.67,17.29,7.38,29.91
+690,INV-202303-00151,2023-03-05,3657.0,1028,2,23.45,46.9,online,,kaart,15.86,Moodne nahkne müts,aksessuaarid,46.9,31.72,15.18,32.37
+691,INV-202303-00152,2023-03-26,3605.0,1071,1,237.71,237.71,pood,Tallinn,sularaha,140.42,Klassikaline viskoosne õhtukleit,naiste_riided,237.71,140.42,97.29,40.93
+692,INV-202303-00153,2023-03-29,4747.0,1319,1,290.55,290.55,online,,sularaha,174.45,Vintage džersii tuunika,naiste_riided,290.55,174.45,116.1,39.96
+693,INV-202303-00154,2023-03-26,4792.0,1283,1,216.92,188.91,online,,kaart,111.74,Klassikaline nahkne sõrmus,aksessuaarid,188.91,111.74,77.17,40.85
+694,INV-202303-00155,2023-03-15,2208.0,1126,2,200.77,401.54,pood,Pärnu,kaart,141.7,Mugav kashmiir skaterkleit,naiste_riided,401.54,283.4,118.14,29.42
+695,INV-202303-00156,2023-03-04,2430.0,1151,2,215.58,431.16,pood,Tallinn,järelmaks,129.16,Stiilne villane seljakott,aksessuaarid,431.16,258.32,172.84,40.09
+696,INV-202303-00157,2023-03-21,3325.0,1213,1,132.3,132.3,pood,Tallinn,kaart,82.97,Luksuslik goretex derbyd,jalanõusid,132.3,82.97,49.33,37.29
+697,INV-202303-00158,2023-03-23,,1211,1,225.28,225.28,pood,Tartu,järelmaks,135.13,Moodne keraamiline nahkvöö,aksessuaarid,225.28,135.13,90.15,40.02
+698,INV-202303-00159,2023-03-06,3698.0,1053,2,113.86,227.72,pood,Tallinn,sularaha,67.9,Trendikas villane nahkkindad,aksessuaarid,227.72,135.8,91.92,40.37
+699,INV-202303-00160,2023-03-27,2690.0,1271,1,130.02,130.02,pood,Tallinn,sularaha,88.09,Mugav puuvillane suvekleit,laste_riided,130.02,88.09,41.93,32.25
+700,INV-202303-00161,2023-03-03,4252.0,1136,2,94.25,188.5,pood,Tallinn,kaart,59.06,Trendikas villane tuulejope,laste_riided,188.5,118.12,70.38,37.34
+701,INV-202303-00162,2023-03-08,4032.0,1166,4,205.0,820.0,online,,järelmaks,136.45,Õhuline flanellne smokingüklikond,meeste_riided,820.0,545.8,274.2,33.44
+702,INV-202303-00163,2023-03-06,,1048,1,16.37,-16.37,online,,kaart,10.15,Soe siidine kaelakee,aksessuaarid,-16.37,10.15,-26.52,162.0
+703,INV-202303-00164,2023-03-12,4206.0,1210,1,374.54,374.54,pood,Tallinn,sularaha,225.61,Vintage tweed kampsun,meeste_riided,374.54,225.61,148.93,39.76
+704,INV-202303-00165,2023-03-06,2614.0,1238,1,72.73,72.73,pood,Pärnu,kaart,48.98,Minimalistlik džersii chino püksid,naiste_riided,72.73,48.98,23.75,32.66
+705,INV-202303-00166,2023-03-10,4724.0,1293,1,351.33,351.33,online,,sularaha,217.33,Boheemlaslik linane pullover,naiste_riided,351.33,217.33,134.0,38.14
+706,INV-202303-00167,2023-03-14,3011.0,1204,3,63.95,191.85,pood,Tallinn,sularaha,40.78,Stiilne villane kontsakingad,jalanõusid,191.85,122.34,69.51,36.23
+707,INV-202303-00168,2023-03-25,,1025,1,122.07,122.07,pood,Tartu,järelmaks,78.03,Moodne metallist rätik,aksessuaarid,122.07,78.03,44.04,36.08
+708,INV-202303-00169,2023-03-26,4840.0,1020,1,100.4,100.4,pood,Tallinn,sularaha,62.63,Elegantne puuvillane body,laste_riided,100.4,62.63,37.77,37.62
+709,INV-202303-00170,2023-03-12,3521.0,1274,5,234.79,1173.95,pood,Tallinn,järelmaks,156.71,Soe teksane chino püksid,meeste_riided,1173.95,783.55,390.4,33.26
+710,INV-202303-00171,2023-03-22,4261.0,1060,4,253.26,1013.04,online,,järelmaks,153.0,Luksuslik puuvillane linane särk,meeste_riided,1013.04,612.0,401.04,39.59
+711,INV-202303-00172,2023-03-09,2778.0,1142,1,307.27,307.27,online,,järelmaks,211.12,Sportlik seemisnahkne nahk sandaalid,jalanõusid,307.27,211.12,96.15,31.29
+712,INV-202303-00173,2023-03-11,4255.0,1143,2,307.83,615.66,pood,Tallinn,kaart,182.53,Õhuline linane jakk,naiste_riided,615.66,365.06,250.6,40.7
+713,INV-202303-00174,2023-03-08,4470.0,1040,1,96.11,96.11,pood,Pärnu,sularaha,67.46,Sportlik goretex nahk sandaalid,jalanõusid,96.11,67.46,28.65,29.81
+714,INV-202303-00175,2023-03-25,,1067,1,15.09,15.09,pood,Tallinn,järelmaks,10.5,Praktiline siidine rätik,aksessuaarid,15.09,10.5,4.59,30.42
+715,INV-202303-00176,2023-03-12,2546.0,1316,2,296.58,593.16,pood,Tartu,kaart,197.21,Luksuslik flanellne smokingüklikond,meeste_riided,593.16,394.42,198.74,33.51
+716,INV-202303-00177,2023-03-07,2299.0,1210,3,374.54,1123.62,online,,sularaha,225.61,Vintage tweed kampsun,meeste_riided,1123.62,676.83,446.79,39.76
+717,INV-202303-00178,2023-03-05,4059.0,1007,2,60.37,120.74,pood,Pärnu,kaart,37.36,Soe viskoosne skaterkleit,naiste_riided,120.74,74.72,46.02,38.11
+718,INV-202303-00179,2023-03-21,2948.0,1149,1,304.14,304.14,online,,sularaha,208.81,Trendikas viskoosne topik,naiste_riided,304.14,208.81,95.33,31.34
+719,INV-202303-00180,2023-03-24,3199.0,1242,2,203.39,406.78,pood,Tartu,järelmaks,126.05,Boheemlaslik villane barett,aksessuaarid,406.78,252.1,154.68,38.03
+720,INV-202303-00181,2023-03-11,3297.0,1256,2,296.4,592.8,online,,sularaha,176.78,Klassikaline puuvillane skaterkleit,naiste_riided,592.8,353.56,239.24,40.36
+721,INV-202303-00182,2023-03-25,4851.0,1244,3,125.36,376.08,online,,kaart,78.5,Moodne fliisist teksapüksid,laste_riided,376.08,235.5,140.58,37.38
+722,INV-202303-00183,2023-03-14,4370.0,1195,1,339.21,339.21,pood,Tallinn,sularaha,218.09,Boheemlaslik villane tennised,jalanõusid,339.21,218.09,121.12,35.71
+723,INV-202303-00184,2023-03-27,2154.0,1180,1,51.58,51.58,online,,kaart,36.04,Soe puuvillane chino püksid,laste_riided,51.58,36.04,15.54,30.13
+724,INV-202303-00185,2023-03-15,4498.0,1106,2,47.88,95.76,online,,sularaha,33.77,Praktiline klaasist sõrmkindad,aksessuaarid,95.76,67.54,28.22,29.47
+725,INV-202303-00186,2023-03-07,2872.0,1002,3,274.78,824.34,online,,kaart,173.56,Mugav linane linane kostüüm,meeste_riided,824.34,520.68,303.66,36.84
+726,INV-202303-00187,2023-03-14,2852.0,1080,1,51.5,51.5,online,,järelmaks,35.75,Minimalistlik softshell chino püksid,laste_riided,51.5,35.75,15.75,30.58
+727,INV-202303-00188,2023-03-17,3439.0,1017,1,153.62,153.62,pood,Tallinn,sularaha,108.74,Praktiline seemisnahkne saapad,jalanõusid,153.62,108.74,44.88,29.21
+728,INV-202303-00189,2023-03-14,2014.0,1256,1,296.4,296.4,online,,sularaha,176.78,Klassikaline puuvillane skaterkleit,naiste_riided,296.4,176.78,119.62,40.36
+729,INV-202303-00190,2023-03-14,3242.0,1068,2,122.45,244.9,pood,Tallinn,kaart,77.2,Moodne satiinne bleiser,naiste_riided,244.9,154.4,90.5,36.95
+730,INV-202303-00191,2023-03-18,4949.0,1302,1,54.95,54.95,online,,kaart,36.03,Kerge puuvillane chino püksid,laste_riided,54.95,36.03,18.92,34.43
+731,INV-202303-00192,2023-03-03,3833.0,1072,2,95.39,-190.78,pood,Pärnu,kaart,59.21,Klassikaline kangast nahkkindad,aksessuaarid,-190.78,118.42,-309.2,162.07
+732,INV-202303-00193,2023-03-16,3984.0,1225,2,116.87,233.74,online,,sularaha,75.66,Moodne kangast derbyd,jalanõusid,233.74,151.32,82.42,35.26
+733,INV-202303-00194,2023-03-19,4229.0,1039,1,282.95,282.95,pood,Pärnu,sularaha,188.32,Sportlik džersii parka,naiste_riided,282.95,188.32,94.63,33.44
+734,INV-202303-00195,2023-03-12,2130.0,1189,2,58.49,116.98,pood,Tartu,järelmaks,36.3,Luksuslik nahkne madalad kontsad,jalanõusid,116.98,72.6,44.38,37.94
+735,INV-202303-00196,2023-03-08,4683.0,1053,1,113.86,113.86,online,,järelmaks,67.9,Trendikas villane nahkkindad,aksessuaarid,113.86,67.9,45.96,40.37
+736,INV-202303-00197,2023-03-19,2119.0,1221,1,350.19,350.19,online,,sularaha,231.74,Õhuline goretex tennised,jalanõusid,350.19,231.74,118.45,33.82
+737,INV-202303-00198,2023-03-29,2997.0,1071,3,237.71,713.13,online,,järelmaks,140.42,Klassikaline viskoosne õhtukleit,naiste_riided,713.13,421.26,291.87,40.93
+738,INV-202303-00199,2023-03-05,4746.0,1075,1,278.59,278.59,pood,Tallinn,järelmaks,181.9,Kerge flanellne kardigan,meeste_riided,278.59,181.9,96.69,34.71
+739,INV-202303-00200,2023-03-18,3109.0,1005,1,198.29,198.29,pood,Tartu,kaart,135.7,Mugav tweed kardigan,meeste_riided,198.29,135.7,62.59,31.56
+740,INV-202303-00201,2023-03-29,4014.0,1179,4,82.15,328.6,pood,Tallinn,sularaha,55.66,Elegantne tweed püksid,meeste_riided,328.6,222.64,105.96,32.25
+741,INV-202303-00202,2023-03-16,3846.0,1350,3,270.69,812.07,online,,järelmaks,168.14,Soe nahkne platvormi kontsad,jalanõusid,812.07,504.42,307.65,37.88
+742,INV-202303-00203,2023-03-05,3242.0,1232,1,194.57,194.57,pood,Tallinn,kaart,118.71,Kerge metallist labakindad,aksessuaarid,194.57,118.71,75.86,38.99
+743,INV-202303-00204,2023-03-17,3583.0,1088,1,100.57,100.57,pood,Tallinn,järelmaks,61.34,Soe softshell sukkpüksid,laste_riided,100.57,61.34,39.23,39.01
+744,INV-202303-00205,2023-03-15,3127.0,1171,2,351.62,703.24,online,,kaart,217.34,Sportlik džersii ülikond,meeste_riided,703.24,434.68,268.56,38.19
+745,INV-202303-00206,2023-03-30,4948.0,1199,1,276.97,276.97,online,,sularaha,163.71,Klassikaline kangast tennised,jalanõusid,276.97,163.71,113.26,40.89
+746,INV-202303-00207,2023-03-10,2120.0,1328,2,274.87,549.74,pood,Tartu,sularaha,165.23,Õhuline goretex kingad,jalanõusid,549.74,330.46,219.28,39.89
+747,INV-202303-00208,2023-03-09,4170.0,1335,1,201.86,201.86,pood,Tallinn,sularaha,125.17,Boheemlaslik polüester slim-fit särk,meeste_riided,201.86,125.17,76.69,37.99
+748,INV-202303-00209,2023-03-10,3033.0,1030,1,112.68,112.68,online,,kaart,68.58,Minimalistlik softshell cargo püksid,laste_riided,112.68,68.58,44.1,39.14
+750,INV-202303-00211,2023-03-23,4602.0,1012,1,160.21,160.21,pood,Pärnu,sularaha,111.3,Boheemlaslik merino villane cargo püksid,meeste_riided,160.21,111.3,48.91,30.53
+751,INV-202303-00212,2023-03-18,2741.0,1329,4,110.02,440.08,pood,Tartu,järelmaks,65.74,Moodne viskoosne teksapüksid,naiste_riided,440.08,262.96,177.12,40.25
+752,INV-202303-00213,2023-03-22,2906.0,1233,2,111.26,222.52,pood,Tartu,järelmaks,67.78,Vintage viskoosne püksid,naiste_riided,222.52,135.56,86.96,39.08
+753,INV-202303-00214,2023-03-21,4949.0,1013,3,218.99,656.97,pood,Tallinn,järelmaks,141.58,Boheemlaslik džersii teksapüksid,naiste_riided,656.97,424.74,232.23,35.35
+754,INV-202303-00215,2023-03-04,2128.0,1214,2,250.17,500.34,pood,Tallinn,kaart,176.29,Luksuslik merino villane kapuutsiga pusa,naiste_riided,500.34,352.58,147.76,29.53
+755,INV-202303-00216,2023-03-19,4949.0,1105,1,259.23,259.23,pood,Tallinn,sularaha,160.11,Kerge linane teksapüksid,meeste_riided,259.23,160.11,99.12,38.24
+756,INV-202303-00217,2023-03-15,3399.0,1072,1,95.39,-95.39,pood,Tallinn,järelmaks,59.21,Klassikaline kangast nahkkindad,aksessuaarid,-95.39,59.21,-154.6,162.07
+757,INV-202303-00218,2023-03-13,4850.0,1235,1,210.87,210.87,pood,Tallinn,järelmaks,146.89,Soe linane mantelpaltoo,meeste_riided,210.87,146.89,63.98,30.34
+758,INV-202303-00219,2023-03-08,3713.0,1284,2,99.57,-199.14,pood,Tallinn,sularaha,59.84,Vintage softshell alussärk,laste_riided,-199.14,119.68,-318.82,160.1
+759,INV-202303-00220,2023-03-16,3235.0,1108,4,371.05,1484.2,online,,järelmaks,223.83,Trendikas goretex oxfordid,jalanõusid,1484.2,895.32,588.88,39.68
+760,INV-202303-00221,2023-03-25,3854.0,1112,2,242.43,484.86,pood,Tartu,sularaha,147.23,Sportlik polüester püksid,meeste_riided,484.86,294.46,190.4,39.27
+761,INV-202303-00222,2023-03-30,2864.0,1275,2,62.82,125.64,online,,järelmaks,38.3,Trendikas villane dressikomplekt,laste_riided,125.64,76.6,49.04,39.03
+762,INV-202303-00223,2023-03-30,3756.0,1280,1,128.37,128.37,pood,Pärnu,kaart,91.43,Mugav fliisist alussärk,laste_riided,128.37,91.43,36.94,28.78
+763,INV-202303-00224,2023-03-19,4206.0,1065,1,48.58,48.58,pood,Tallinn,järelmaks,30.92,Soe fliisist pidžaama,laste_riided,48.58,30.92,17.66,36.35
+764,INV-202303-00225,2023-03-18,2317.0,1292,3,74.81,224.43,pood,Tallinn,kaart,45.76,Õhuline siidine kaelakee,aksessuaarid,224.43,137.28,87.15,38.83
+765,INV-202303-00226,2023-03-05,4903.0,1319,1,290.55,290.55,pood,Tartu,kaart,174.45,Vintage džersii tuunika,naiste_riided,290.55,174.45,116.1,39.96
+766,INV-202303-00227,2023-03-20,3701.0,1020,1,75.79,100.4,pood,Tallinn,kaart,62.63,Elegantne puuvillane body,laste_riided,100.4,62.63,37.77,37.62
+767,INV-202303-00228,2023-03-24,4736.0,1115,4,53.19,212.76,online,,sularaha,35.97,Soe orgaaniline sokid,laste_riided,212.76,143.88,68.88,32.37
+768,INV-202303-00229,2023-03-01,4193.0,1181,2,142.57,285.14,pood,Tallinn,järelmaks,85.21,Sportlik linane bleiser,meeste_riided,285.14,170.42,114.72,40.23
+769,INV-202303-00230,2023-03-23,3177.0,1060,1,253.26,253.26,online,,kaart,153.0,Luksuslik puuvillane linane särk,meeste_riided,253.26,153.0,100.26,39.59
+770,INV-202303-00231,2023-03-11,4569.0,1202,2,22.04,44.08,online,,sularaha,13.3,Elegantne metallist sall,aksessuaarid,44.08,26.6,17.48,39.66
+771,INV-202303-00232,2023-03-09,3032.0,1236,1,205.89,205.89,online,,sularaha,127.65,Stiilne puust müts,aksessuaarid,205.89,127.65,78.24,38.0
+772,INV-202303-00233,2023-03-30,,1293,1,351.33,351.33,online,,sularaha,217.33,Boheemlaslik linane pullover,naiste_riided,351.33,217.33,134.0,38.14
+774,INV-202303-00235,2023-03-16,4535.0,1130,5,98.68,493.4,pood,Tallinn,kaart,69.24,Stiilne puuvillane mantelpaltoo,laste_riided,493.4,346.2,147.2,29.83
+775,INV-202303-00236,2023-03-07,2400.0,1030,2,112.68,225.36,pood,Tallinn,järelmaks,68.58,Minimalistlik softshell cargo püksid,laste_riided,225.36,137.16,88.2,39.14
+776,INV-202303-00237,2023-03-05,2386.0,1318,1,218.42,218.42,online,,järelmaks,135.24,Elegantne flanellne cargo püksid,meeste_riided,218.42,135.24,83.18,38.08
+777,INV-202303-00238,2023-03-31,4729.0,1088,5,100.57,502.85,online,,sularaha,61.34,Soe softshell sukkpüksid,laste_riided,502.85,306.7,196.15,39.01
+778,INV-202303-00239,2023-03-27,4539.0,1137,2,194.46,388.92,online,,kaart,133.47,Soe džersii cargo püksid,naiste_riided,388.92,266.94,121.98,31.36
+779,INV-202303-00240,2023-03-15,2019.0,1235,1,210.87,210.87,pood,Tartu,sularaha,146.89,Soe linane mantelpaltoo,meeste_riided,210.87,146.89,63.98,30.34
+780,INV-202303-00241,2023-03-13,4024.0,1257,1,81.48,81.48,pood,Tallinn,kaart,51.79,Õhuline kangast nahk sandaalid,jalanõusid,81.48,51.79,29.69,36.44
+781,INV-202303-00242,2023-03-24,3201.0,1201,1,147.16,147.16,online,,sularaha,91.71,Moodne keraamiline sall,aksessuaarid,147.16,91.71,55.45,37.68
+782,INV-202303-00243,2023-03-22,4867.0,1283,1,188.91,188.91,online,,sularaha,111.74,Klassikaline nahkne sõrmus,aksessuaarid,188.91,111.74,77.17,40.85
+783,INV-202303-00244,2023-03-02,4808.0,1118,2,109.42,-218.84,online,,sularaha,65.28,Elegantne villane kaabu,aksessuaarid,-218.84,130.56,-349.4,159.66
+784,INV-202303-00245,2023-03-23,2029.0,1198,4,291.72,1166.88,pood,Tallinn,järelmaks,186.77,Õhuline sünteetiline kõrge kontsaga kingad,jalanõusid,1166.88,747.08,419.8,35.98
+785,INV-202303-00246,2023-03-16,4724.0,1010,1,186.77,186.77,pood,Tartu,sularaha,186.77,Klassikaline puust nahkvöö,aksessuaarid,186.77,186.77,0.0,0.0
+786,INV-202303-00247,2023-03-17,3138.0,1279,1,66.21,66.21,pood,Tartu,järelmaks,44.52,Luksuslik orgaaniline dressikomplekt,laste_riided,66.21,44.52,21.69,32.76
+787,INV-202303-00248,2023-03-18,3023.0,1147,2,143.42,286.84,pood,Tallinn,sularaha,96.17,Mugav puuvillane kardigan,meeste_riided,286.84,192.34,94.5,32.95
+788,INV-202303-00249,2023-03-11,2403.0,1246,3,204.87,614.61,pood,Tallinn,sularaha,133.03,Praktiline villane kott,aksessuaarid,614.61,399.09,215.52,35.07
+789,INV-202303-00250,2023-03-20,2889.0,1283,1,188.91,188.91,pood,Tartu,kaart,111.74,Klassikaline nahkne sõrmus,aksessuaarid,188.91,111.74,77.17,40.85
+790,INV-202303-00251,2023-03-25,4327.0,1155,1,209.05,209.05,pood,Tallinn,sularaha,148.43,Stiilne kashmiir jakk,naiste_riided,209.05,148.43,60.62,29.0
+791,INV-202303-00252,2023-03-15,3641.0,1163,1,259.69,-259.69,pood,Tartu,järelmaks,158.13,Luksuslik tweed triiksärk,meeste_riided,-259.69,158.13,-417.82,160.89
+792,INV-202303-00253,2023-03-23,3512.0,1301,2,206.52,413.04,pood,Pärnu,kaart,140.06,Kerge satiinne jakk,naiste_riided,413.04,280.12,132.92,32.18
+793,INV-202303-00254,2023-03-21,2618.0,1279,1,66.21,66.21,pood,Tartu,järelmaks,44.52,Luksuslik orgaaniline dressikomplekt,laste_riided,66.21,44.52,21.69,32.76
+794,INV-202303-00255,2023-03-21,3812.0,1331,1,74.41,74.41,pood,Tallinn,järelmaks,51.84,Elegantne villane platvorm sandaalid,jalanõusid,74.41,51.84,22.57,30.33
+795,INV-202303-00256,2023-03-14,4918.0,1195,1,339.21,339.21,pood,Tartu,kaart,218.09,Boheemlaslik villane tennised,jalanõusid,339.21,218.09,121.12,35.71
+796,INV-202303-00257,2023-03-03,2915.0,1028,2,23.45,46.9,pood,Tallinn,järelmaks,15.86,Moodne nahkne müts,aksessuaarid,46.9,31.72,15.18,32.37
+797,INV-202303-00258,2023-03-02,3672.0,1179,1,82.15,82.15,pood,Pärnu,järelmaks,55.66,Elegantne tweed püksid,meeste_riided,82.15,55.66,26.49,32.25
+798,INV-202303-00259,2023-03-16,3852.0,1204,2,63.95,127.9,pood,Tallinn,sularaha,40.78,Stiilne villane kontsakingad,jalanõusid,127.9,81.56,46.34,36.23
+799,INV-202303-00260,2023-03-20,,1185,1,203.67,203.67,pood,Tallinn,järelmaks,129.9,Moodne džersii slim-fit ülikond,meeste_riided,203.67,129.9,73.77,36.22
+800,INV-202303-00261,2023-03-29,3883.0,1169,2,74.34,176.16,pood,Tallinn,sularaha,58.08,Minimalistlik trikoo tuulejope,laste_riided,176.16,116.16,60.0,34.06
+801,INV-202303-00262,2023-03-17,4557.0,1280,1,128.37,128.37,online,,järelmaks,91.43,Mugav fliisist alussärk,laste_riided,128.37,91.43,36.94,28.78
+802,INV-202303-00263,2023-03-23,4826.0,1114,2,74.7,149.4,online,,järelmaks,52.97,Luksuslik villane saapad,jalanõusid,149.4,105.94,43.46,29.09
+803,INV-202303-00264,2023-03-27,4311.0,1122,3,202.57,607.71,pood,Tartu,sularaha,133.1,Moodne kashmiir plisseeseelik,naiste_riided,607.71,399.3,208.41,34.29
+804,INV-202303-00265,2023-03-01,4167.0,1170,3,158.51,475.53,pood,Tallinn,sularaha,102.33,Elegantne kashmiir tuulejope,naiste_riided,475.53,306.99,168.54,35.44
+805,INV-202303-00266,2023-03-31,3338.0,1305,2,50.77,101.54,online,,kaart,35.66,Sportlik siidine cargo püksid,naiste_riided,101.54,71.32,30.22,29.76
+806,INV-202303-00267,2023-03-15,2472.0,1221,1,350.19,350.19,pood,Pärnu,sularaha,231.74,Õhuline goretex tennised,jalanõusid,350.19,231.74,118.45,33.82
+807,INV-202303-00268,2023-03-19,4858.0,1320,2,30.05,60.1,pood,Tartu,sularaha,20.02,Trendikas fliisist tuulejope,laste_riided,60.1,40.04,20.06,33.38
+808,INV-202303-00269,2023-03-14,3859.0,1350,1,270.69,270.69,pood,Tallinn,kaart,168.14,Soe nahkne platvormi kontsad,jalanõusid,270.69,168.14,102.55,37.88
+809,INV-202303-00270,2023-03-26,2214.0,1104,3,191.48,574.44,online,,järelmaks,117.01,Vintage kangast vöö,aksessuaarid,574.44,351.03,223.41,38.89
+810,INV-202303-00271,2023-03-25,4860.0,1264,5,221.19,1105.95,pood,Pärnu,kaart,141.9,Mugav goretex platvormi kontsad,jalanõusid,1105.95,709.5,396.45,35.85
+811,INV-202303-00272,2023-03-11,2377.0,1030,1,112.68,112.68,online,,järelmaks,68.58,Minimalistlik softshell cargo püksid,laste_riided,112.68,68.58,44.1,39.14
+812,INV-202303-00273,2023-03-02,4206.0,1155,1,209.05,209.05,pood,Tallinn,kaart,148.43,Stiilne kashmiir jakk,naiste_riided,209.05,148.43,60.62,29.0
+813,INV-202303-00274,2023-03-23,4244.0,1343,3,63.87,191.61,pood,Pärnu,sularaha,44.01,Boheemlaslik softshell komplekt,laste_riided,191.61,132.03,59.58,31.09
+814,INV-202303-00275,2023-03-11,2823.0,1347,3,246.97,740.91,pood,Pärnu,sularaha,148.73,Minimalistlik džersii polo särk,meeste_riided,740.91,446.19,294.72,39.78
+817,INV-202303-00278,2023-03-18,4934.0,1193,2,103.52,241.18,pood,Tallinn,sularaha,83.72,Elegantne tweed smokingüklikond,meeste_riided,241.18,167.44,73.74,30.57
+818,INV-202303-00279,2023-03-17,,1004,2,41.63,83.26,online,,kaart,29.41,Minimalistlik puuvillane tuunika,naiste_riided,83.26,58.82,24.44,29.35
+819,INV-202303-00280,2023-03-04,2823.0,1116,1,134.94,134.94,pood,Tallinn,sularaha,94.03,Elegantne keraamiline labakindad,aksessuaarid,134.94,94.03,40.91,30.32
+820,INV-202303-00281,2023-03-09,4773.0,1125,2,23.68,47.36,pood,Tallinn,järelmaks,15.2,Vintage softshell cargo püksid,laste_riided,47.36,30.4,16.96,35.81
+821,INV-202303-00282,2023-03-05,3930.0,1179,1,82.15,82.15,online,,kaart,55.66,Elegantne tweed püksid,meeste_riided,82.15,55.66,26.49,32.25
+822,INV-202303-00283,2023-03-28,2240.0,1118,1,109.42,109.42,pood,Tallinn,sularaha,65.28,Elegantne villane kaabu,aksessuaarid,109.42,65.28,44.14,40.34
+823,INV-202303-00284,2023-03-28,4831.0,1084,2,156.13,312.26,pood,Tallinn,sularaha,98.37,Õhuline nahkne elastne vöö,aksessuaarid,312.26,196.74,115.52,36.99
+824,INV-202303-00285,2023-03-08,2618.0,1105,1,259.23,259.23,pood,Tallinn,kaart,160.11,Kerge linane teksapüksid,meeste_riided,259.23,160.11,99.12,38.24
+825,INV-202303-00286,2023-03-20,3063.0,1029,2,184.15,368.3,pood,Tartu,sularaha,117.97,Stiilne villane sõrmkindad,aksessuaarid,368.3,235.94,132.36,35.94
+826,INV-202303-00287,2023-03-23,2774.0,1117,1,72.58,72.58,pood,Tallinn,järelmaks,46.62,Sportlik fliisist slim-fit püksid,laste_riided,72.58,46.62,25.96,35.77
+827,INV-202303-00288,2023-03-25,3166.0,1141,2,69.39,138.78,online,,kaart,46.6,Trendikas sünteetiline mokassiinid,jalanõusid,138.78,93.2,45.58,32.84
+828,INV-202303-00289,2023-03-15,3701.0,1209,1,252.1,252.1,pood,Tallinn,järelmaks,172.03,Soe sünteetiline sandaalid,jalanõusid,252.1,172.03,80.07,31.76
+829,INV-202303-00290,2023-03-06,3972.0,1090,2,281.19,562.38,pood,Tallinn,järelmaks,197.07,Moodne merino villane triiksärk,meeste_riided,562.38,394.14,168.24,29.92
+830,INV-202303-00291,2023-03-31,3597.0,1279,1,66.21,66.21,online,,sularaha,44.52,Luksuslik orgaaniline dressikomplekt,laste_riided,66.21,44.52,21.69,32.76
+831,INV-202303-00292,2023-03-26,4466.0,1320,4,30.05,120.2,online,,järelmaks,20.02,Trendikas fliisist tuulejope,laste_riided,120.2,80.08,40.12,33.38
+832,INV-202303-00293,2023-03-23,3953.0,1064,1,95.87,-95.87,pood,Tallinn,järelmaks,63.2,Sportlik softshell teksapüksid,laste_riided,-95.87,63.2,-159.07,165.92
+833,INV-202303-00294,2023-03-20,3421.0,1082,1,100.93,100.93,pood,Tallinn,sularaha,71.58,Boheemlaslik polüester casual särk,meeste_riided,100.93,71.58,29.35,29.08
+834,INV-202303-00295,2023-03-31,3214.0,1138,1,130.73,130.73,online,,järelmaks,83.37,Vintage orgaaniline body,laste_riided,130.73,83.37,47.36,36.23
+835,INV-202303-00296,2023-03-06,,1023,2,38.7,77.4,pood,Tallinn,järelmaks,27.36,Praktiline puuvillane sukkpüksid,laste_riided,77.4,54.72,22.68,29.3
+836,INV-202303-00297,2023-03-09,2400.0,1265,3,269.85,809.55,pood,Tartu,järelmaks,181.16,Soe flanellne chino püksid,meeste_riided,809.55,543.48,266.07,32.87
+837,INV-202303-00298,2023-03-18,2183.0,1148,1,48.85,48.85,online,,järelmaks,32.65,Luksuslik tweed linane särk,meeste_riided,48.85,32.65,16.2,33.16
+838,INV-202303-00299,2023-03-15,4100.0,1314,1,234.91,234.91,pood,Tallinn,järelmaks,153.13,Boheemlaslik nahkne talvesaapad,jalanõusid,234.91,153.13,81.78,34.81
+839,INV-202303-00300,2023-03-16,2221.0,1109,1,116.2,116.2,pood,Pärnu,järelmaks,72.49,Stiilne linane tuulejope,meeste_riided,116.2,72.49,43.71,37.62
+840,INV-202303-00301,2023-03-05,4633.0,1249,1,73.9,73.9,pood,Tallinn,järelmaks,50.59,Trendikas puuvillane body,laste_riided,73.9,50.59,23.31,31.54
+841,INV-202303-00302,2023-03-10,3648.0,1107,1,279.43,279.43,online,,järelmaks,196.64,Praktiline polüester ülikond,meeste_riided,279.43,196.64,82.79,29.63
+842,INV-202303-00303,2023-03-31,4173.0,1041,2,107.36,214.72,pood,Tallinn,kaart,67.0,Vintage orgaaniline komplekt,laste_riided,214.72,134.0,80.72,37.59
+843,INV-202303-00304,2023-03-22,2156.0,1138,1,130.73,130.73,pood,Tallinn,sularaha,83.37,Vintage orgaaniline body,laste_riided,130.73,83.37,47.36,36.23
+844,INV-202303-00305,2026-01-07,2407.0,1233,4,111.26,445.04,online,,kaart,67.78,Vintage viskoosne püksid,naiste_riided,445.04,271.12,173.92,39.08
+845,INV-202303-00306,2023-03-11,3618.0,1294,2,53.01,106.02,online,,järelmaks,36.61,Trendikas flanellne mantelpaltoo,meeste_riided,106.02,73.22,32.8,30.94
+846,INV-202303-00307,2023-03-10,2536.0,1139,2,106.71,213.42,pood,Pärnu,järelmaks,69.49,Vintage metallist seljakott,aksessuaarid,213.42,138.98,74.44,34.88
+847,INV-202303-00308,2023-03-13,2360.0,1227,1,120.17,120.17,pood,Tallinn,järelmaks,77.08,Mugav kangast tennised,jalanõusid,120.17,77.08,43.09,35.86
+848,INV-202303-00309,2023-03-06,4178.0,1192,1,109.62,109.62,pood,Tallinn,järelmaks,67.16,Soe džersii suvekleit,naiste_riided,109.62,67.16,42.46,38.73
+849,INV-202303-00310,2023-03-23,2642.0,1225,2,116.87,233.74,pood,Tallinn,järelmaks,75.66,Moodne kangast derbyd,jalanõusid,233.74,151.32,82.42,35.26
+850,INV-202303-00311,2023-03-24,2183.0,1173,3,168.82,506.46,pood,Tallinn,sularaha,105.43,Vintage fliisist koolikomplekt,laste_riided,506.46,316.29,190.17,37.55
+851,INV-202303-00312,2023-03-26,4291.0,1196,1,32.93,32.93,online,,sularaha,22.43,Klassikaline satiinne mantelpaltoo,naiste_riided,32.93,22.43,10.5,31.89
+852,INV-202303-00313,2023-03-30,,1020,1,100.4,100.4,pood,Tallinn,järelmaks,62.63,Elegantne puuvillane body,laste_riided,100.4,62.63,37.77,37.62
+853,INV-202303-00314,2023-03-13,2672.0,1169,3,88.08,264.24,pood,Tallinn,järelmaks,58.08,Minimalistlik trikoo tuulejope,laste_riided,264.24,174.24,90.0,34.06
+854,INV-202303-00315,2023-03-30,4927.0,1176,1,245.59,245.59,pood,Tartu,kaart,159.4,Boheemlaslik merino villane kapuutsiga pusa,naiste_riided,245.59,159.4,86.19,35.1
+855,INV-202303-00316,2023-03-08,3235.0,1274,1,234.79,234.79,pood,Tartu,järelmaks,156.71,Soe teksane chino püksid,meeste_riided,234.79,156.71,78.08,33.26
+856,INV-202303-00317,2023-03-16,2530.0,1154,1,190.81,190.81,pood,Tallinn,sularaha,119.91,Praktiline nahkne nahk sandaalid,jalanõusid,190.81,119.91,70.9,37.16
+857,INV-202303-00318,2023-03-21,2854.0,1058,1,302.86,302.86,pood,Pärnu,sularaha,216.32,Õhuline sünteetiline rannasandaalid,jalanõusid,302.86,216.32,86.54,28.57
+858,INV-202303-00319,2023-03-21,2609.0,1201,1,147.16,147.16,pood,Tartu,sularaha,91.71,Moodne keraamiline sall,aksessuaarid,147.16,91.71,55.45,37.68
+859,INV-202303-00320,2023-03-17,3431.0,1213,1,132.3,132.3,pood,Tartu,järelmaks,82.97,Luksuslik goretex derbyd,jalanõusid,132.3,82.97,49.33,37.29
+860,INV-202303-00321,2023-03-09,4080.0,1334,2,24.67,49.34,pood,Tartu,kaart,17.29,Moodne orgaaniline bleiser,laste_riided,49.34,34.58,14.76,29.91
+861,INV-202303-00322,2023-03-08,4834.0,1076,2,89.29,178.58,pood,Tallinn,sularaha,89.29,Klassikaline džersii bleiser,meeste_riided,178.58,178.58,0.0,0.0
+862,INV-202303-00323,2023-03-28,3948.0,1144,1,152.13,152.13,online,,järelmaks,105.72,Mugav polüester püksid,meeste_riided,152.13,105.72,46.41,30.51
+863,INV-202303-00324,2023-03-01,2014.0,1167,1,270.99,270.99,pood,Tartu,sularaha,170.94,Moodne tweed smokingüklikond,meeste_riided,270.99,170.94,100.05,36.92
+864,INV-202303-00325,2023-03-24,3178.0,1064,1,95.87,95.87,online,,kaart,63.2,Sportlik softshell teksapüksid,laste_riided,95.87,63.2,32.67,34.08
+865,INV-202303-00326,2023-03-11,3921.0,1123,3,219.38,658.14,pood,Tallinn,järelmaks,130.57,Stiilne kangast nokamüts,aksessuaarid,658.14,391.71,266.43,40.48
+866,INV-202303-00327,2023-03-17,3608.0,1055,1,65.6,65.6,pood,Tallinn,kaart,41.58,Elegantne puust kootud müts,aksessuaarid,65.6,41.58,24.02,36.62
+867,INV-202303-00328,2023-03-30,3599.0,1241,2,368.97,737.94,online,,kaart,248.79,Stiilne goretex kingad,jalanõusid,737.94,497.58,240.36,32.57
+868,INV-202303-00329,2023-03-06,4281.0,1114,1,74.7,74.7,pood,Tallinn,sularaha,52.97,Luksuslik villane saapad,jalanõusid,74.7,52.97,21.73,29.09
+869,INV-202303-00330,2023-03-03,4009.0,1269,1,125.98,125.98,pood,Tartu,järelmaks,77.48,Kerge viskoosne suvekleit,naiste_riided,125.98,77.48,48.5,38.5
+870,INV-202303-00331,2023-03-13,2713.0,1078,3,42.64,127.92,pood,Pärnu,järelmaks,25.25,Stiilne merino villane parka,naiste_riided,127.92,75.75,52.17,40.78
+871,INV-202303-00332,2023-03-21,2403.0,1275,2,62.82,125.64,online,,kaart,38.3,Trendikas villane dressikomplekt,laste_riided,125.64,76.6,49.04,39.03
+872,INV-202303-00333,2023-03-20,2941.0,1079,1,291.36,291.36,online,,sularaha,197.7,Trendikas džersii pullover,naiste_riided,291.36,197.7,93.66,32.15
+873,INV-202303-00334,2023-03-06,2041.0,1097,2,324.38,648.76,pood,Tallinn,sularaha,227.5,Boheemlaslik kangast rannasandaalid,jalanõusid,648.76,455.0,193.76,29.87
+874,INV-202303-00335,2023-03-17,3648.0,1111,3,327.07,981.21,pood,Tallinn,kaart,198.07,Õhuline polüester cargo püksid,meeste_riided,981.21,594.21,387.0,39.44
+875,INV-202303-00336,2023-03-16,4352.0,1309,2,211.35,422.7,pood,Tartu,sularaha,129.14,Moodne viskoosne plisseeseelik,naiste_riided,422.7,258.28,164.42,38.9
+876,INV-202303-00337,2023-03-02,3637.0,1009,1,332.55,332.55,pood,Tallinn,sularaha,206.74,Praktiline merino villane parka,meeste_riided,332.55,206.74,125.81,37.83
+877,INV-202303-00338,2023-03-18,2905.0,1084,1,156.13,156.13,online,,kaart,98.37,Õhuline nahkne elastne vöö,aksessuaarid,156.13,98.37,57.76,36.99
+878,INV-202303-00339,2023-03-14,4419.0,1330,2,167.23,334.46,online,,sularaha,106.54,Trendikas trikoo chino püksid,laste_riided,334.46,213.08,121.38,36.29
+879,INV-202303-00340,2023-03-20,3618.0,1249,3,73.9,221.7,pood,Tartu,järelmaks,50.59,Trendikas puuvillane body,laste_riided,221.7,151.77,69.93,31.54
+880,INV-202303-00341,2023-03-31,4685.0,1137,2,194.46,388.92,pood,Tartu,sularaha,133.47,Soe džersii cargo püksid,naiste_riided,388.92,266.94,121.98,31.36
+881,INV-202303-00342,2023-03-10,4452.0,1250,2,265.2,530.4,online,,sularaha,174.06,Sportlik linane jakk,naiste_riided,530.4,348.12,182.28,34.37
+882,INV-202303-00343,2023-03-10,4324.0,1334,1,24.67,24.67,online,,kaart,17.29,Moodne orgaaniline bleiser,laste_riided,24.67,17.29,7.38,29.91
+883,INV-202303-00344,2023-03-29,2641.0,1113,1,86.46,86.46,pood,Pärnu,järelmaks,52.42,Moodne trikoo koolikomplekt,laste_riided,86.46,52.42,34.04,39.37
+884,INV-202304-00001,2023-04-20,2709.0,1030,3,112.68,338.04,pood,Tartu,järelmaks,68.58,Minimalistlik softshell cargo püksid,laste_riided,338.04,205.74,132.3,39.14
+885,INV-202304-00002,2023-04-15,3744.0,1306,2,93.13,186.26,pood,Tartu,kaart,59.65,Elegantne kangast kindad,aksessuaarid,186.26,119.3,66.96,35.95
+886,INV-202304-00003,2023-04-08,2265.0,1287,1,114.8,114.8,pood,Tallinn,kaart,72.82,Stiilne fliisist komplekt,laste_riided,114.8,72.82,41.98,36.57
+887,INV-202304-00004,2023-04-03,3780.0,1304,1,210.36,210.36,online,,kaart,148.01,Kerge villane talvesaapad,jalanõusid,210.36,148.01,62.35,29.64
+888,INV-202304-00005,2023-04-04,3106.0,1250,1,265.2,265.2,pood,Tartu,sularaha,174.06,Sportlik linane jakk,naiste_riided,265.2,174.06,91.14,34.37
+889,INV-202304-00006,2023-04-28,4083.0,1286,3,28.56,85.68,pood,Tartu,sularaha,17.53,Trendikas keraamiline sõrmkindad,aksessuaarid,85.68,52.59,33.09,38.62
+891,INV-202304-00008,2023-04-06,4210.0,1259,1,229.55,229.55,pood,Tartu,järelmaks,143.56,Elegantne džersii cargo püksid,naiste_riided,229.55,143.56,85.99,37.46
+892,INV-202304-00009,2023-04-17,2222.0,1230,3,55.04,165.12,pood,Pärnu,kaart,34.21,Minimalistlik villane pühapäevakleit,laste_riided,165.12,102.63,62.49,37.85
+893,INV-202304-00010,2023-04-01,3618.0,1042,2,347.84,695.68,online,,järelmaks,223.47,Luksuslik teksane polo särk,meeste_riided,695.68,446.94,248.74,35.75
+894,INV-202304-00011,2023-04-12,2260.0,1158,1,70.01,70.01,pood,Tallinn,kaart,42.44,Praktiline flanellne linane särk,meeste_riided,70.01,42.44,27.57,39.38
+895,INV-202304-00012,2023-04-30,4724.0,1265,2,269.85,539.7,pood,Tallinn,järelmaks,181.16,Soe flanellne chino püksid,meeste_riided,539.7,362.32,177.38,32.87
+896,INV-202304-00013,2023-04-26,3574.0,1124,2,232.61,465.22,online,,sularaha,148.69,Klassikaline villane madalad kontsad,jalanõusid,465.22,297.38,167.84,36.08
+897,INV-202304-00014,2023-04-27,4258.0,1136,5,94.25,471.25,pood,Pärnu,sularaha,59.06,Trendikas villane tuulejope,laste_riided,471.25,295.3,175.95,37.34
+898,INV-202304-00015,2023-04-01,3275.0,1126,4,200.77,803.08,online,,kaart,141.7,Mugav kashmiir skaterkleit,naiste_riided,803.08,566.8,236.28,29.42
+899,INV-202304-00016,2023-04-21,3699.0,1256,1,296.4,296.4,pood,Tallinn,järelmaks,176.78,Klassikaline puuvillane skaterkleit,naiste_riided,296.4,176.78,119.62,40.36
+900,INV-202304-00017,2023-04-14,2617.0,1281,2,292.61,585.22,online,,kaart,190.07,Sportlik villane tossud,jalanõusid,585.22,380.14,205.08,35.04
+901,INV-202304-00018,2023-04-13,4428.0,1009,1,332.55,332.55,online,,kaart,206.74,Praktiline merino villane parka,meeste_riided,332.55,206.74,125.81,37.83
+902,INV-202304-00019,2023-04-13,4949.0,1043,2,128.44,256.88,online,,sularaha,128.44,Elegantne orgaaniline tuulejope,laste_riided,256.88,256.88,0.0,0.0
+903,INV-202304-00020,2023-04-23,4850.0,1095,1,140.64,140.64,pood,Pärnu,järelmaks,93.17,Minimalistlik villane bleiser,laste_riided,140.64,93.17,47.47,33.75
+904,INV-202304-00021,2023-04-19,,1031,1,434.08,434.08,online,,kaart,266.31,Õhuline sünteetiline sporditossud,jalanõusid,434.08,266.31,167.77,38.65
+905,INV-202304-00022,2023-04-24,,1081,4,63.62,254.48,pood,Tallinn,kaart,38.46,Luksuslik goretex rannasandaalid,jalanõusid,254.48,153.84,100.64,39.55
+906,INV-202304-00023,2023-04-21,3132.0,1034,2,207.23,414.46,online,,kaart,145.76,Minimalistlik villane nahk sandaalid,jalanõusid,414.46,291.52,122.94,29.66
+907,INV-202304-00024,2023-04-08,4193.0,1017,1,153.62,153.62,online,,sularaha,108.74,Praktiline seemisnahkne saapad,jalanõusid,153.62,108.74,44.88,29.21
+908,INV-202304-00025,2023-04-18,3418.0,1329,2,110.02,220.04,pood,Tallinn,sularaha,65.74,Moodne viskoosne teksapüksid,naiste_riided,220.04,131.48,88.56,40.25
+909,INV-202304-00026,2023-04-11,3618.0,1128,1,274.5,274.5,pood,Tartu,kaart,184.73,Luksuslik polüester V-kaelusega kampsun,meeste_riided,274.5,184.73,89.77,32.7
+910,INV-202304-00027,2025-12-02,3709.0,1183,1,231.13,231.13,pood,Tallinn,sularaha,138.29,Luksuslik metallist labakindad,aksessuaarid,231.13,138.29,92.84,40.17
+911,INV-202304-00028,2023-04-15,4815.0,1170,1,158.51,158.51,pood,Tallinn,järelmaks,102.33,Elegantne kashmiir tuulejope,naiste_riided,158.51,102.33,56.18,35.44
+912,INV-202304-00029,2023-04-25,3297.0,1325,1,50.85,50.85,pood,Tartu,sularaha,34.78,Praktiline puust sall,aksessuaarid,50.85,34.78,16.07,31.6
+913,INV-202304-00030,2023-04-15,2610.0,1155,1,209.05,-209.05,pood,Tartu,kaart,148.43,Stiilne kashmiir jakk,naiste_riided,-209.05,148.43,-357.48,171.0
+914,INV-202304-00031,2023-04-01,3518.0,1236,1,264.03,205.89,pood,Tartu,kaart,127.65,Stiilne puust müts,aksessuaarid,205.89,127.65,78.24,38.0
+915,INV-202304-00032,2023-04-12,2997.0,1110,2,151.08,302.16,pood,Tartu,järelmaks,151.08,Moodne polüester slim-fit särk,meeste_riided,302.16,302.16,0.0,0.0
+916,INV-202304-00033,2023-04-28,2380.0,1201,2,147.16,294.32,pood,Tartu,järelmaks,91.71,Moodne keraamiline sall,aksessuaarid,294.32,183.42,110.9,37.68
+917,INV-202304-00034,2023-04-29,2335.0,1110,1,151.08,151.08,pood,Tallinn,järelmaks,151.08,Moodne polüester slim-fit särk,meeste_riided,151.08,151.08,0.0,0.0
+918,INV-202304-00035,2023-04-30,2749.0,1143,1,307.83,307.83,pood,Tallinn,sularaha,182.53,Õhuline linane jakk,naiste_riided,307.83,182.53,125.3,40.7
+919,INV-202304-00036,2023-04-07,,1285,1,123.64,123.64,pood,Pärnu,järelmaks,73.88,Praktiline puuvillane teksapüksid,laste_riided,123.64,73.88,49.76,40.25
+920,INV-202304-00037,2023-04-17,3163.0,1012,2,160.21,320.42,online,,sularaha,111.3,Boheemlaslik merino villane cargo püksid,meeste_riided,320.42,222.6,97.82,30.53
+921,INV-202304-00038,2023-04-10,2183.0,1147,4,143.42,573.68,pood,Tartu,kaart,96.17,Mugav puuvillane kardigan,meeste_riided,573.68,384.68,189.0,32.95
+922,INV-202304-00039,2023-04-08,4543.0,1202,1,22.04,22.04,online,,sularaha,13.3,Elegantne metallist sall,aksessuaarid,22.04,13.3,8.74,39.66
+923,INV-202304-00040,2023-04-27,4239.0,1223,1,319.98,319.98,pood,Tartu,järelmaks,192.81,Praktiline kangast kõrge kontsaga kingad,jalanõusid,319.98,192.81,127.17,39.74
+924,INV-202304-00041,2023-04-08,3001.0,1350,5,270.69,1353.45,pood,Tallinn,järelmaks,168.14,Soe nahkne platvormi kontsad,jalanõusid,1353.45,840.7,512.75,37.88
+925,INV-202304-00042,2023-04-29,4206.0,1132,1,144.36,144.36,online,,kaart,84.93,Klassikaline nahkne nahkkindad,aksessuaarid,144.36,84.93,59.43,41.17
+926,INV-202304-00043,2023-04-15,2054.0,1296,1,301.97,301.97,online,,kaart,181.98,Kerge džersii pluus,naiste_riided,301.97,181.98,119.99,39.74
+927,INV-202304-00044,2023-04-07,3970.0,1157,1,64.85,91.22,pood,Tallinn,kaart,64.48,Klassikaline tweed kardigan,meeste_riided,91.22,64.48,26.74,29.31
+928,INV-202304-00045,2023-04-20,4206.0,1006,3,319.42,958.26,online,,järelmaks,208.86,Praktiline džersii seelik,naiste_riided,958.26,626.58,331.68,34.61
+929,INV-202304-00046,2023-04-27,3071.0,1167,2,270.99,541.98,online,,järelmaks,170.94,Moodne tweed smokingüklikond,meeste_riided,541.98,341.88,200.1,36.92
+930,INV-202304-00047,2023-04-28,2272.0,1067,2,15.09,30.18,online,,sularaha,10.5,Praktiline siidine rätik,aksessuaarid,30.18,21.0,9.18,30.42
+931,INV-202304-00048,2023-04-23,4952.0,1261,2,305.72,611.44,pood,Tallinn,järelmaks,305.72,Vintage nahkne tossud,jalanõusid,611.44,611.44,0.0,0.0
+932,INV-202304-00049,2023-04-16,2835.0,1230,2,55.04,110.08,online,,kaart,34.21,Minimalistlik villane pühapäevakleit,laste_riided,110.08,68.42,41.66,37.85
+933,INV-202304-00050,2023-04-21,3525.0,1040,1,96.11,96.11,online,,järelmaks,67.46,Sportlik goretex nahk sandaalid,jalanõusid,96.11,67.46,28.65,29.81
+934,INV-202304-00051,2026-03-17,4113.0,1082,3,100.93,302.79,pood,Tallinn,kaart,71.58,Boheemlaslik polüester casual särk,meeste_riided,302.79,214.74,88.05,29.08
+935,INV-202304-00052,2023-04-28,2240.0,1006,1,319.42,319.42,pood,Tallinn,kaart,208.86,Praktiline džersii seelik,naiste_riided,319.42,208.86,110.56,34.61
+936,INV-202304-00053,2023-04-13,3263.0,1214,3,250.17,750.51,online,,sularaha,176.29,Luksuslik merino villane kapuutsiga pusa,naiste_riided,750.51,528.87,221.64,29.53
+938,INV-202304-00055,2023-04-23,2608.0,1215,1,160.91,160.91,online,,sularaha,102.31,Praktiline polüester casual särk,meeste_riided,160.91,102.31,58.6,36.42
+939,INV-202304-00056,2023-04-21,3050.0,1139,1,106.71,106.71,online,,kaart,69.49,Vintage metallist seljakott,aksessuaarid,106.71,69.49,37.22,34.88
+940,INV-202304-00057,2023-04-16,4948.0,1308,1,67.75,67.75,pood,Tallinn,sularaha,40.94,Luksuslik sünteetiline loaferid,jalanõusid,67.75,40.94,26.81,39.57
+941,INV-202304-00058,2023-04-11,4166.0,1217,1,34.04,34.04,pood,Tartu,järelmaks,21.18,Sportlik villane püksid,laste_riided,34.04,21.18,12.86,37.78
+942,INV-202304-00059,2023-04-25,4701.0,1330,2,138.47,334.46,pood,Tallinn,järelmaks,106.54,Trendikas trikoo chino püksid,laste_riided,334.46,213.08,121.38,36.29
+943,INV-202304-00060,2023-04-18,4058.0,1104,1,191.48,-191.48,pood,Pärnu,sularaha,117.01,Vintage kangast vöö,aksessuaarid,-191.48,117.01,-308.49,161.11
+944,INV-202304-00061,2023-04-30,2168.0,1234,2,162.86,325.72,pood,Tartu,kaart,101.94,Klassikaline siidine tuulejope,naiste_riided,325.72,203.88,121.84,37.41
+945,INV-202304-00062,2023-04-08,3356.0,1137,2,194.46,388.92,pood,Tallinn,järelmaks,133.47,Soe džersii cargo püksid,naiste_riided,388.92,266.94,121.98,31.36
+946,INV-202304-00063,2023-04-21,2221.0,1076,1,89.29,89.29,pood,Pärnu,järelmaks,89.29,Klassikaline džersii bleiser,meeste_riided,89.29,89.29,0.0,0.0
+947,INV-202304-00064,2023-04-20,4566.0,1183,1,231.13,231.13,online,,kaart,138.29,Luksuslik metallist labakindad,aksessuaarid,231.13,138.29,92.84,40.17
+948,INV-202304-00065,2023-04-10,3396.0,1114,1,74.7,74.7,online,,kaart,52.97,Luksuslik villane saapad,jalanõusid,74.7,52.97,21.73,29.09
+949,INV-202304-00066,2023-04-01,,1063,1,151.45,151.45,pood,Tallinn,järelmaks,107.69,Mugav softshell slim-fit püksid,laste_riided,151.45,107.69,43.76,28.89
+950,INV-202304-00067,2023-04-26,2456.0,1131,1,166.27,166.27,online,,kaart,102.23,Praktiline merino villane pusa,naiste_riided,166.27,102.23,64.04,38.52
+951,INV-202304-00068,2023-04-19,2423.0,1204,1,63.95,63.95,pood,Pärnu,sularaha,40.78,Stiilne villane kontsakingad,jalanõusid,63.95,40.78,23.17,36.23
+952,INV-202304-00069,2023-04-12,4525.0,1083,1,72.14,72.14,pood,Pärnu,kaart,48.59,Vintage villane püksid,laste_riided,72.14,48.59,23.55,32.64
+953,INV-202304-00070,2023-04-22,3698.0,1215,1,160.91,160.91,pood,Tallinn,järelmaks,102.31,Praktiline polüester casual särk,meeste_riided,160.91,102.31,58.6,36.42
+954,INV-202304-00071,2023-04-30,3403.0,1292,2,74.81,149.62,pood,Tallinn,kaart,45.76,Õhuline siidine kaelakee,aksessuaarid,149.62,91.52,58.1,38.83
+955,INV-202304-00072,2023-04-30,3425.0,1310,3,106.21,318.63,online,,järelmaks,66.03,Luksuslik fliisist komplekt,laste_riided,318.63,198.09,120.54,37.83
+956,INV-202304-00073,2023-04-24,2084.0,1143,1,307.83,307.83,pood,Tallinn,järelmaks,182.53,Õhuline linane jakk,naiste_riided,307.83,182.53,125.3,40.7
+957,INV-202304-00074,2023-04-15,2090.0,1312,2,243.93,487.86,online,,sularaha,152.67,Soe polüester smokingüklikond,meeste_riided,487.86,305.34,182.52,37.41
+958,INV-202304-00075,2023-04-26,3605.0,1223,1,319.98,319.98,online,,sularaha,192.81,Praktiline kangast kõrge kontsaga kingad,jalanõusid,319.98,192.81,127.17,39.74
+959,INV-202304-00076,2023-04-02,4432.0,1045,1,176.65,176.65,pood,Tallinn,järelmaks,117.46,Praktiline kangast elastne vöö,aksessuaarid,176.65,117.46,59.19,33.51
+960,INV-202304-00077,2023-04-16,3618.0,1032,2,198.42,396.84,online,,kaart,132.11,Boheemlaslik seemisnahkne oxfordid,jalanõusid,396.84,264.22,132.62,33.42
+961,INV-202304-00078,2023-04-26,4722.0,1153,1,79.59,79.59,pood,Tartu,sularaha,48.21,Soe teksane smokingüklikond,meeste_riided,79.59,48.21,31.38,39.43
+962,INV-202304-00079,2023-04-03,,1137,3,194.46,583.38,pood,Tartu,järelmaks,133.47,Soe džersii cargo püksid,naiste_riided,583.38,400.41,182.97,31.36
+963,INV-202304-00080,2023-04-11,2533.0,1270,1,124.35,124.35,pood,Tartu,sularaha,81.15,Elegantne tweed bleiser,meeste_riided,124.35,81.15,43.2,34.74
+964,INV-202304-00081,2023-04-03,4656.0,1067,2,15.09,30.18,online,,sularaha,10.5,Praktiline siidine rätik,aksessuaarid,30.18,21.0,9.18,30.42
+965,INV-202304-00082,2023-04-18,,1227,3,120.17,360.51,pood,Tartu,järelmaks,77.08,Mugav kangast tennised,jalanõusid,360.51,231.24,129.27,35.86
+966,INV-202304-00083,2023-04-18,,1004,1,41.63,41.63,pood,Tartu,järelmaks,29.41,Minimalistlik puuvillane tuunika,naiste_riided,41.63,29.41,12.22,29.35
+967,INV-202304-00084,2023-04-14,4803.0,1143,1,307.83,307.83,pood,Tallinn,sularaha,182.53,Õhuline linane jakk,naiste_riided,307.83,182.53,125.3,40.7
+968,INV-202304-00085,2023-04-23,3332.0,1119,1,181.68,181.68,pood,Tartu,järelmaks,116.87,Boheemlaslik kangast kangasvöö,aksessuaarid,181.68,116.87,64.81,35.67
+969,INV-202304-00086,2023-04-27,3072.0,1111,5,327.07,1635.35,pood,Tartu,kaart,198.07,Õhuline polüester cargo püksid,meeste_riided,1635.35,990.35,645.0,39.44
+970,INV-202304-00087,2023-04-21,3099.0,1019,2,80.39,160.78,pood,Tallinn,sularaha,51.41,Luksuslik villane bleiser,laste_riided,160.78,102.82,57.96,36.05
+971,INV-202304-00088,2023-04-16,3618.0,1199,4,276.97,1107.88,pood,Tartu,sularaha,163.71,Klassikaline kangast tennised,jalanõusid,1107.88,654.84,453.04,40.89
+972,INV-202304-00089,2023-04-07,4952.0,1083,2,72.14,144.28,online,,sularaha,48.59,Vintage villane püksid,laste_riided,144.28,97.18,47.1,32.64
+973,INV-202304-00090,2023-04-05,3280.0,1220,2,26.79,53.58,pood,Tartu,sularaha,19.01,Vintage keraamiline barett,aksessuaarid,53.58,38.02,15.56,29.04
+974,INV-202304-00091,2023-04-27,4985.0,1129,1,182.77,182.77,pood,Tallinn,kaart,119.04,Elegantne siidine teksapüksid,naiste_riided,182.77,119.04,63.73,34.87
+975,INV-202304-00092,2023-04-22,4803.0,1095,2,140.64,281.28,pood,Pärnu,sularaha,93.17,Minimalistlik villane bleiser,laste_riided,281.28,186.34,94.94,33.75
+976,INV-202304-00093,2023-04-11,2294.0,1344,1,84.95,84.95,pood,Tallinn,sularaha,58.63,Mugav softshell teksapüksid,laste_riided,84.95,58.63,26.32,30.98
+977,INV-202304-00094,2023-04-25,2603.0,1227,3,120.17,360.51,pood,Tartu,järelmaks,77.08,Mugav kangast tennised,jalanõusid,360.51,231.24,129.27,35.86
+978,INV-202304-00095,2023-04-27,4181.0,1169,2,88.08,176.16,pood,Tallinn,järelmaks,58.08,Minimalistlik trikoo tuulejope,laste_riided,176.16,116.16,60.0,34.06
+979,INV-202304-00096,2023-04-13,2828.0,1206,3,22.7,68.1,online,,kaart,22.7,Vintage villane kangasvöö,aksessuaarid,68.1,68.1,0.0,0.0
+980,INV-202304-00097,2023-04-25,4705.0,1042,3,347.84,1043.52,online,,sularaha,223.47,Luksuslik teksane polo särk,meeste_riided,1043.52,670.41,373.11,35.75
+981,INV-202304-00098,2023-04-23,2713.0,1246,1,204.87,204.87,pood,Tallinn,järelmaks,133.03,Praktiline villane kott,aksessuaarid,204.87,133.03,71.84,35.07
+982,INV-202304-00099,2023-04-16,4438.0,1234,1,162.86,162.86,online,,sularaha,101.94,Klassikaline siidine tuulejope,naiste_riided,162.86,101.94,60.92,37.41
+983,INV-202304-00100,2023-04-20,3689.0,1034,1,207.23,207.23,pood,Tallinn,kaart,145.76,Minimalistlik villane nahk sandaalid,jalanõusid,207.23,145.76,61.47,29.66
+984,INV-202304-00101,2023-04-01,4090.0,1202,1,22.04,22.04,online,,järelmaks,13.3,Elegantne metallist sall,aksessuaarid,22.04,13.3,8.74,39.66
+985,INV-202304-00102,2023-04-24,3605.0,1024,3,117.05,351.15,online,,järelmaks,76.35,Trendikas kangast nokamüts,aksessuaarid,351.15,229.05,122.1,34.77
+986,INV-202304-00103,2023-04-17,3044.0,1344,2,65.51,169.9,pood,Pärnu,kaart,58.63,Mugav softshell teksapüksid,laste_riided,169.9,117.26,52.64,30.98
+987,INV-202304-00104,2023-04-11,2110.0,1230,2,55.04,110.08,pood,Tartu,järelmaks,34.21,Minimalistlik villane pühapäevakleit,laste_riided,110.08,68.42,41.66,37.85
+988,INV-202304-00105,2023-04-15,3045.0,1279,1,66.21,66.21,pood,Tallinn,järelmaks,44.52,Luksuslik orgaaniline dressikomplekt,laste_riided,66.21,44.52,21.69,32.76
+989,INV-202304-00106,2023-04-29,3556.0,1090,1,281.19,281.19,online,,kaart,197.07,Moodne merino villane triiksärk,meeste_riided,281.19,197.07,84.12,29.92
+990,INV-202304-00107,2023-04-03,2987.0,1337,1,272.05,272.05,pood,Tartu,järelmaks,193.79,Praktiline viskoosne õhtukleit,naiste_riided,272.05,193.79,78.26,28.77
+991,INV-202304-00108,2023-04-09,4413.0,1011,3,53.99,161.97,online,,järelmaks,35.43,Moodne villane pühapäevakleit,laste_riided,161.97,106.29,55.68,34.38
+992,INV-202304-00109,2023-04-01,3164.0,1198,1,291.72,291.72,pood,Tallinn,sularaha,186.77,Õhuline sünteetiline kõrge kontsaga kingad,jalanõusid,291.72,186.77,104.95,35.98
+993,INV-202304-00110,2023-04-23,4178.0,1031,1,434.08,434.08,online,,järelmaks,266.31,Õhuline sünteetiline sporditossud,jalanõusid,434.08,266.31,167.77,38.65
+994,INV-202304-00111,2023-04-03,4754.0,1339,1,35.68,35.68,online,,järelmaks,24.14,Moodne puuvillane komplekt,laste_riided,35.68,24.14,11.54,32.34
+995,INV-202304-00112,2023-04-12,4708.0,1106,1,47.88,47.88,online,,sularaha,33.77,Praktiline klaasist sõrmkindad,aksessuaarid,47.88,33.77,14.11,29.47
+996,INV-202304-00113,2023-04-01,2860.0,1276,1,187.16,187.16,online,,sularaha,126.55,Trendikas sünteetiline platvorm sandaalid,jalanõusid,187.16,126.55,60.61,32.38
+997,INV-202304-00114,2023-04-06,,1225,1,116.87,116.87,online,,kaart,75.66,Moodne kangast derbyd,jalanõusid,116.87,75.66,41.21,35.26
+998,INV-202304-00115,2023-04-28,2119.0,1267,2,66.88,133.76,online,,järelmaks,40.57,Minimalistlik keraamiline sall,aksessuaarid,133.76,81.14,52.62,39.34
+999,INV-202304-00116,2023-04-27,,1329,1,110.02,110.02,pood,Tallinn,järelmaks,65.74,Moodne viskoosne teksapüksid,naiste_riided,110.02,65.74,44.28,40.25
+1000,INV-202304-00117,2023-04-26,3696.0,1176,2,245.59,491.18,online,,sularaha,159.4,Boheemlaslik merino villane kapuutsiga pusa,naiste_riided,491.18,318.8,172.38,35.1
+1001,INV-202304-00118,2023-04-08,3280.0,1293,2,351.33,702.66,pood,Tallinn,sularaha,217.33,Boheemlaslik linane pullover,naiste_riided,702.66,434.66,268.0,38.14
+1002,INV-202304-00119,2023-04-11,2889.0,1297,1,104.27,104.27,pood,Pärnu,sularaha,68.96,Trendikas trikoo skaterkleit,laste_riided,104.27,68.96,35.31,33.86
+1003,INV-202304-00120,2023-04-19,2530.0,1245,1,228.81,228.81,pood,Tallinn,järelmaks,154.84,Trendikas nahkne oxfordid,jalanõusid,228.81,154.84,73.97,32.33
+1004,INV-202304-00121,2023-04-18,,1146,1,35.94,31.65,pood,Tallinn,järelmaks,22.19,Trendikas trikoo jakk,laste_riided,31.65,22.19,9.46,29.89
+1005,INV-202304-00122,2023-04-15,3451.0,1184,2,86.14,172.28,pood,Tartu,sularaha,59.8,Sportlik puuvillane chino püksid,laste_riided,172.28,119.6,52.68,30.58
+1006,INV-202304-00123,2023-04-18,,1158,3,70.01,210.03,pood,Tallinn,sularaha,42.44,Praktiline flanellne linane särk,meeste_riided,210.03,127.32,82.71,39.38
+1007,INV-202304-00124,2023-04-07,,1208,1,76.7,76.7,pood,Tartu,sularaha,51.35,Luksuslik linane bleiser,naiste_riided,76.7,51.35,25.35,33.05
+1008,INV-202304-00125,2023-04-05,3624.0,1008,1,280.13,280.13,pood,Pärnu,sularaha,167.26,Minimalistlik nahkne platvormi kontsad,jalanõusid,280.13,167.26,112.87,40.29
+1009,INV-202304-00126,2023-04-11,4673.0,1057,1,251.52,251.52,online,,järelmaks,173.38,Õhuline villane platvorm sandaalid,jalanõusid,251.52,173.38,78.14,31.07
+1010,INV-202304-00127,2023-04-15,3434.0,1317,2,62.55,125.1,online,,kaart,40.34,Soe kangast nahk sandaalid,jalanõusid,125.1,80.68,44.42,35.51
+1011,INV-202304-00128,2023-04-04,3130.0,1152,2,107.67,215.34,online,,kaart,65.22,Vintage teksane chino püksid,meeste_riided,215.34,130.44,84.9,39.43
+1012,INV-202304-00129,2023-04-29,3350.0,1002,5,274.78,1373.9,pood,Tartu,järelmaks,173.56,Mugav linane linane kostüüm,meeste_riided,1373.9,867.8,506.1,36.84
+1013,INV-202304-00130,2023-04-07,,1033,2,221.42,442.84,pood,Tallinn,sularaha,149.36,Moodne seemisnahkne oxfordid,jalanõusid,442.84,298.72,144.12,32.54
+1014,INV-202304-00131,2023-04-20,4310.0,1044,1,83.23,83.23,online,,kaart,49.0,Moodne kashmiir seelik,naiste_riided,83.23,49.0,34.23,41.13

@@ -1,15 +1,32 @@
-# UrbanStyle Sales Analytics: End-to-End Pipeline
+# UrbanStyle Sales Analytics Pipeline
 
-## 🎯 Project Overview
-This project simulates a real-world data analytics pipeline for the e-commerce brand **UrbanStyle**. The goal is to provide the Chief Executive Officer (CEO) with clear, actionable insights regarding monthly sales trends, customer demographics, and product performance.
+## Project Overview
+This project focuses on building an end-to-end data pipeline to analyze the profitability of UrbanStyle.ltd. By integrating sales data with product costs and category information, this pipeline provides actionable insights into profit margins and sales channel performance.
 
-## 🏗️ Project Architecture
-The project is built sequentially across three distinct stages:
-1. **Data Extraction (SQL):** Querying and joining raw data from the production database.
-2. **Data Transformation (Python/Pandas):** Cleaning missing values, formatting data types, and aggregating sales metrics.
-3. **Data Visualization (Power BI):** Building an interactive executive dashboard to track business growth.
+## Tech Stack
+- **Python (Pandas, NumPy):** Used for ETL (Extract, Transform, Load) processes and data cleaning.
+- **Supabase:** The cloud-based PostgreSQL database source.
+- **Plotly:** Used for rapid data visualization and diagnostic analysis.
+- **Power BI:** The final destination for interactive business intelligence dashboards.
 
-## 📊 Key Business Questions Answered
-* What are our total revenue trends month-over-month?
-* Who are our primary customer segments by age and location?
-* Which product categories drive the highest sales volume?
+## Key Features
+- **Data Enrichment:** Merging transactional sales data with static product data to calculate real-time profitability.
+- **Financial Metrics:** Automated calculation of `revenue`, `cost`, `profit`, and `margin_pct` (rounded to 2 decimal places).
+- **Quality Control:** Built-in logging with `logging` library to track pipeline execution and error handling.
+- **Scalability:** The pipeline is designed to be modular, allowing for easy addition of new metrics or data sources.
+
+## Workflow
+1. **Extraction:** Fetching raw data from Supabase.
+2. **Transformation:** - Merging `sales` and `products` tables.
+   - Calculating margins and handling potential division-by-zero errors.
+3. **Visualization:** - Diagnostic analysis in Jupyter Notebooks using Plotly.
+   - Final dashboard design in Power BI.
+
+## How to Run
+1. Install dependencies: `pip install pandas numpy python-dotenv supabase plotly`
+2. Configure your `.env` file with `SUPABASE_URL` and `SUPABASE_KEY`.
+3. Run the pipeline: `python scripts/profitability_pipeline.py`
+4. Access processed data in `data/urbanstyle_final_data.csv` for your BI tools.
+
+---
+*Created for UrbanStyle.ltd Data Analysis Portfolio.*
