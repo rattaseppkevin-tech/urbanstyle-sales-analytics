@@ -27,7 +27,6 @@ def run_pipeline():
         # 3. DATA FETCHING
         logger.info("Fetching data from tables...")
         sales = pd.DataFrame(supabase.table("sales").select("*").execute().data)
-        # Otsi üles see rida ja lisa sinna , category
         products = pd.DataFrame(supabase.table("products").select("product_id, cost_price, product_name, category").execute().data)
         # 4. DATA TRANSFORMATION (ETL)
         logger.info("Merging data and calculating metrics...")
