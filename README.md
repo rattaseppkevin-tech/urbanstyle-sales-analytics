@@ -4,7 +4,8 @@ An end-to-end data engineering and business intelligence solution that automates
 
 ## 📸 Executive Dashboard Preview
 
-[Dashboard](https://github.com/rattaseppkevin-tech/urbanstyle-sales-analytics/blob/main/Dashboard/urbanstyle_sales_dashboard.pdf)
+[Dashboard](https://github.com/rattaseppkevin-tech/urbanstyle-sales-analytics/blob/main/Dashboard/urbanstyle_sales_dashboard.pdf) 
+[SQL Analysis](https://github.com/rattaseppkevin-tech/urbanstyle-sales-analytics/blob/main/SQL/profitability_analysis.sql)
 ---
 
 ## 🚨 The Business Problem (The "Why?")
