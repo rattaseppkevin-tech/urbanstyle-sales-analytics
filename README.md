@@ -4,9 +4,8 @@ An end-to-end data engineering and business intelligence solution that automates
 
 ## 📸 Executive Dashboard Preview
 
-[Dashboard](https://github.com/rattaseppkevin-tech/urbanstyle-sales-analytics/blob/main/Dashboard/urbanstyle_sales_dashboard.pdf), 
-[SQL Analysis](https://github.com/rattaseppkevin-tech/urbanstyle-sales-analytics/blob/main/SQL/profitability_analysis.sql) 
-[Pipeline](https://github.com/rattaseppkevin-tech/urbanstyle-sales-analytics/blob/main/Python/profability_pipeline.py)
+[Dashboard](https://github.com/rattaseppkevin-tech/urbanstyle-sales-analytics/blob/main/Dashboard/urbanstyle_sales_dashboard.pdf)
+
 ---
 
 ## 🚨 The Business Problem (The "Why?")
@@ -20,7 +19,7 @@ Many retail businesses track top-line Revenue but remain blind to their true net
 ## 💡 The Solution & Business Impact
 This project replaces manual reporting with a fully automated data pipeline and an interactive executive dashboard, delivering immediate business value:
 
-* **[100% Automated ETL:]((https://github.com/rattaseppkevin-tech/urbanstyle-sales-analytics/blob/main/SQL/profitability_analysis.sql) )** Saves the data team hours of manual work weekly by engineering a hands-off Python pipeline.
+* **[100% Automated ETL:](https://github.com/rattaseppkevin-tech/urbanstyle-sales-analytics/blob/main/Python/profability_pipeline.py)** Saves the data team hours of manual work weekly by engineering a hands-off Python pipeline.
 * **True Profit Visibility:** Shifts the company focus from vanity metrics (Revenue) to sanity metrics (**Net Profit** and **Profit Margin %**).
 * **Proactive Risk Mitigation:** Highlights immediate operational anomalies—such as the sharp revenue decline observed between 2024 ($1.47M) and 2025/2026—allowing executives to pivot strategy before it impacts the bottom line.
 
