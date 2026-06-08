@@ -6,11 +6,14 @@ from dotenv import load_dotenv
 from supabase import create_client
 
 # 1. LOGGING CONFIGURATION
+# Create the Logs directory if it doesn't exist yet
+os.makedirs("Logs", exist_ok=True)
+
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler("pipeline.log"),
+        logging.FileHandler("Logs/pipeline.log"),  # Redirected path
         logging.StreamHandler()
     ]
 )
